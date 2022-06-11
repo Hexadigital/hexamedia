@@ -8,7 +8,7 @@ PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['i18n_subsites']
 SITENAME = 'HexaMedia'
 SITEURL = 'https://hexa.media'
-THEME = '../pelican-themes/pelican-bootstrap3/'
+THEME = 'pelican-bootstrap3'
 TIMEZONE = 'America/Detroit'
 
 # About Me
@@ -16,9 +16,12 @@ ABOUT_ME = 'Hex is a software developer, game reviewer, gardener, music producer
 AVATAR = 'images/avatar.png'
 
 # Blogroll
-LINKS = (
+'''LINKS = (
     ('Pelican', 'https://getpelican.com/'),
-)
+)'''
+
+# Footer
+FOOTER_IMAGES = ['images/budgie.png']
 
 # RSS
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -33,7 +36,7 @@ RSS_FEED_SUMMARY_ONLY = False
 # Shariff
 SHARIFF = True
 SHARIFF_LANG = 'en'
-SHARIFF_SERVICES = "['facebook','twitter']"
+SHARIFF_SERVICES = "[&quot;facebook&quot;,&quot;googleplus&quot;]"
 
 # Social widget
 SOCIAL = (
