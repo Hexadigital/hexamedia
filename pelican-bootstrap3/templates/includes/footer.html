@@ -24,7 +24,7 @@
       {% if FOOTER_IMAGES %}
         <div class="row text-center">
           {% for FOOTER_IMAGE in FOOTER_IMAGES %}
-          <img src="{{ FOOTER_IMAGE }}"/>
+          <img src="{{ SITEURL }}/{{ FOOTER_IMAGE }}"/>
           {% endfor %}
         </div>
       {% endif %}
