@@ -43,6 +43,7 @@ SOCIAL = (
     ('YouTube', 'https://www.youtube.com/c/HexsGameplay'),
 )
 
+USE_PAGER = True
 DEFAULT_PAGINATION = 10
 
 # URL Rules
