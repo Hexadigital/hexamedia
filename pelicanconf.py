@@ -33,11 +33,6 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 RSS_FEED_SUMMARY_ONLY = False
 
-# Shariff
-SHARIFF = True
-SHARIFF_LANG = 'en'
-SHARIFF_SERVICES = "[&quot;facebook&quot;,&quot;googleplus&quot;]"
-
 # Social widget
 SOCIAL = (
     ('Discord', 'https://discord.gg/a9khY6U'),
@@ -59,5 +54,4 @@ CATEGORY_SAVE_AS = '{slug}/index.html'
 TAG_URL = 'tagged/{slug}.html'
 TAG_SAVE_AS = 'tagged/{slug}.html'
 AUTHOR_SAVE_AS = ''
-# Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
