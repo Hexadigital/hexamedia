@@ -2,6 +2,6 @@
 <b>Tagged:</b> 
 {% for tag in article.tags %}
     <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-    {% if not loop.last %}, {% endif %}
+    {% if not loop.last %}|{% endif %}
 {% endfor %}
 {% endif %}
