@@ -46,11 +46,6 @@
         {% if page.title %}
         <h1 class="entry-title">{{ page.title }}</h1>
         {% endif %}
-        {% if PDF_PROCESSOR %}
-            <a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">
-                get the pdf
-            </a>
-        {% endif %}
         <div class="entry-content">
             {{ page.content }}
         </div>

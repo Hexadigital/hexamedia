@@ -14,10 +14,4 @@
         <span class="label label-default">{{ _('Category') }}</span>
         <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
     {% endif %}
-
-    {% if PDF_PROCESSOR %}
-        <span class="label label-default">
-            <a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">PDF</a>
-        </span>
-    {% endif %}
 </footer><!-- /.post-info -->
