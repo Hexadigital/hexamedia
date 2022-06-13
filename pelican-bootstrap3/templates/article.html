@@ -88,7 +88,6 @@
 			{% include 'includes/taglist.html' %}
             {% include 'includes/related-posts.html' %}
             {% include 'includes/series.html' %}
-            {% include 'includes/shariff.html' %}
             {% include 'includes/show_source.html' %}
         </article>
     </section>
@@ -96,8 +95,4 @@
 {% endblock %}
 
 {% block scripts %}
-{% if SHARIFF|default(false) %}
-    <!-- add shariff support -->
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/shariff.min.js"></script>
-{% endif %}
 {% endblock %}
