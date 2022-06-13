@@ -35,9 +35,6 @@
     {% if USE_OPEN_GRAPH %}
     {% block opengraph %}
     <!-- Open Graph tags -->
-        {% if OPEN_GRAPH_FB_APP_ID %}
-            <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
-        {% endif %}
         <meta property="og:site_name" content="{{ SITENAME }}" />
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="{{ SITENAME }}"/>
