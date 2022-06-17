@@ -1,10 +1,10 @@
-Title: Jewel Match Solitaire X Collector's Edition | Part 6
+Title: Jewel Match Solitaire X Collector's Edition | Part 7
 Date: 2022-06-17 13:01
 Category: Gameplay
 Tags: jewel match solitaire x, solitaire, card game, steam, proton
-Slug: jewel-match-solitaire-x-p6
+Slug: jewel-match-solitaire-x-p7
 Author: Hexadigital
-Summary: Part 6 in a playthrough of Jewel Match Solitaire X Collector's Edition.
+Summary: Part 7 in a playthrough of Jewel Match Solitaire X Collector's Edition.
 og_image: images/steam/1944780.jpg
 Appid: 1944780
 
