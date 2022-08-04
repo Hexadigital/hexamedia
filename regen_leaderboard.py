@@ -2,14 +2,15 @@ import datetime
 
 # TODO: replace with non-hardcoded list
 users = {
-	'armadevil': 1,
+	'armadevil': 2,
 	'doctagon': 1,
-	'hell_errol': 2,
-	'jimmy_mapp': 4,
-	'Mi5KL_': 3,
-	'Nanodan_': 6,
-	'Ratyyy': 1,
-	'SwooshyCueb': 1,
+	'hell_errol': 3,
+	'jimmy_mapp': 5,
+	'Mi5KL_': 4,
+	'Nanodan_': 7,
+	'Ratyyy': 2,
+	'SwooshyCueb': 2,
+	'Weiss_Hikari': 1,
 	'Wishengrad': 2,
 }
 
