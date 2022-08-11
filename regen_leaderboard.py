@@ -2,16 +2,16 @@ import datetime
 
 # TODO: replace with non-hardcoded list
 users = {
-	'armadevil': 5,
+	'armadevil': 6,
 	'doctagon': 1,
-	'hell_errol': 7,
-	'jimmy_mapp': 8,
+	'hell_errol': 8,
+	'jimmy_mapp': 9,
 	'Mi5KL_': 6,
-	'Nanodan_': 12,
+	'Nanodan_': 13,
 	'Ratyyy': 4,
-	'SwooshyCueb': 4,
+	'SwooshyCueb': 5,
 	'Weiss_Hikari': 1,
-	'Wishengrad': 7,
+	'Wishengrad': 8,
 }
 
 print("Regenerating leaderboard...")
