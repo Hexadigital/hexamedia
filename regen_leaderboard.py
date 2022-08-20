@@ -4,16 +4,16 @@ import datetime
 users = {
 	'armadevil': 7,
 	'doctagon': 3,
-	'hell_errol': 11,
-	'jimmy_mapp': 12,
+	'hell_errol': 12,
+	'jimmy_mapp': 13,
 	'LordLiquidBaconII': 1,
 	'Mi5KL_': 7,
 	'Nanodan_': 16,
-	'Ratyyy': 7,
+	'Ratyyy': 8,
 	'sudowoodoaapp2': 1,
 	'SwooshyCueb': 5,
 	'Weiss_Hikari': 2,
-	'Wishengrad': 11,
+	'Wishengrad': 12,
 }
 
 print("Regenerating leaderboard...")
