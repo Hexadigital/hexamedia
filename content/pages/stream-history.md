@@ -7,7 +7,7 @@ This is a list of games that I streamed from start to end.
 You can also see them [on Remember.Games](https://remember.games/customlist/17/) if you prefer to see game covers rather than a list.
 
 ### Ongoing
-[Fantasy Mosaics 2](https://remember.games/game/6395/fantasy-mosaics-2/)
+[Fantasy Mosaics 2](https://remember.games/game/6395/fantasy-mosaics-2/) (2022-08-25 -> ????-??-??)
 
 [L.A. Noire](https://remember.games/game/4207/) (2022-08-03 -> ????-??-??)
 
