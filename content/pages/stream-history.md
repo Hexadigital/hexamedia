@@ -7,11 +7,15 @@ This is a list of games that I streamed from start to end.
 You can also see them [on Remember.Games](https://remember.games/customlist/17/) if you prefer to see game covers rather than a list.
 
 ### Ongoing
+[Fantasy Mosaics 2](https://remember.games/game/6395/fantasy-mosaics-2/)
+
 [L.A. Noire](https://remember.games/game/4207/) (2022-08-03 -> ????-??-??)
 
 [Mega Man ZX](https://remember.games/game/2297/) (2022-08-12 -> ????-??-??)
 
 ### Completed
+[100 Hidden Birds](https://remember.games/game/6444/) (2022-08-28)
+
 [Coffee Talk](https://remember.games/game/718/coffee-talk/) (2022-07-06 -> 2022-07-28)
 
 [Grim Dawn](https://remember.games/game/178/grim-dawn/) (2022-06-16 -> 2022-08-05)
