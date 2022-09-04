@@ -4,7 +4,7 @@ Category: Gameplay
 Tags: giga wrecker, action, platform, steam, proton
 Slug: giga-wrecker-2017-p6
 Author: Hexadigital
-Summary: Giga Wrecker: Versus Astra Kahu & Ketu [Part 6]
+Summary: Part 6 in a playthrough of Giga Wrecker.
 og_image: images/steam/454410.jpg
 Appid: 454410
 
