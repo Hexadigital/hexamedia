@@ -5,13 +5,13 @@ users = {
 	'armadevil': 10,
 	'doctagon': 13,
 	'glyx0': 1,
-	'hell_errol': 22,
-	'jimmy_mapp': 24,
-	'LordLiquidBaconII': 2,
-	'Mi5KL_': 14,
+	'hell_errol': 23,
+	'jimmy_mapp': 25,
+	'LordLiquidBaconII': 3,
+	'Mi5KL_': 15,
 	'MoodyPresence_': 11,
 	'nabunan': 1,
-	'Nanodan_': 32,
+	'Nanodan_': 33,
 	'Ratyyy': 18,
 	'Rezuul': 1,
 	'peteshroon': 2,
@@ -21,7 +21,7 @@ users = {
 	'SwooshyCueb': 5,
 	'TheGenieA1': 1,
 	'Weiss_Hikari': 7,
-	'Wishengrad': 27,
+	'Wishengrad': 28,
 }
 
 print("Regenerating leaderboard...")

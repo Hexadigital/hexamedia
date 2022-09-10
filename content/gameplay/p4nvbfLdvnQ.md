@@ -1,7 +1,7 @@
 Title: Super Robot Wars J (2005) | Gameplay
 Date: 2022-09-08 18:05
 Category: Gameplay
-Tags: super robot wars j, mecha, rpg, strategy, proton
+Tags: super robot wars j, mecha, rpg, strategy
 Slug: super-robot-wars-j-2005
 Author: Hexadigital
 Summary: A first impressions gameplay video for Super Robot Wars J.
