@@ -7,14 +7,18 @@ This is a list of games that I streamed from start to end.
 You can also see them [on Remember.Games](https://remember.games/customlist/17/) if you prefer to see game covers rather than a list.
 
 ### Ongoing
-[Fantasy Mosaics 2](https://remember.games/game/6395/fantasy-mosaics-2/) (2022-08-25 -> ????-??-??)
+[Fantasy Mosaics 5](https://remember.games/game/6529/fantasy-mosaics-5/) (2022-09-04 -> ????-??-??)
 
-[L.A. Noire](https://remember.games/game/4207/) (2022-08-03 -> ????-??-??)
+[L.A. Noire](https://remember.games/game/4207/la-noire/) (2022-08-03 -> ????-??-??)
+
+[Mega Man ZX Advent](https://remember.games/game/2294/mega-man-zx-advent/) (2022-09-09 -> ????-??-??)
 
 ### Completed
-[100 Hidden Birds](https://remember.games/game/6444/) (2022-08-28)
+[100 Hidden Birds](https://remember.games/game/6444/100-hidden-birds/) (2022-08-28)
 
 [Coffee Talk](https://remember.games/game/718/coffee-talk/) (2022-07-06 -> 2022-07-28)
+
+[Fantasy Mosaics 2](https://remember.games/game/6395/fantasy-mosaics-2/) (2022-08-25 -> 2022-09-04)
 
 [Grim Dawn](https://remember.games/game/178/grim-dawn/) (2022-06-16 -> 2022-08-05)
 
@@ -24,4 +28,4 @@ You can also see them [on Remember.Games](https://remember.games/customlist/17/)
 
 [Mega Man Zero 4](https://remember.games/game/4372/mega-man-zero-4/) (2022-07-16 -> 2022-08-05)
 
-[Mega Man ZX](https://remember.games/game/2297/) (2022-08-12 -> 2022-09-03)
+[Mega Man ZX](https://remember.games/game/2297/mega-man-zx/) (2022-08-12 -> 2022-09-03)
