@@ -7,8 +7,6 @@ This is a list of games that I streamed from start to end.
 You can also see them [on Remember.Games](https://remember.games/customlist/17/) if you prefer to see game covers rather than a list.
 
 ### Ongoing
-[Fantasy Mosaics 5](https://remember.games/game/6529/fantasy-mosaics-5/) (2022-09-04 -> ????-??-??)
-
 [L.A. Noire](https://remember.games/game/4207/la-noire/) (2022-08-03 -> ????-??-??)
 
 [Mega Man ZX Advent](https://remember.games/game/2294/mega-man-zx-advent/) (2022-09-09 -> ????-??-??)
@@ -19,6 +17,8 @@ You can also see them [on Remember.Games](https://remember.games/customlist/17/)
 [Coffee Talk](https://remember.games/game/718/coffee-talk/) (2022-07-06 -> 2022-07-28)
 
 [Fantasy Mosaics 2](https://remember.games/game/6395/fantasy-mosaics-2/) (2022-08-25 -> 2022-09-04)
+
+[Fantasy Mosaics 5](https://remember.games/game/6529/fantasy-mosaics-5/) (2022-09-04 -> 2022-09-13)
 
 [Grim Dawn](https://remember.games/game/178/grim-dawn/) (2022-06-16 -> 2022-08-05)
 
