@@ -22,6 +22,8 @@ You can also see them [on Remember.Games](https://remember.games/customlist/17/)
 
 [Grim Dawn](https://remember.games/game/178/grim-dawn/) (2022-06-16 -> 2022-08-05)
 
+[Mario vs. Donkey Kong](https://remember.games/game/4327/mario-vs-donkey-kong/) (2022-09-15 -> 2022-09-16)
+
 [Mega Man Zero 2](https://remember.games/game/4361/mega-man-zero-2/) (2022-06-24 -> 2022-07-01)
 
 [Mega Man Zero 3](https://remember.games/game/4374/mega-man-zero-3/) (2022-07-08 -> 2022-07-15)
