@@ -2,9 +2,9 @@ Title: Coffee Talk (2020) | September 30th [Part 9]
 Date: 2022-09-16 13:15
 Category: Gameplay
 Tags: coffee talk, coffee, vn, visual novel, steam
-Slug: coffee-talk-2020-p8
+Slug: coffee-talk-2020-p9
 Author: Hexadigital
-Summary: Part 8 in a playthrough of Coffee Talk.
+Summary: Part 9 in a playthrough of Coffee Talk.
 og_image: images/steam/914800.jpg
 Appid: 914800
 
