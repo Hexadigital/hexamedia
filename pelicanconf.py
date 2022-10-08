@@ -40,7 +40,7 @@ SOCIAL = (
     ('Patreon', 'https://www.patreon.com/hexadigital'),
     ('Steam', 'https://store.steampowered.com/curator/34633900/'),
     ('Twitch', 'https://www.twitch.tv/hexadigital'),
-    ('Twitter', 'https://twitter.com/HexsGameplay'),
+    ('Twitter', 'https://twitter.com/Hexadigital_'),
     ('YouTube', 'https://www.youtube.com/c/HexsGameplay'),
 )
 
