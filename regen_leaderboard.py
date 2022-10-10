@@ -7,9 +7,9 @@ users = {
 	'glyx0': 1,
 	'hell_errol': 39,
 	'jimmy_mapp': 42,
-	'LordLiquidBaconII': 20
+	'LordLiquidBaconII': 20,
 	'Mi5KL_': 23,
-	'MoodyPresence_': 25
+	'MoodyPresence_': 25,
 	'nabunan': 6,
 	'Nanodan_': 54,
 	'Ratyyy': 28,
@@ -21,7 +21,7 @@ users = {
 	'sudowoodoaapp2': 1,
 	'SwooshyCueb': 6,
 	'TheGenieA1': 6,
-	'Weiss_Hikari': 10
+	'Weiss_Hikari': 10,
 	'Wishengrad': 49,
 }
 

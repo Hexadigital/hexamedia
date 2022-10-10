@@ -7,6 +7,10 @@ This is a list of games that I streamed from start to end.
 You can also see them [on Remember.Games](https://remember.games/customlist/17/) if you prefer to see game covers rather than a list.
 
 ### Ongoing
+[Dead Space](https://remember.games/game/815/dead-space/) (2022-10-06 -> ????-??-??)
+
+[Final Fantasy I & II: Dawn of Souls](https://remember.games/game/6866/final-fantasy-i-ii-dawn-of-souls/) (2022-10-07 -> ????-??-??)
+
 [L.A. Noire](https://remember.games/game/4207/la-noire/) (2022-08-03 -> ????-??-??)
 
 ### Completed
@@ -17,6 +21,8 @@ You can also see them [on Remember.Games](https://remember.games/customlist/17/)
 [Fantasy Mosaics 2](https://remember.games/game/6395/fantasy-mosaics-2/) (2022-08-25 -> 2022-09-04)
 
 [Fantasy Mosaics 5](https://remember.games/game/6529/fantasy-mosaics-5/) (2022-09-04 -> 2022-09-13)
+
+[Fantasy Mosaics 6: Into the Unknown](https://remember.games/game/6613/fantasy-mosaics-6-into-the-unknown/) (2022-09-17 -> 2022-10-10)
 
 [Grim Dawn](https://remember.games/game/178/grim-dawn/) (2022-06-16 -> 2022-08-05)
 
