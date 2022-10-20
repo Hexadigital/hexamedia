@@ -26,15 +26,40 @@ users = {
 	'Wishengrad': 54,
 }
 
+points = {
+	'armadevil': 14,
+	'doctagon': 24,
+	'glyx0': 1,
+	'hell_errol': 44,
+	'jimmy_mapp': 47,
+	'LordLiquidBaconII': 24,
+	'Mi5KL_': 26,
+	'MoodyPresence_': 29,
+	'nabunan': 6,
+	'Nanodan_': 60,
+	'Ratyyy': 31,
+	'Rezuul': 1,
+	'peteshroon': 11,
+	'ResidentRising': 5,
+	'SilasWisterum': 3,
+	'SlimRindy': 3,
+	'srdoes': 1,
+	'sudowoodoaapp2': 1,
+	'SwooshyCueb': 6,
+	'TheGenieA1': 6,
+	'Weiss_Hikari': 10,
+	'Wishengrad': 54,
+}
+
 print("Regenerating leaderboard...")
 with open('./content/pages/leaderboard.md', 'w') as out_file:
 	# Add page header
-	page = "Title: Twitch Leaderboard\nSummary: See who has attended the most Twitch streams.\nStatus: Hidden\n\nAre you missing from this list? Purchase the Stream Check-In reward during [my streams](https://twitch.tv/hexadigital) and you'll be added next time this is updated.\n\nLast Updated: "
+	page = "Title: Twitch Leaderboard\nSummary: See who has attended the most Twitch streams.\nStatus: Hidden\n\nAre you missing from this list? Purchase the Stream Check-In reward during [my streams](https://twitch.tv/hexadigital) and you'll be added next time this is updated.\n\n---\n\nRewards: (subject to approval)  \n10p: Pick a game for me to play and I'll play it for around 30min during a Sunday stream!  \n25p: Pick a transparent image and I'll put it on my stream for an entire week!  \n50p: I'll do a rough pencil sketch of your choice!  \n100p: Make a custom request!  \n---\n\nLast Updated: "
 	# Add timestamp
 	page += datetime.datetime.now().strftime('%Y-%m-%d, %H:%M Eastern')
 	# Add table header
-	page += '\n\n<table class="table">\n  <thead>\n    <tr>\n      <th scope="col">Rank</th>\n      <th scope="col">Username</th>\n      <th scope="col">Visits</th>\n    </tr>\n  </thead>\n  <tbody>\n'
-	# Group by points
+	page += '\n\n<table class="table">\n  <thead>\n    <tr>\n      <th scope="col">Rank</th>\n      <th scope="col">Username</th>\n      <th scope="col">Visits</th>\n      <th scope="col">Points</th>\n    </tr>\n  </thead>\n  <tbody>\n'
+	# Group by visits
 	sorted_leaderboard = {}
 	for user in users:
 		if users[user] in sorted_leaderboard.keys():
@@ -47,7 +72,7 @@ with open('./content/pages/leaderboard.md', 'w') as out_file:
 		# Sort alphabetically
 		point_users = sorted(sorted_leaderboard[point], key=str.casefold)
 		for user in point_users:
-			page += '    <tr>\n      <th scope="row">%s</th>\n      <td><a href="https://www.twitch.tv/%s">%s</a></td>\n      <td>%s</td>\n    </tr>\n' % (rank, user.lower(), user, point)
+			page += '    <tr>\n      <th scope="row">%s</th>\n      <td><a href="https://www.twitch.tv/%s">%s</a></td>\n      <td>%s</td>\n      <td>%s</td>\n    </tr>\n' % (rank, user.lower(), user, point, points[user])
 		rank += 1
 	page += '  </tbody>\n</table>'
 	out_file.write(page)
