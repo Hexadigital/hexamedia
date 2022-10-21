@@ -5,56 +5,56 @@ users = {
 	'armadevil': 14,
 	'doctagon': 24,
 	'glyx0': 1,
-	'hell_errol': 44,
-	'jimmy_mapp': 47,
+	'hell_errol': 45,
+	'jimmy_mapp': 48,
 	'LordLiquidBaconII': 24,
 	'Mi5KL_': 26,
-	'MoodyPresence_': 29,
+	'MoodyPresence_': 30,
 	'nabunan': 6,
-	'Nanodan_': 60,
-	'Ratyyy': 31,
+	'Nanodan_': 61,
+	'Ratyyy': 32,
 	'Rezuul': 1,
 	'peteshroon': 11,
 	'ResidentRising': 5,
 	'SilasWisterum': 3,
-	'SlimRindy': 3,
+	'SlimRindy': 4,
 	'srdoes': 1,
 	'sudowoodoaapp2': 1,
 	'SwooshyCueb': 6,
 	'TheGenieA1': 6,
 	'Weiss_Hikari': 10,
-	'Wishengrad': 54,
+	'Wishengrad': 55,
 }
 
 points = {
 	'armadevil': 14,
 	'doctagon': 24,
 	'glyx0': 1,
-	'hell_errol': 44,
-	'jimmy_mapp': 47,
+	'hell_errol': 45,
+	'jimmy_mapp': 48,
 	'LordLiquidBaconII': 24,
 	'Mi5KL_': 26,
-	'MoodyPresence_': 29,
+	'MoodyPresence_': 30,
 	'nabunan': 6,
-	'Nanodan_': 60,
-	'Ratyyy': 31,
+	'Nanodan_': 61,
+	'Ratyyy': 32,
 	'Rezuul': 1,
 	'peteshroon': 11,
 	'ResidentRising': 5,
 	'SilasWisterum': 3,
-	'SlimRindy': 3,
+	'SlimRindy': 4,
 	'srdoes': 1,
 	'sudowoodoaapp2': 1,
 	'SwooshyCueb': 6,
 	'TheGenieA1': 6,
 	'Weiss_Hikari': 10,
-	'Wishengrad': 54,
+	'Wishengrad': 55,
 }
 
 print("Regenerating leaderboard...")
 with open('./content/pages/leaderboard.md', 'w') as out_file:
 	# Add page header
-	page = "Title: Twitch Leaderboard\nSummary: See who has attended the most Twitch streams.\nStatus: Hidden\n\nAre you missing from this list? Purchase the Stream Check-In reward during [my streams](https://twitch.tv/hexadigital) and you'll be added next time this is updated.\n\n---\n\nRewards: (subject to approval)  \n10p: Pick a game for me to play and I'll play it for around 30min during a Sunday stream!  \n25p: Pick a transparent image and I'll put it on my stream for an entire week!  \n50p: I'll do a rough pencil sketch of your choice!  \n100p: Make a custom request!  \n---\n\nLast Updated: "
+	page = "Title: Twitch Leaderboard\nSummary: See who has attended the most Twitch streams.\nStatus: Hidden\n\nAre you missing from this list? Purchase the Stream Check-In reward during [my streams](https://twitch.tv/hexadigital) and you'll be added next time this is updated.\n\n---\n\nRewards: (subject to approval)  \n10p: Pick a transparent image and I'll put it on my stream for an entire week!  \n25p: Pick a game for me to play and I'll play it for around 30min during a Sunday stream!  \n50p: I'll do a rough pencil sketch of your choice!  \n100p: Make a custom request!  \n---\n\nLast Updated: "
 	# Add timestamp
 	page += datetime.datetime.now().strftime('%Y-%m-%d, %H:%M Eastern')
 	# Add table header
