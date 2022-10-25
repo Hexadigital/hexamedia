@@ -1,4 +1,4 @@
-Title: Nier Gestalt (2010) | Shade Slaughter
+Title: Nier Gestalt (2010) | Shade Slaughter [Part 1]
 Date: 2022-10-24 13:06
 Category: Gameplay
 Tags: nier, nier gestalt
