@@ -37,3 +37,5 @@ You can also see them [on Remember.Games](https://remember.games/customlist/17/)
 [Mega Man ZX](https://remember.games/game/2297/mega-man-zx/) (2022-08-12 -> 2022-09-03)
 
 [Mega Man ZX Advent](https://remember.games/game/2294/mega-man-zx-advent/) (2022-09-09 -> 2022-10-01)
+
+[The Adventures of Star Saver](https://remember.games/game/6986/) (2022-11-06 -> 2022-11-07)
