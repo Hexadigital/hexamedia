@@ -4,7 +4,7 @@ Category: Gameplay
 Tags: the adventures of star saver,  star saver,  envtuber
 Slug: the-adventures-of-star-saver-1992
 Author: Hexadigital
-Summary: A first impressions gameplay video for The Adventures of Star Saver.
+Summary: A full gameplay video for The Adventures of Star Saver.
 
 <center><iframe src="https://www.youtube.com/embed/pjk4yAq4n-8?feature=oembed" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" width="640" height="360" frameborder="0"></iframe>
 

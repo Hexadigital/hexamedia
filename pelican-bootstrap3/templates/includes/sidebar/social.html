@@ -13,6 +13,8 @@
       {% endif %}
       {% if name_sanitized in ['discord', 'patreon', 'steam', 'twitch', 'twitter', 'youtube'] %}
         {% set iconattributes = '"fa-brands fa-' ~ name_sanitized ~ ' fa-lg"' %}
+      {% elif s[0] == 'Fediverse' %}
+        {% set iconattributes = '"fa-solid fa-crow fa-lg"' %}
       {% else %}
         {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-lg"' %}
       {% endif %}
