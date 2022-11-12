@@ -1,59 +1,10 @@
 import datetime
+import json
 
-# TODO: replace with non-hardcoded list
-users = {
-	'armadevil': 14,
-	'doctagon': 26,
-	'glyx0': 1,
-	'hell_errol': 52,
-	'jimmy_mapp': 55,
-	'LordLiquidBaconII': 29,
-	'Mi5KL_': 28,
-	'MoodyPresence_': 31,
-	'nabunan': 7,
-	'Nanodan_': 68,
-	'Ratyyy': 36,
-	'Rezuul': 1,
-	'peteshroon': 11,
-	'ResidentRising': 5,
-	'SilasWisterum': 3,
-	'SlimRindy': 8,
-	'Sperbus': 1,
-	'srdoes': 1,
-	'sudowoodoaapp2': 1,
-	'SwooshyCueb': 6,
-	'thatguyfromsomewhere': 6,
-	'TheGenieA1': 8,
-	'Weiss_Hikari': 10,
-	'Wishengrad': 62,
-}
-
-points = {
-	'armadevil': 14,
-	'doctagon': 26,
-	'glyx0': 1,
-	'hell_errol': 2,
-	'jimmy_mapp': 55,
-	'LordLiquidBaconII': 29,
-	'Mi5KL_': 28,
-	'MoodyPresence_': 31,
-	'nabunan': 7,
-	'Nanodan_': 68,
-	'Ratyyy': 36,
-	'Rezuul': 1,
-	'peteshroon': 11,
-	'ResidentRising': 5,
-	'SilasWisterum': 3,
-	'SlimRindy': 8,
-	'Sperbus': 1,
-	'srdoes': 1,
-	'sudowoodoaapp2': 1,
-	'SwooshyCueb': 6,
-	'thatguyfromsomewhere': 6,
-	'TheGenieA1': 8,
-	'Weiss_Hikari': 10,
-	'Wishengrad': 62,
-}
+with open('leaderboard.json') as lb_file:
+	lb = json.load(lb_file)
+	users = lb['ranks']
+	points = lb['points']
 
 print("Regenerating leaderboard...")
 with open('./content/pages/leaderboard.md', 'w') as out_file:
