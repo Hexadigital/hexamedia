@@ -24,8 +24,6 @@ GameCube (via Dolphin)
 
 Nintendo 64 (via simple64?)
 
-SNES (via SNES Party?)
-
 Wii (via Dolphin)
 
 ### Can Play (Games)
@@ -47,10 +45,6 @@ Wii (via Dolphin)
 
 Minecraft Java Edition (with or without mods)
 
-[Old School RuneScape](https://remember.games/game/514/old-school-runescape/) (?)
-
-[Path of Exile](https://remember.games/game/2637/path-of-exile/) (?)
-
 [Portal 2](https://remember.games/game/158/portal-2/)
 
 [Satisfactory](https://remember.games/game/2152/satisfactory/)
@@ -62,5 +56,3 @@ Minecraft Java Edition (with or without mods)
 [The Elder Scrolls V: Skyrim](https://remember.games/game/163/the-elder-scrolls-v-skyrim/) (co-op mod?)
 
 [Touhou Suimusou: Immaterial and Missing Power](https://remember.games/game/5335/touhou-suimusou-immaterial-and-missing-power/)
-
-[Valkyrie Connect](https://remember.games/game/6526/valkyrie-connect/) (?)
