@@ -12,7 +12,7 @@ THEME = 'pelican-bootstrap3'
 TIMEZONE = 'America/Detroit'
 
 # About Me
-ABOUT_ME = '''Nice to meet you! I'm Hex, a VTuber (They/Them) focusing on playing games from start to end, from all eras and for all platforms. In my free time, I enjoy gardening and coding.'''
+ABOUT_ME = '''Nice to meet you! I'm Hex, a VTuber focusing on playing games from start to end, from all eras and for all platforms. In my free time, I enjoy gardening and coding.'''
 
 AVATAR = 'images/avatar.png'
 
