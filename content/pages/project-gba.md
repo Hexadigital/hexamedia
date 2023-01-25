@@ -12,37 +12,39 @@ Pokemon Mystery Dungeon - Red Rescue Team
 
 ### Completed
 
-Boktai - The Sun Is in Your Hand
+Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
-Classic NES Series - Super Mario Bros.
+[Famicom Mini 16 - Dig Dug](https://remember.games/game/6926/famicom-mini-16-dig-dug/) (2022-10-29 -> 2022-10-30, 1h)
 
-Famicom Mini 16 - Dig Dug
+[Kirby & The Amazing Mirror](https://remember.games/game/6927/kirby-and-the-amazing-mirror/) (2022-10-30 -> 2022-11-03, 7h)
 
-Kirby & The Amazing Mirror
+[Legend of Zelda, The - A Link to the Past & Four Swords](https://remember.games/game/1480/the-legend-of-zelda-a-link-to-the-past-four-swords/) (2020-12-27 -> 2021-01-20, 10.86h)
 
-Legend of Zelda, The - A Link to the Past & Four Swords
+[Mario vs. Donkey Kong](https://remember.games/game/4327/mario-vs-donkey-kong/) (2022-09-15 -> 2022-09-16, 5.5h)
 
-Legend of Zelda, The - The Minish Cap
+[Mega Man Zero](https://remember.games/game/4369/mega-man-zero/) (2022-06-10 -> 2022-11-04, 7.5h)
 
-Mario vs. Donkey Kong
+[Mega Man Zero 2](https://remember.games/game/4361/mega-man-zero-2/) (2022-06-24 -> 2022-07-02, 4.5h)
 
-Megaman Zero
+[Mega Man Zero 3](https://remember.games/game/4374/mega-man-zero-3/) (2022-07-08 -> 2022-07-16, 4.25h)
 
-Megaman Zero 2
+[Mega Man Zero 4](https://remember.games/game/4372/mega-man-zero-4/) (2022-07-16 -> 2022-08-06, 8.3h)
 
-Megaman Zero 3
+[Naruto - Ninja Council](https://remember.games/game/6952/naruto-ninja-council/) (2022-11-01, 2.25h)
 
-Megaman Zero 4
-
-Naruto - Ninja Council
+[Snood](https://remember.games/game/6761/snood/) (2022-09-19 -> 2023-01-25, 4.5h)
 
 ### Tried, Will Continue
+
+[Boktai - The Sun Is in Your Hand](https://remember.games/game/107/boktai-the-sun-is-in-your-hand/) (replay)
 
 Car Battler Joe
 
 Fire Emblem
 
 Guilty Gear X - Advance Edition
+
+Legend of Zelda, The - The Minish Cap (replay)
 
 Mario Party Advance
 
@@ -61,8 +63,6 @@ Pokemon Pinball - Ruby & Sapphire
 Rockman EXE 4.5 - Real Operation
 
 Sims, The - Bustin' Out
-
-Snood
 
 Snood 2 - On Vacation
 
