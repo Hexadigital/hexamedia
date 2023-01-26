@@ -6,13 +6,15 @@ This is a list of all the games released for the Game Boy Advance, and my status
 
 ### Playing
 
-Final Fantasy I & II - Dawn of Souls
+[Final Fantasy I & II - Dawn of Souls](https://remember.games/game/6866/final-fantasy-i-ii-dawn-of-souls/)
 
-Pokemon Mystery Dungeon - Red Rescue Team
+[Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/)
 
 ### Completed
 
 Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
+
+[Elf Bowling 1 & 2](https://remember.games/game/7294/elf-bowling-1-2/) (2023-01-23 -> 2023-01-24, 0.5h)
 
 [Famicom Mini 16 - Dig Dug](https://remember.games/game/6926/famicom-mini-16-dig-dug/) (2022-10-29 -> 2022-10-30, 1h)
 
@@ -34,11 +36,15 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
 [Snood](https://remember.games/game/6761/snood/) (2022-09-19 -> 2023-01-25, 4.5h)
 
+[Touhou Kaisekiki: Arabasiri](https://remember.games/game/7258/touhou-kaisekiki-arabasiri/) (2022-01-23 -> 2022-01-24, 4h)
+
 ### Tried, Will Continue
 
 [Boktai - The Sun Is in Your Hand](https://remember.games/game/107/boktai-the-sun-is-in-your-hand/) (replay)
 
 Car Battler Joe
+
+Chicken Little
 
 Fire Emblem
 
@@ -504,8 +510,6 @@ Cheetah Girls, The
 
 Chessmaster
 
-Chicken Little
-
 Chicken Shoot
 
 Chicken Shoot 2
@@ -893,8 +897,6 @@ Elemix!
 Elevator Action - Old & New
 
 Elf - The Movie
-
-Elf Bowling 1 & 2
 
 Enchanted - Once Upon Andalasia
 
