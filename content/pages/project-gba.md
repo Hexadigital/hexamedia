@@ -76,6 +76,8 @@ Tetris Worlds
 
 ### Tried, Dropped
 
+[Need for Speed - Underground](https://remember.games/game/7311/) (2023-01-27)
+
 ### Unplayed
 
 007 - Everything or Nothing
@@ -2033,8 +2035,6 @@ Need for Speed - Carbon - Own the City
 Need for Speed - Most Wanted
 
 Need for Speed - Porsche Unleashed
-
-Need for Speed - Underground
 
 Need for Speed - Underground 2
 
