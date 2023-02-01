@@ -6,13 +6,19 @@ This is a list of games that cannot be requested using the "Pick a Game For Me t
 
 ### General
 
-Any game containing NSFW content.
+Any game containing NSFW (explicit) content.
+
+Any game that centers around sport management or sports, with a few exceptions. (ask first)
 
 Any game that is multiplayer only.
 
 Any game that is only available for phones. (such as Android or iOS exclusives)
 
+Any game that is only available for VR.
+
 ### Series
+
+Borderlands
 
 Elf Bowling
 
@@ -22,7 +28,15 @@ Friday Night Funkin'
 
 Gex (other than Gex: Enter the Gecko since I already started it)
 
+Harry Potter
+
+Poppy Playtime
+
+Postal
+
 ### Specific Games
+
+Flappy Bird
 
 Getting Over It with Bennett Foddy
 
