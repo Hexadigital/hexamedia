@@ -52,6 +52,8 @@ Guilty Gear X - Advance Edition
 
 Legend of Zelda, The - The Minish Cap (replay)
 
+LEGO Island 2 - The Brickster's Revenge
+
 Mario Party Advance
 
 Pokemon - Emerald Version (replay)
@@ -1581,8 +1583,6 @@ Kurukuru Kururin
 Kururin Paradise
 
 LEGO Bionicle
-
-LEGO Island 2 - The Brickster's Revenge
 
 LEGO Racers 2
 
