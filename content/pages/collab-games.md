@@ -43,6 +43,8 @@ Wii (via Dolphin)
 
 [Kirby Air Ride](https://remember.games/game/485/kirby-air-ride/)
 
+Mario Party Superstars (Switch)
+
 Minecraft Java Edition (with or without mods)
 
 [Portal 2](https://remember.games/game/158/portal-2/)
