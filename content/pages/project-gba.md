@@ -6,8 +6,6 @@ This is a list of all the games released for the Game Boy Advance, and my status
 
 ### Playing
 
-[Final Fantasy I & II - Dawn of Souls](https://remember.games/game/6866/final-fantasy-i-ii-dawn-of-souls/)
-
 [Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/)
 
 ### Completed
@@ -17,6 +15,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 [Elf Bowling 1 & 2](https://remember.games/game/7294/elf-bowling-1-2/) (2023-01-23 -> 2023-01-24, 0.5h)
 
 [Famicom Mini 16 - Dig Dug](https://remember.games/game/6926/famicom-mini-16-dig-dug/) (2022-10-29 -> 2022-10-30, 1h)
+
+[Final Fantasy I & II - Dawn of Souls](https://remember.games/game/6866/final-fantasy-i-ii-dawn-of-souls/) (2022-10-07 -> 2023-02-18, 69.85h)
 
 [Kirby & The Amazing Mirror](https://remember.games/game/6927/kirby-and-the-amazing-mirror/) (2022-10-30 -> 2022-11-03, 7h)
 
@@ -46,13 +46,13 @@ Car Battler Joe
 
 Chicken Little
 
-Fire Emblem
+[Fire Emblem](https://remember.games/game/2532/fire-emblem/)
 
-Guilty Gear X - Advance Edition
+[Guilty Gear X - Advance Edition](https://remember.games/game/7226/guilty-gear-x-advance-edition/)
 
-Legend of Zelda, The - The Minish Cap (replay)
+[Legend of Zelda, The - The Minish Cap](https://remember.games/game/1387/the-legend-of-zelda-the-minish-cap/) (replay)
 
-LEGO Island 2 - The Brickster's Revenge
+[LEGO Island 2 - The Brickster's Revenge](https://remember.games/game/7341/lego-island-2-the-bricksters-revenge/)
 
 Mario Party Advance
 
