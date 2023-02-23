@@ -10,6 +10,8 @@ Any game containing NSFW (explicit) content.
 
 Any game that centers around sport management or sports, with a few exceptions. (ask first)
 
+Any game that centers around memes, with a few exceptions. (ask first)
+
 Any game that is multiplayer only.
 
 Any game that is only available for phones. (such as Android or iOS exclusives)
@@ -35,6 +37,8 @@ Poppy Playtime
 Postal
 
 ### Specific Games
+
+Cruelty Squad
 
 Flappy Bird
 
