@@ -13,6 +13,8 @@ You can also see them [on Remember.Games](https://remember.games/customlist/17/)
 
 [Dark Mage](https://remember.games/game/7373/dark-mage/) (2023-02-13)
 
+[Dark Souls III](https://remember.games/game/340/) (2022-11-23 -> 2023-03-02)
+
 [Fantasy Mosaics 2](https://remember.games/game/6395/fantasy-mosaics-2/) (2022-08-25 -> 2022-09-04)
 
 [Fantasy Mosaics 3: Distant Worlds](https://remember.games/game/7142/fantasy-mosaics-3-distant-worlds/) (2022-12-15 -> 2022-12-30)
