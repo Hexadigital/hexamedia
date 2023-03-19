@@ -28,7 +28,7 @@ Five Nights at Freddy's
 
 Friday Night Funkin'
 
-Gex (other than Gex: Enter the Gecko since I already started it)
+Gex
 
 Harry Potter
 
