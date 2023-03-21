@@ -3,8 +3,12 @@ import json
 
 with open('leaderboard.json') as lb_file:
 	lb = json.load(lb_file)
-	users = lb['ranks']
-	points = lb['points']
+	users = {}
+	for uid in lb['ranks'].keys():
+		users[lb["id_to_username"][uid]] = lb['ranks'][uid]
+	points = {}
+	for uid in lb['points'].keys():
+		points[lb["id_to_username"][uid]] = lb['points'][uid]
 
 print("Regenerating leaderboard...")
 with open('./content/pages/leaderboard.md', 'w') as out_file:

@@ -38,7 +38,7 @@ RSS_FEED_SUMMARY_ONLY = False
 SOCIAL = (
     ('Discord', 'https://discord.gg/a9khY6U'),
     ('Fediverse', 'https://bird.band/@Hexadigital'),
-    ('Patreon', 'https://www.patreon.com/hexadigital'),
+    #('Patreon', 'https://www.patreon.com/hexadigital'),
     ('Steam', 'https://store.steampowered.com/curator/34633900/'),
     ('Twitch', 'https://www.twitch.tv/hexadigital'),
     ('Twitter', 'https://twitter.com/Hexadigital_'),

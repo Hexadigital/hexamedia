@@ -1,7 +1,7 @@
 Title: Ballance (2004) Review
 Date: 2019-06-23 16:02
 Category: Reviews
-Tags: ballance, positive review, steam, puzzle, platform, video
+Tags: positive review
 Slug: ballance-2004
 Author: Hexadigital
 Summary: Ballance is a fun game about a material-shifting ball that you need to traverse through a series of platforms and puzzles. It’s a bit dated, but that doesn’t make it any less fun. 7/10
