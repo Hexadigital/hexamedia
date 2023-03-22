@@ -6,6 +6,8 @@ This is a list of all the games released for the Game Boy Advance, and my status
 
 ### Playing
 
+[Britney's Dance Beat](https://remember.games/game/7585/)
+
 [Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/)
 
 ### Completed
@@ -76,15 +78,17 @@ Snood 2 - On Vacation
 
 Tetris Worlds
 
+[World Championship Poker](https://remember.games/game/7584/)
+
 ### Tried, Dropped
+
+[007 - NightFire](https://remember.games/game/7586/) (2023-03-22)
 
 [Need for Speed - Underground](https://remember.games/game/7311/) (2023-01-27)
 
 ### Unplayed
 
 007 - Everything or Nothing
-
-007 - NightFire
 
 2006 FIFA World Cup - Germany 2006
 
@@ -429,8 +433,6 @@ Bratz - The Movie
 Breath of Fire
 
 Breath of Fire II
-
-Britney's Dance Beat
 
 Broken Circle
 
@@ -3129,8 +3131,6 @@ Woody Woodpecker in Crazy Castle 5
 Word Safari - The Friendship Totems
 
 World Advance Soccer - Shouri e no Michi
-
-World Championship Poker
 
 World Poker Tour
 
