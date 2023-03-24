@@ -1,7 +1,6 @@
 Title: Dead Space (2008) | Tomatoes [Part 14]
 Date: 2023-03-21 12:21
 Category: Gameplay
-Tags: gameplay
 Slug: dead-space-2008-p14
 Author: Hexadigital
 Summary: Part 14 in a playthrough of Dead Space.

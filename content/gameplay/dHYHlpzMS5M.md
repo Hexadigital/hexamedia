@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Regular Puzzle 4E, 4F, 4G, 4H [Part 19]
 Date: 2023-03-22 16:29
 Category: Gameplay
-Tags: gameplay
 Slug: picross-vp-vol-1-1999-p19
 Author: Hexadigital
 Summary: Part 19 in a playthrough of Picross NP Vol. 1.

@@ -1,7 +1,6 @@
 Title: Dead Space (2008) | The Final Plant [Part 15]
 Date: 2023-03-22 11:10
 Category: Gameplay
-Tags: gameplay
 Slug: dead-space-2008-p15
 Author: Hexadigital
 Summary: Part 15 in a playthrough of Dead Space.
