@@ -6,11 +6,11 @@ This is a list of all the games released for the Game Boy Advance, and my status
 
 ### Playing
 
-[Britney's Dance Beat](https://remember.games/game/7585/)
-
 [Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/)
 
 ### Completed
+
+[Britney's Dance Beat](https://remember.games/game/7585/) (2023-03-18 -> 2023-03-24, 2h)
 
 Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
@@ -44,9 +44,9 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
 [Boktai - The Sun Is in Your Hand](https://remember.games/game/107/boktai-the-sun-is-in-your-hand/) (replay)
 
-Car Battler Joe
+[Car Battler Joe](https://remember.games/game/7070/car-battler-joe/)
 
-Chicken Little
+[Chicken Little](https://remember.games/game/7261/disneys-chicken-little/)
 
 [Fire Emblem](https://remember.games/game/2532/fire-emblem/)
 
@@ -58,23 +58,23 @@ Chicken Little
 
 Mario Party Advance
 
-Pokemon - Emerald Version (replay)
+[Pokemon - Emerald Version](https://remember.games/game/376/pokemon-emerald-version/) (replay)
 
-Pokemon - FireRed Version (replay)
+Pokemon - FireRed Version](https://remember.games/game/377/pokemon-firered-version/) (replay)
 
-Pokemon - LeafGreen Version (replay)
+[Pokemon - LeafGreen Version](https://remember.games/game/378/pokemon-leafgreen-version/) (replay)
 
-Pokemon - Ruby Version (replay)
+[Pokemon - Ruby Version](https://remember.games/game/374/pokemon-ruby-version/) (replay)
 
-Pokemon - Sapphire Version
+[Pokemon - Sapphire Version](https://remember.games/game/375/pokemon-sapphire-version/)
 
-Pokemon Pinball - Ruby & Sapphire
+[Pokemon Pinball - Ruby & Sapphire](https://remember.games/game/371/pokemon-pinball-ruby-sapphire/)
 
-Rockman EXE 4.5 - Real Operation
+[Rockman EXE 4.5 - Real Operation](https://remember.games/game/2242/rockman-exe-45-real-operation/)
 
 Sims, The - Bustin' Out
 
-Snood 2 - On Vacation
+[Snood 2 - On Vacation](https://remember.games/game/6760/snood-2-on-vacation/)
 
 Tetris Worlds
 
