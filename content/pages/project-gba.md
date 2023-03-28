@@ -496,6 +496,8 @@ Casper
 
 Castlevania - Aria of Sorrow
 
+Castlevania: Aria of Sorrow - Persephone
+
 Castlevania - Circle of the Moon
 
 Castlevania - Harmony of Dissonance
@@ -1158,7 +1160,7 @@ GetBackers Dakkanya - Jigoku no Scaramouche
 
 GetBackers Dakkanya - Metropolis Dakkan Sakusen!
 
-Ghost Rider
+[Ghost Rider](https://remember.games/game/7610/ghost-rider/)
 
 Ghost Trap
 
