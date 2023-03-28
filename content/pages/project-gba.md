@@ -60,7 +60,7 @@ Mario Party Advance
 
 [Pokemon - Emerald Version](https://remember.games/game/376/pokemon-emerald-version/) (replay)
 
-Pokemon - FireRed Version](https://remember.games/game/377/pokemon-firered-version/) (replay)
+[Pokemon - FireRed Version](https://remember.games/game/377/pokemon-firered-version/) (replay)
 
 [Pokemon - LeafGreen Version](https://remember.games/game/378/pokemon-leafgreen-version/) (replay)
 
