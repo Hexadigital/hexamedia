@@ -1,4 +1,4 @@
-Title: MUGEN: All Specials | Tsuchinoko from Kemono Friends (Light Ruler)
+Title: MUGEN: All Supers | Tsuchinoko from Kemono Friends (Light Ruler)
 Date: 2023-03-29 14:05
 Category: MUGEN
 Author: Hexadigital

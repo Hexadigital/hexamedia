@@ -1,4 +1,4 @@
-Title: MUGEN: All Specials | Flipnote Studio Frog (Camren Springer)
+Title: MUGEN: All Supers | Flipnote Studio Frog (Camren Springer)
 Date: 2023-03-31 15:53
 Category: MUGEN
 Author: Hexadigital

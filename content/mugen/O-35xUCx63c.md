@@ -1,4 +1,4 @@
-Title: MUGEN: All Specials | Klang (Shintaku)
+Title: MUGEN: All Supers | Klang (Shintaku)
 Date: 2023-03-31 11:13
 Category: MUGEN
 Author: Hexadigital

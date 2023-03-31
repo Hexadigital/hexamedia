@@ -1,4 +1,4 @@
-Title: MUGEN: All Specials | Syuren Kano from Messiah End Re Coming (Hyperhiroro)
+Title: MUGEN: All Supers | Syuren Kano from Messiah End Re Coming (Hyperhiroro)
 Date: 2023-03-30 00:34
 Category: MUGEN
 Author: Hexadigital

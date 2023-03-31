@@ -1,4 +1,4 @@
-Title: MUGEN: All Specials | High Paladin from World of Warcraft (RedCross & 天天SY男)
+Title: MUGEN: All Supers | High Paladin from World of Warcraft (RedCross & 天天SY男)
 Date: 2023-03-29 16:25
 Category: MUGEN
 Author: Hexadigital

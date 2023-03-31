@@ -1,4 +1,4 @@
-Title: MUGEN: All Specials | Kharar from Starcraft (Anomi Polis)
+Title: MUGEN: All Supers | Kharar from Starcraft (Anomi Polis)
 Date: 2023-03-31 01:35
 Category: MUGEN
 Author: Hexadigital

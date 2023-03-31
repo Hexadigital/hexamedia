@@ -1,4 +1,4 @@
-Title: MUGEN: All Specials | Giant Centipede from Maplestory (Skulper34 and The Doctor)
+Title: MUGEN: All Supers | Giant Centipede from Maplestory (Skulper34 and The Doctor)
 Date: 2023-03-30 20:44
 Category: MUGEN
 Author: Hexadigital

@@ -1,4 +1,4 @@
-Title: MUGEN: All Specials | Jack Frost from Megami Tensei (T-JIRO)
+Title: MUGEN: All Supers | Jack Frost from Megami Tensei (T-JIRO)
 Date: 2023-03-30 11:43
 Category: MUGEN
 Author: Hexadigital

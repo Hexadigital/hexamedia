@@ -1,4 +1,4 @@
-Title: MUGEN: All Specials | Patye from AiMaiMi (Hiren)
+Title: MUGEN: All Supers | Patye from AiMaiMi (Hiren)
 Date: 2023-03-29 01:14
 Category: MUGEN
 Author: Hexadigital
