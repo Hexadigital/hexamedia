@@ -14,6 +14,8 @@ This is a list of all the games released for the Game Boy Advance, and my status
 
 Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
+[Elf - The Movie](https://remember.games/game/7628/elf-the-movie/) (2023-04-02, 1.75h)
+
 [Elf Bowling 1 & 2](https://remember.games/game/7294/elf-bowling-1-2/) (2023-01-23 -> 2023-01-24, 0.5h)
 
 [Famicom Mini 16 - Dig Dug](https://remember.games/game/6926/famicom-mini-16-dig-dug/) (2022-10-29 -> 2022-10-30, 1h)
@@ -85,6 +87,8 @@ Tetris Worlds
 [007 - NightFire](https://remember.games/game/7586/) (2023-03-22)
 
 [Need for Speed - Underground](https://remember.games/game/7311/) (2023-01-27)
+
+[Worms Blast](https://remember.games/game/5544) (2023-04-02)
 
 ### Unplayed
 
@@ -903,8 +907,6 @@ Egg Mania
 Elemix!
 
 Elevator Action - Old & New
-
-Elf - The Movie
 
 Enchanted - Once Upon Andalasia
 
@@ -3141,8 +3143,6 @@ World Reborn
 World Tennis Stars
 
 Worms - World Party
-
-Worms Blast
 
 X Zhan Jing
 
