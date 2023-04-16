@@ -4,6 +4,8 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
+1-P|16-C|19-H|4-D|1570-U
+
 ### Playing
 
 [Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/)
@@ -87,6 +89,8 @@ Tetris Worlds
 [007 - NightFire](https://remember.games/game/7586/) (2023-03-22)
 
 [Need for Speed - Underground](https://remember.games/game/7311/) (2023-01-27)
+
+Popeye - Rush for Spinach
 
 [Worms Blast](https://remember.games/game/5544) (2023-04-02)
 
@@ -2221,8 +2225,6 @@ Polarium Advance
 Polly Pocket! - Super Splash Island (DSI)
 
 Polly Pocket! - Super Splash Island (Vivendi)
-
-Popeye - Rush for Spinach
 
 Postman Pat and the Greendale Rocket
 
