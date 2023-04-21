@@ -52,4 +52,6 @@ You can also see them [on Remember.Games](https://remember.games/customlist/17/)
 
 [The Adventures of Star Saver](https://remember.games/game/6986/) (2022-11-06 -> 2022-11-07)
 
+[The Legend of Zelda: The Wind Waker](https://remember.games/game/1462/the-legend-of-zelda-the-wind-waker/) (2023-02-02 -> 2023-04-21)
+
 [Vanquish](https://remember.games/game/5442/vanquish/) (2022-11-02 -> 2022-11-16)
