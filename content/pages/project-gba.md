@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-1-P|16-C|19-H|4-D|1570-U
+1-P|16-C|20-H|6-D|1567-U
 
 ### Playing
 
@@ -56,6 +56,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
 [Guilty Gear X - Advance Edition](https://remember.games/game/7226/guilty-gear-x-advance-edition/)
 
+Kurukuru Kururin
+
 [Legend of Zelda, The - The Minish Cap](https://remember.games/game/1387/the-legend-of-zelda-the-minish-cap/) (replay)
 
 [LEGO Island 2 - The Brickster's Revenge](https://remember.games/game/7341/lego-island-2-the-bricksters-revenge/)
@@ -88,9 +90,13 @@ Tetris Worlds
 
 [007 - NightFire](https://remember.games/game/7586/) (2023-03-22)
 
+Jonny Moseley Mad Trix
+
 [Need for Speed - Underground](https://remember.games/game/7311/) (2023-01-27)
 
 Popeye - Rush for Spinach
+
+Shamu's Deep Sea Adventures
 
 [Worms Blast](https://remember.games/game/5544) (2023-04-02)
 
@@ -1424,8 +1430,6 @@ Jinsei Game Advance
 
 Jissen Pachi-Slot Hisshouhou! - Juuou Advance
 
-Jonny Moseley Mad Trix
-
 Juezhan Sanguo
 
 Juka and the Monophonic Menace
@@ -1587,8 +1591,6 @@ Kunio-kun Nekketsu Collection 3
 Kurohige no Golf Shiyouyo
 
 Kurohige no Kurutto Jintori
-
-Kurukuru Kururin
 
 Kururin Paradise
 
@@ -2487,8 +2489,6 @@ Shaman King - Master of Spirits 2
 Shaman King Card Game - Chou Senjiryakketsu 2
 
 Shaman King Card Game - Chou Senjiryakketsu 3
-
-Shamu's Deep Sea Adventures
 
 Shanghai Advance
 
