@@ -8,6 +8,8 @@ This is a list of all the games released for the Game Boy Advance, and my status
 
 ### Playing
 
+Global Star - Sudoku Fever
+
 [Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/)
 
 ### Completed
@@ -23,6 +25,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 [Famicom Mini 16 - Dig Dug](https://remember.games/game/6926/famicom-mini-16-dig-dug/) (2022-10-29 -> 2022-10-30, 1h)
 
 [Final Fantasy I & II - Dawn of Souls](https://remember.games/game/6866/final-fantasy-i-ii-dawn-of-souls/) (2022-10-07 -> 2023-02-18, 69.85h)
+
+[Invader](https://remember.games/game/7729/invader/) (2023-04-29 -> 2023-04-30, 3h)
 
 [Kirby & The Amazing Mirror](https://remember.games/game/6927/kirby-and-the-amazing-mirror/) (2022-10-30 -> 2022-11-03, 7h)
 
@@ -1176,8 +1180,6 @@ GetBackers Dakkanya - Metropolis Dakkan Sakusen!
 
 Ghost Trap
 
-Global Star - Sudoku Fever
-
 Go! Go! Beckham! - Adventure on Soccer Island
 
 Godzilla - Domination!
@@ -1385,8 +1387,6 @@ International Superstar Soccer Advance
 Inukko Club
 
 Inuyasha - Naraku no Wana! Mayoi no Mori no Shoutaijou
-
-Invader
 
 Invincible Iron Man, The
 
