@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-1-P|16-C|20-H|6-D|1567-U
+2-P|17-C|20-H|6-D|1565-U
 
 ### Playing
 
