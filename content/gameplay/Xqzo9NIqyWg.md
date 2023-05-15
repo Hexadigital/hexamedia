@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Welcome to Pocket Circuit [Part 19]
 Date: 2023-04-12 14:51
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p19
 Author: Hexadigital
 og_image: images/steam/834530.jpg

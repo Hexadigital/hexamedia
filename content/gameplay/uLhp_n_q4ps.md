@@ -1,7 +1,6 @@
 Title: F-Zero (1990) | Queen League [Part 2]
 Date: 2023-03-25 18:24
 Category: Gameplay
-
 Slug: f-zero-1990-p2
 Author: Hexadigital
 

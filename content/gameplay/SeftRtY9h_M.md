@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Bump and Scam: Three Strikes [Part 23]
 Date: 2023-04-16 18:13
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p23
 Author: Hexadigital
 og_image: images/steam/834530.jpg

@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Special Puzzle D, E, F [Part 22]
 Date: 2023-03-25 13:14
 Category: Gameplay
-
 Slug: picross-vp-vol-1-1999-p22
 Author: Hexadigital
 

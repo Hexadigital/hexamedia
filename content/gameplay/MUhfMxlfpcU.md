@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | House of the Hidden Writing [Part 3]
 Date: 2023-04-23 01:00
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p3
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

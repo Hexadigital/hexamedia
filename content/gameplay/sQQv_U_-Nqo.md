@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Professional Puzzle E [Part 29]
 Date: 2023-04-01 12:04
 Category: Gameplay
-
 Slug: picross-np-vol-1-1999-p29
 Author: Hexadigital
 

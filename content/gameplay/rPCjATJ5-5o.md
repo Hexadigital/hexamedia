@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Welcome to Jail [Part 3]
 Date: 2023-03-26 17:48
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p3
 Author: Hexadigital
 og_image: images/steam/834530.jpg

@@ -1,7 +1,6 @@
 Title: Super Mario 64 DS (2004) | Blast To The Stone Pillar [Part 32]
 Date: 2023-04-22 12:28
 Category: Gameplay
-
 Slug: super-mario-64-ds-2004-p32
 Author: Hexadigital
 

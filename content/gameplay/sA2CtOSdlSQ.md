@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Extra Puzzle G, H [Part 41]
 Date: 2023-04-13 08:03
 Category: Gameplay
-
 Slug: picross-np-vol-1-1999-p41
 Author: Hexadigital
 

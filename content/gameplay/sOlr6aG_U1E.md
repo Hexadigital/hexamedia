@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Special Puzzle G, H, I [Part 23]
 Date: 2023-03-26 11:50
 Category: Gameplay
-
 Slug: picross-vp-vol-1-1999-p23
 Author: Hexadigital
 

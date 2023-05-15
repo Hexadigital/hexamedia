@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Officer Majima [Part 10]
 Date: 2023-04-02 20:59
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p10
 Author: Hexadigital
 og_image: images/steam/834530.jpg

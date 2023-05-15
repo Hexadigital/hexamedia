@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Rina, Part 2 [Part 43]
 Date: 2023-05-09 11:01
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p43
 Author: Hexadigital
 og_image: images/steam/834530.jpg

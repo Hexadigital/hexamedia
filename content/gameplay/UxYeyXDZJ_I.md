@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Temple of Xtoloc [Part 1]
 Date: 2023-04-14 19:35
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p1
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

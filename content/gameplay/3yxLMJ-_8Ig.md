@@ -1,7 +1,6 @@
 Title: Mario vs. Donkey Kong (2004) | World 6 [Part 6]
 Date: 2023-04-19 17:05
 Category: Gameplay
-
 Slug: mario-vs-donkey-kong-2004-p6
 Author: Hexadigital
 

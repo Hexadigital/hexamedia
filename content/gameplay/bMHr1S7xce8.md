@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Extra Puzzle F [Part 40]
 Date: 2023-04-12 11:19
 Category: Gameplay
-
 Slug: picross-np-vol-1-1999-p40
 Author: Hexadigital
 

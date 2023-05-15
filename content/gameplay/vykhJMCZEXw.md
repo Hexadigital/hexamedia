@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | The Price of an F-Cup [Part 29]
 Date: 2023-04-25 02:03
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p29
 Author: Hexadigital
 og_image: images/steam/834530.jpg

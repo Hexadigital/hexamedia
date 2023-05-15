@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Extra Puzzle C, D [Part 38]
 Date: 2023-04-10 10:18
 Category: Gameplay
-
 Slug: picross-np-vol-1-1999-p38
 Author: Hexadigital
 

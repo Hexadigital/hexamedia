@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Funeral [Part 7]
 Date: 2023-03-30 15:27
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p7
 Author: Hexadigital
 og_image: images/steam/834530.jpg

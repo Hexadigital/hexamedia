@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | The Truth About Beauty [Part 24]
 Date: 2023-04-17 17:11
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p24
 Author: Hexadigital
 og_image: images/steam/834530.jpg

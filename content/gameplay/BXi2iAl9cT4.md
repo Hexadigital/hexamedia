@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | The Pyramid of Kukulkan [Part 17]
 Date: 2023-05-14 19:18
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p17
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

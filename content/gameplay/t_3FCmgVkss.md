@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Plaza of a Thousand Columns [Part 16]
 Date: 2023-05-13 21:19
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p16
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

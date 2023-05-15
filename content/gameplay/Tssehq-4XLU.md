@@ -1,7 +1,6 @@
 Title: Chocobo Kwehst (2021) | Gameplay
 Date: 2023-05-08 21:26
 Category: Gameplay
-
 Slug: chocobo-kwehst-2021
 Author: Hexadigital
 

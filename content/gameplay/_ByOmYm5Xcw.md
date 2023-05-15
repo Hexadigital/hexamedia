@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Extra Puzzle K [Part 44]
 Date: 2023-04-16 12:03
 Category: Gameplay
-
 Slug: picross-np-vol-1-1999-p44
 Author: Hexadigital
 

@@ -1,7 +1,6 @@
 Title: F-Zero (1990) | King League [Part 3]
 Date: 2023-03-26 20:49
 Category: Gameplay
-
 Slug: f-zero-1990-p3
 Author: Hexadigital
 

@@ -1,7 +1,6 @@
 Title: Super Mario 64 DS (2004) | Go on a Ghost Hunt [Part 15]
 Date: 2023-03-24 15:28
 Category: Gameplay
-
 Slug: super-mario-64-ds-2004-p15
 Author: Hexadigital
 

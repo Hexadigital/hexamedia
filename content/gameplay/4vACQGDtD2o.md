@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Iglesia [Part 4]
 Date: 2023-04-27 18:28
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p4
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Majima Time [Part 34]
 Date: 2023-04-29 22:11
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p34
 Author: Hexadigital
 og_image: images/steam/834530.jpg

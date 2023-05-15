@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Temple of the Bearded Man [Part 9]
 Date: 2023-05-07 01:54
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p9
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

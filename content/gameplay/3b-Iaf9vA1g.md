@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Extra Puzzle A, B [Part 37]
 Date: 2023-04-09 11:00
 Category: Gameplay
-
 Slug: picross-np-vol-1-1999-p37
 Author: Hexadigital
 

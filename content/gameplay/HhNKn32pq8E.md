@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | The Fighter's Successor [Part 38]
 Date: 2023-05-04 17:44
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p38
 Author: Hexadigital
 og_image: images/steam/834530.jpg

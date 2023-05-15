@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | The Yakuza's Apprentice [Part 26]
 Date: 2023-04-19 17:52
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p26
 Author: Hexadigital
 og_image: images/steam/834530.jpg

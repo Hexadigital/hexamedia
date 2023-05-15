@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Majima and Thugs [Part 12]
 Date: 2023-04-06 14:08
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p12
 Author: Hexadigital
 og_image: images/steam/834530.jpg

@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Tomb of the High Priest [Part 7]
 Date: 2023-05-02 19:16
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p7
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

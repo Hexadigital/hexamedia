@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Platform of Venus [Part 13]
 Date: 2023-05-10 17:15
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p13
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

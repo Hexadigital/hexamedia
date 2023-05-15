@@ -1,7 +1,6 @@
 Title: Super Mario 64 DS (2004) | Rescuing Luigi [Part 27]
 Date: 2023-04-17 20:24
 Category: Gameplay
-
 Slug: super-mario-64-ds-2004-p27
 Author: Hexadigital
 

@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Special Puzzle J, K, L [Part 24]
 Date: 2023-03-27 10:55
 Category: Gameplay
-
 Slug: picross-np-vol-1-1999-p24
 Author: Hexadigital
 

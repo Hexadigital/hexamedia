@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | The Nunnery [Part 5]
 Date: 2023-04-28 18:50
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p5
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

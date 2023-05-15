@@ -1,7 +1,6 @@
 Title: Super Mario 64 DS (2004) | Red-Hot Log Rolling [Part 49]
 Date: 2023-05-09 05:30
 Category: Gameplay
-
 Slug: super-mario-64-ds-2004-p49
 Author: Hexadigital
 

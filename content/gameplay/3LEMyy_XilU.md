@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Grapefruit Juice [Part 5]
 Date: 2023-03-28 14:44
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p5
 Author: Hexadigital
 og_image: images/steam/834530.jpg

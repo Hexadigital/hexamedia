@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Professional Brawler [Part 15]
 Date: 2023-04-09 14:28
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p15
 Author: Hexadigital
 og_image: images/steam/834530.jpg

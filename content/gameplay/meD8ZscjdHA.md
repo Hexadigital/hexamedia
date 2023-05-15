@@ -1,7 +1,6 @@
 Title: War Tanks (2022) | Gameplay
 Date: 2023-05-09 22:07
 Category: Gameplay
-
 Slug: war-tanks-2022
 Author: Hexadigital
 og_image: images/steam/2018320.jpg

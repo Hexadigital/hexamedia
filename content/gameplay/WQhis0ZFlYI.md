@@ -1,7 +1,6 @@
 Title: E.V.O.: Search for Eden (1992) | Gameplay
 Date: 2023-04-03 16:33
 Category: Gameplay
-
 Slug: evo-search-for-eden-1992
 Author: Hexadigital
 

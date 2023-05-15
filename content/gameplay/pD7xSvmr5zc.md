@@ -1,7 +1,6 @@
 Title: Super Mario 64 DS (2004) | Four Stars in Whomp's Fortress [Part 28]
 Date: 2023-04-18 12:50
 Category: Gameplay
-
 Slug: super-mario-64-ds-2004-p28
 Author: Hexadigital
 

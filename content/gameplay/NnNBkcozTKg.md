@@ -1,7 +1,6 @@
 Title: Picross NP Vol. 1 (1999) | Special Puzzle A, B [Part 21]
 Date: 2023-03-24 10:27
 Category: Gameplay
-
 Slug: picross-vp-vol-1-1999-p21
 Author: Hexadigital
 

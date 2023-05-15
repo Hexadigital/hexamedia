@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Pocket Circuit [Part 47]
 Date: 2023-05-13 12:14
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p47
 Author: Hexadigital
 og_image: images/steam/834530.jpg

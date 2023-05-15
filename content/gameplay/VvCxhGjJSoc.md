@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Prodigal Son [Part 40]
 Date: 2023-05-07 00:53
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p40
 Author: Hexadigital
 og_image: images/steam/834530.jpg

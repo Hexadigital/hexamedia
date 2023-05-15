@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Yui, Part 1 [Part 44]
 Date: 2023-05-10 11:16
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p44
 Author: Hexadigital
 og_image: images/steam/834530.jpg

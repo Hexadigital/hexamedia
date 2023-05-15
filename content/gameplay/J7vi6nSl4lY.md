@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Rina, Part 1 [Part 42]
 Date: 2023-05-08 12:21
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p42
 Author: Hexadigital
 og_image: images/steam/834530.jpg

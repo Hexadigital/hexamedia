@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | The Yakuza's Apprentice IV [Part 41]
 Date: 2023-05-07 21:16
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p41
 Author: Hexadigital
 og_image: images/steam/834530.jpg

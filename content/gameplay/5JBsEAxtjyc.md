@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Dog [Part 13]
 Date: 2023-04-07 15:13
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p13
 Author: Hexadigital
 og_image: images/steam/834530.jpg

@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Welcome to Purgatory [Part 48]
 Date: 2023-05-14 12:14
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p48
 Author: Hexadigital
 og_image: images/steam/834530.jpg

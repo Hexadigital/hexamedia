@@ -1,7 +1,6 @@
 Title: Super Mario 64 DS (2004) | Red Coins on the Ship Afloat [Part 33]
 Date: 2023-04-23 13:30
 Category: Gameplay
-
 Slug: super-mario-64-ds-2004-p33
 Author: Hexadigital
 

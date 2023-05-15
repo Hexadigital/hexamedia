@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Bartender Majima [Part 27]
 Date: 2023-04-22 16:44
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p27
 Author: Hexadigital
 og_image: images/steam/834530.jpg

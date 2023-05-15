@@ -1,7 +1,6 @@
 Title: Mario vs. Donkey Kong (2004) | World 2 [Part 2]
 Date: 2023-04-14 14:32
 Category: Gameplay
-
 Slug: mario-vs-donkey-kong-2004-p2
 Author: Hexadigital
 

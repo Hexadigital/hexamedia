@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Temple of the Warriors [Part 15]
 Date: 2023-05-12 17:03
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p15
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

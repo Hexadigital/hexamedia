@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Platform of the Eagles and the Jaguars [Part 12]
 Date: 2023-05-09 17:04
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p12
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

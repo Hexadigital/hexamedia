@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Sacred Cenote [Part 14]
 Date: 2023-05-11 17:15
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p14
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | Temple of the Jaguars [Part 10]
 Date: 2023-05-07 23:54
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p10
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Stardust [Part 6]
 Date: 2023-03-29 12:45
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p6
 Author: Hexadigital
 og_image: images/steam/834530.jpg

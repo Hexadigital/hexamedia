@@ -1,7 +1,6 @@
 Title: Elf: The Movie (2004) | Gameplay
 Date: 2023-04-11 20:32
 Category: Gameplay
-
 Slug: elf-the-movie-2004
 Author: Hexadigital
 

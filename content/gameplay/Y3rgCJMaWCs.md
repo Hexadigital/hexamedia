@@ -1,7 +1,6 @@
 Title: Mahjong - Legacy of the Toltecs (2023) | The Red House [Part 6]
 Date: 2023-05-01 15:33
 Category: Gameplay
-
 Slug: mahjong-legacy-of-the-toltecs-2023-p6
 Author: Hexadigital
 og_image: images/steam/2309890.jpg

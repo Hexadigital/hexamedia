@@ -1,7 +1,6 @@
 Title: Super Mario 64 DS (2004) | 100 Coins in Bob-omb Battlefield [Part 22]
 Date: 2023-04-10 22:44
 Category: Gameplay
-
 Slug: super-mario-64-ds-2004-p22
 Author: Hexadigital
 

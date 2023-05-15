@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Versus Zombie Majima [Part 32]
 Date: 2023-04-27 15:24
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p32
 Author: Hexadigital
 og_image: images/steam/834530.jpg

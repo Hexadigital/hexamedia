@@ -1,7 +1,6 @@
 Title: Super Mario 64 DS (2004) | Seek the 8 Red Coins [Part 18]
 Date: 2023-03-28 19:17
 Category: Gameplay
-
 Slug: super-mario-64-ds-2004-p18
 Author: Hexadigital
 

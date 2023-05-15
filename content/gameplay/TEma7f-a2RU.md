@@ -1,7 +1,6 @@
 Title: F-Zero (1990) | Knight League [Part 1]
 Date: 2023-03-24 13:20
 Category: Gameplay
-
 Slug: f-zero-1990-p1
 Author: Hexadigital
 

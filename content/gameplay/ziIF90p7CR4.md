@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | The Ring [Part 2]
 Date: 2023-03-25 15:51
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p2
 Author: Hexadigital
 og_image: images/steam/834530.jpg

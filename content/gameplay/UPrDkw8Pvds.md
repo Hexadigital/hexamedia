@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Handbag Hunt [Part 37]
 Date: 2023-05-03 16:05
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p37
 Author: Hexadigital
 og_image: images/steam/834530.jpg

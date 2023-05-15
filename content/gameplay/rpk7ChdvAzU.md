@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Goromi [Part 16]
 Date: 2023-04-10 12:27
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p16
 Author: Hexadigital
 og_image: images/steam/834530.jpg

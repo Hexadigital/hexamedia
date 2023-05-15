@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-2-P|17-C|20-H|6-D|1565-U
+2-P|18-C|23-H|7-D|1560-U
 
 ### Playing
 
@@ -27,6 +27,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 [Final Fantasy I & II - Dawn of Souls](https://remember.games/game/6866/final-fantasy-i-ii-dawn-of-souls/) (2022-10-07 -> 2023-02-18, 69.85h)
 
 [Invader](https://remember.games/game/7729/invader/) (2023-04-29 -> 2023-04-30, 3h)
+
+[Kim Possible - Revenge of Monkey Fist](https://remember.games/game/7748/) (2023-05-13 -> 2023-05-15, 1.5h)
 
 [Kirby & The Amazing Mirror](https://remember.games/game/6927/kirby-and-the-amazing-mirror/) (2022-10-30 -> 2022-11-03, 7h)
 
@@ -58,6 +60,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
 [Fire Emblem](https://remember.games/game/2532/fire-emblem/)
 
+[Gekido Advance - Kintaro's Revenge](https://remember.games/game/7749/gekido-advance-kintaros-revenge/)
+
 [Guilty Gear X - Advance Edition](https://remember.games/game/7226/guilty-gear-x-advance-edition/)
 
 Kurukuru Kururin
@@ -67,6 +71,10 @@ Kurukuru Kururin
 [LEGO Island 2 - The Brickster's Revenge](https://remember.games/game/7341/lego-island-2-the-bricksters-revenge/)
 
 Mario Party Advance
+
+[Mooncat's Trio](https://remember.games/game/7761/mooncats-trio/)
+
+[Perplexus Diodomin (Proto)](https://remember.games/game/7760/perplexus-diodomin/)
 
 [Pokemon - Emerald Version](https://remember.games/game/376/pokemon-emerald-version/) (replay)
 
@@ -93,6 +101,8 @@ Tetris Worlds
 ### Tried, Dropped
 
 [007 - NightFire](https://remember.games/game/7586/) (2023-03-22)
+
+[Disney Sports - Soccer](https://remember.games/game/7750/) (2023-05-13)
 
 Jonny Moseley Mad Trix
 
@@ -750,8 +760,6 @@ Disney Sports - Skateboarding
 
 Disney Sports - Snowboarding
 
-Disney Sports - Soccer
-
 Disney's Party
 
 Dogz
@@ -1152,8 +1160,6 @@ Gauntlet - Dark Legacy
 
 Gegege no Kitarou - Kikiippatsu! Youkai Rettou
 
-Gekido Advance - Kintaro's Revenge
-
 Gekitou Densetsu Noah - Dream Management
 
 Gem Smashers
@@ -1505,8 +1511,6 @@ Kien (Proto)
 Kill Switch
 
 Killer 3D Pool
-
-Kim Possible - Revenge of Monkey Fist
 
 Kim Possible 2 - Drakken's Demise
 
@@ -1948,8 +1952,6 @@ Monster! Bass Fishing
 
 Monsters, Inc.
 
-Mooncat's Trio
-
 Moorhen 3 - The Chicken Chase!
 
 Moorhuhn Jagd (Proto)
@@ -2149,8 +2151,6 @@ Paws & Claws - Pet Resort
 Paws & Claws - Pet Vet
 
 Payback
-
-Perplexus Diodomin (Proto)
 
 Peter Pan - Return to Neverland
 

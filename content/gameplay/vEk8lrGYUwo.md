@@ -1,7 +1,6 @@
 Title: Yakuza Kiwami (2016) | Yui, Part 2 [Part 45]
 Date: 2023-05-11 11:14
 Category: Gameplay
-
 Slug: yakuza-kiwami-2016-p45
 Author: Hexadigital
 og_image: images/steam/834530.jpg
