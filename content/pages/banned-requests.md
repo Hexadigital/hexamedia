@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of games that cannot be requested using the "Pick a Game For Me to Play" redeem on Twitch, either because I already played it (and have zero interest in playing it again), or because there is something about it that makes me not want to play it.
 
-### General
+## General
 
 Any game containing NSFW (explicit) content.
 
@@ -18,9 +18,11 @@ Any game that is only available for phones. (such as Android or iOS exclusives)
 
 Any game that is only available for VR.
 
-### Series
+## Series
 
 Borderlands
+
+Bubsy
 
 Elf Bowling
 
@@ -36,7 +38,7 @@ Poppy Playtime
 
 Postal
 
-### Specific Games
+## Specific Games
 
 Cruelty Squad
 
