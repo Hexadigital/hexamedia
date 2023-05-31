@@ -2,4 +2,5 @@ __pycache__
 Makefile
 output
 tasks.py
+continual_sync.py
 /content/pages/leaderboard.md

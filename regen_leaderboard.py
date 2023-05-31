@@ -1,7 +1,7 @@
 import datetime
 import json
 
-with open('leaderboard.json') as lb_file:
+with open('database.json') as lb_file:
 	lb = json.load(lb_file)
 	users = {}
 	for uid in lb['ranks'].keys():
