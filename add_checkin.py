@@ -1,6 +1,6 @@
 import json, os
 
-with open('leaderboard.json') as lb_file:
+with open('database.json') as lb_file:
 	lb = json.load(lb_file)
 
 files = os.listdir('../../Desktop/twitch/redeems/checkin/')
@@ -24,5 +24,5 @@ for file in files:
 	
 	os.remove('../../Desktop/twitch/redeems/checkin/' + file)
 
-with open('leaderboard.json', 'w') as out_file:
+with open('database.json', 'w') as out_file:
 	out_file.write(json.dumps(lb, indent=4))
