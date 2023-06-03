@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-2-P|18-C|23-H|7-D|1560-U
+2-P|19-C|23-H|7-D|1559-U
 
 ### Playing
 
@@ -33,6 +33,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 [Kirby & The Amazing Mirror](https://remember.games/game/6927/kirby-and-the-amazing-mirror/) (2022-10-30 -> 2022-11-03, 7h)
 
 [Legend of Zelda, The - A Link to the Past & Four Swords](https://remember.games/game/1480/the-legend-of-zelda-a-link-to-the-past-four-swords/) (2020-12-27 -> 2021-01-20, 10.86h)
+
+[Mario Kart XXL (Demo)](https://remember.games/game/7560/mario-kart-xxl-prototype/) (2023-06-02, 0.25h)
 
 [Mario vs. Donkey Kong](https://remember.games/game/4327/mario-vs-donkey-kong/) (2022-09-15 -> 2022-09-16, 5.5h)
 
@@ -1757,8 +1759,6 @@ Mario DX
 Mario Golf - Advance Tour
 
 Mario Kart - Super Circuit
-
-Mario Kart XXL (Demo)
 
 Mario Pinball Land
 
