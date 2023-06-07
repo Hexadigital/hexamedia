@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-2-P|19-C|23-H|7-D|1559-U
+2-P|19-C|23-H|8-D|1558-U
 
 ### Playing
 
@@ -111,6 +111,8 @@ Jonny Moseley Mad Trix
 [Need for Speed - Underground](https://remember.games/game/7311/) (2023-01-27)
 
 Popeye - Rush for Spinach
+
+Quake (Prototype) (2023-06-06)
 
 Shamu's Deep Sea Adventures
 
@@ -2299,8 +2301,6 @@ Puzzle & Tantei Collection
 Pyuu to Fuku! Jaguar - Byoo to Deru! Megane-kun
 
 Quad Desert Fury
-
-Quake (Proto)
 
 Qwak
 
