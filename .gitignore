@@ -4,3 +4,4 @@ output
 tasks.py
 continual_sync.py
 /content/pages/leaderboard.md
+/content/images/cards/*
