@@ -223,9 +223,7 @@
     },
     "cards": {
         "59459182": {
-            "collection": {
-                "21237ee9b3ca1": 1
-            }
+            "collection": {}
         },
         "866686220": {
             "collection": {}
@@ -438,14 +436,7 @@
             "collection": {}
         },
         "52066723": {
-            "collection": {
-                "96487ec96fb09": 1,
-                "6bbd232a253317": 1,
-                "c4ce84b15fed7": 1,
-                "d72e35b107d113": 1,
-                "b92b48f7f5e28": 1,
-                "b8ad08aca188": 1
-            }
+            "collection": {}
         }
     }
 }

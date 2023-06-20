@@ -119,21 +119,21 @@ cards = {
         },
         {
             'ID':'e5208a7c3e7e14',
-            'Name': 'TBD',
+            'Name': 'Mosaics Hour',
             'Number': '14',
             'Rarity':'Uncommon',
-            'Artist': '',
-            'Artist Link': 'https://twitter.com/',
-            'Source': ''
+            'Artist': 'gyaa_a_',
+            'Artist Link': 'https://twitter.com/gyaa_a_',
+            'Source': 'https://skeb.jp/@gyaa_a_/works/20'
         },
         {
             'ID':'8afda7024ce515',
-            'Name': 'TBD',
+            'Name': 'Hello!',
             'Number': '15',
             'Rarity':'Uncommon',
-            'Artist': '',
-            'Artist Link': 'https://twitter.com/',
-            'Source': ''
+            'Artist': 'ying1hua1',
+            'Artist Link': 'https://twitter.com/ying1hua1',
+            'Source': 'https://skeb.jp/@ying1hua1/works/9'
         },
         {
             'ID':'47e418648ab716',
@@ -146,39 +146,39 @@ cards = {
         },
         {
             'ID':'6bbd232a253317',
-            'Name': 'TBD',
+            'Name': 'Workstation',
             'Number': '17',
             'Rarity':'Rare',
-            'Artist': '',
-            'Artist Link': 'https://twitter.com/',
-            'Source': ''
+            'Artist': 'kowa_luna',
+            'Artist Link': 'https://twitter.com/kowa_luna',
+            'Source': 'https://skeb.jp/@kowa_luna/works/50'
         },
         {
             'ID':'19d6ffca4e1818',
-            'Name': 'TBD',
+            'Name': 'Professionalism',
             'Number': '18',
             'Rarity':'Rare',
-            'Artist': '',
-            'Artist Link': 'https://twitter.com/',
-            'Source': ''
+            'Artist': 'e1J_8q',
+            'Artist Link': 'https://twitter.com/e1J_8q',
+            'Source': 'https://skeb.jp/@e1J_8q/works/52'
         },
         {
             'ID':'b85133aeee1f19',
-            'Name': 'TBD',
+            'Name': 'Stargazing',
             'Number': '19',
             'Rarity':'Ultra Rare',
-            'Artist': '',
-            'Artist Link': 'https://twitter.com/',
-            'Source': ''
+            'Artist': 'kmkwuzn0404',
+            'Artist Link': 'https://twitter.com/kmkwuzn0404',
+            'Source': 'https://skeb.jp/@kmkwuzn0404/works/57'
         },
         {
             'ID':'24baab34ee5420',
-            'Name': 'TBD',
+            'Name': 'Flowers in Bloom',
             'Number': '20',
             'Rarity':'Ultra Rare',
-            'Artist': '',
-            'Artist Link': 'https://twitter.com/',
-            'Source': ''
+            'Artist': 'waishinoaka',
+            'Artist Link': 'https://twitter.com/waishinoaka',
+            'Source': 'https://skeb.jp/@waishinoaka/works/15'
         },
         {
             'ID':'6ffc23234e8b21',
