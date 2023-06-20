@@ -21,6 +21,8 @@ for file in files:
 		lb['points'][uid] += 1
 	else:
 		lb['points'][uid] = 1
+	if uid not in lb['cards'].keys():
+		lb['cards'][uid] = {'collection':{}}
 	
 	os.remove('../../Desktop/twitch/redeems/checkin/' + file)
 

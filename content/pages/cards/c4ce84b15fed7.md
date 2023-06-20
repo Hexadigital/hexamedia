@@ -1,5 +1,5 @@
-Title: 
-Summary: View the details for the  card from the Clover Power Set!
+Title: Feathered Thoughts
+Summary: View the details for the Feathered Thoughts card from the Clover Power Set!
 Category: Cards
 Slug: card/c4ce84b15fed7
 Status: Hidden
@@ -8,6 +8,6 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 0/69 users (0.00%)
+Collected by 1/72 users (1.39%)
 
-Drawn by <a href=''></a></center>
+Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
