@@ -4,13 +4,13 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-2-P|19-C|23-H|8-D|1558-U
+2-P|20-C|23-H|8-D|1557-U
 
 ### Playing
 
-Global Star - Sudoku Fever
-
 [Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/)
+
+[Sudoku Fever](https://remember.games/game/7730/sudoku-fever/)
 
 ### Completed
 
@@ -48,6 +48,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
 [Naruto - Ninja Council](https://remember.games/game/6952/naruto-ninja-council/) (2022-11-01, 2.25h)
 
+[Piglet's Big Game](https://remember.games/game/7941/piglets-big-game/) (2023-06-15 -> 2023-06-22, 3.5h)
+
 [Snood](https://remember.games/game/6761/snood/) (2022-09-19 -> 2023-01-25, 4.5h)
 
 [Touhou Kaisekiki: Arabasiri](https://remember.games/game/7258/touhou-kaisekiki-arabasiri/) (2022-01-23 -> 2022-01-24, 4h)
@@ -66,7 +68,7 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
 [Guilty Gear X - Advance Edition](https://remember.games/game/7226/guilty-gear-x-advance-edition/)
 
-Kurukuru Kururin
+[Kuru Kuru Kururin](https://remember.games/game/7808/kuru-kuru-kururin/)
 
 [Legend of Zelda, The - The Minish Cap](https://remember.games/game/1387/the-legend-of-zelda-the-minish-cap/) (replay)
 
@@ -2173,9 +2175,6 @@ Phantom, The (Proto)
 Phil of the Future
 
 Pia Carrot e Youkoso!! 3.3
-
-Piglet's Big Game
-
 Pikapika Nurse Monogatari - Nurse Ikusei Game
 
 Pinball Advance
