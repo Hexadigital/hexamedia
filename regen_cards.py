@@ -106,7 +106,7 @@ for user_id in users.keys():
                     page += "<img src='/images/cards/back-small.png' width='20%'>"
             # Check for secret rare
             if cards[set_name][-1]['ID'] in db['cards'][user_id]['collection'].keys():
-                    page += "<img src='/images/cards/" + cards[set_name][-1]['ID'] + "-small.png' width='20%'>"
+                    page += "<a href='/card/" + cards[set_name][-1]['ID'] + "/'><img src='/images/cards/" + cards[set_name][-1]['ID'] + "-small.png' width='20%'></a>"
         # Add event cards
         event_card_count = 0
         for card in event_cards:
