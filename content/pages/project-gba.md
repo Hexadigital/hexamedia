@@ -62,6 +62,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
 [Chicken Little](https://remember.games/game/7261/disneys-chicken-little/)
 
+Dancing Sword - Senkou
+
 [Fire Emblem](https://remember.games/game/2532/fire-emblem/)
 
 [Gekido Advance - Kintaro's Revenge](https://remember.games/game/7749/gekido-advance-kintaros-revenge/)
@@ -675,8 +677,6 @@ Daisuki Teddy
 Dan Doh!! Tobase Shouri no Smile Shot
 
 Dan Doh!! Xi
-
-Dancing Sword - Senkou
 
 Danny Phantom - The Ultimate Enemy
 
