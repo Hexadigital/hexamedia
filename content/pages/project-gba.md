@@ -4,11 +4,9 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-2-P|20-C|23-H|8-D|1557-U
+1-P|21-C|23-H|8-D|1557-U
 
 ### Playing
-
-[Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/)
 
 [Sudoku Fever](https://remember.games/game/7730/sudoku-fever/)
 
@@ -49,6 +47,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 [Naruto - Ninja Council](https://remember.games/game/6952/naruto-ninja-council/) (2022-11-01, 2.25h)
 
 [Piglet's Big Game](https://remember.games/game/7941/piglets-big-game/) (2023-06-15 -> 2023-06-22, 3.5h)
+
+[Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/) (2022-12-25 -> 2023-07-01, 33.25h)
 
 [Snood](https://remember.games/game/6761/snood/) (2022-09-19 -> 2023-01-25, 4.5h)
 
