@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-1-P|21-C|23-H|8-D|1557-U
+1-P|22-C|23-H|8-D|1556-U
 
 ### Playing
 
@@ -43,6 +43,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 [Mega Man Zero 3](https://remember.games/game/4374/mega-man-zero-3/) (2022-07-08 -> 2022-07-16, 4.25h)
 
 [Mega Man Zero 4](https://remember.games/game/4372/mega-man-zero-4/) (2022-07-16 -> 2022-08-06, 8.3h)
+
+My Little Pony - Crystal Princess - The Runaway Rainbow (2023-07-14, 1.25h)
 
 [Naruto - Ninja Council](https://remember.games/game/6952/naruto-ninja-council/) (2022-11-01, 2.25h)
 
@@ -2003,8 +2005,6 @@ Muppets, The - On with the Show!
 Mutsu - Water Looper Mutsu
 
 My Animal Centre in Africa
-
-My Little Pony - Crystal Princess - The Runaway Rainbow
 
 Mythri (Proto)
 

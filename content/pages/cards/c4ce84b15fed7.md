@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 10/86 users (11.63%)
+Collected by 11/87 users (12.64%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -54,6 +54,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/colekus">Colekus</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://www.twitch.tv/hexadigital">Hexadigital</a></td>
       <td>1</td>
       </tr>
     <tr>
