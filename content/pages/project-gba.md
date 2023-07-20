@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-1-P|22-C|23-H|8-D|1556-U
+1-P|23-C|24-H|8-D|1554-U
 
 ### Playing
 
@@ -44,6 +44,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
 [Mega Man Zero 4](https://remember.games/game/4372/mega-man-zero-4/) (2022-07-16 -> 2022-08-06, 8.3h)
 
+Minicraft (2023-06-22, 3.75h)
+
 My Little Pony - Crystal Princess - The Runaway Rainbow (2023-07-14, 1.25h)
 
 [Naruto - Ninja Council](https://remember.games/game/6952/naruto-ninja-council/) (2022-11-01, 2.25h)
@@ -57,6 +59,8 @@ My Little Pony - Crystal Princess - The Runaway Rainbow (2023-07-14, 1.25h)
 [Touhou Kaisekiki: Arabasiri](https://remember.games/game/7258/touhou-kaisekiki-arabasiri/) (2022-01-23 -> 2022-01-24, 4h)
 
 ### Tried, Will Continue
+
+Aladdin
 
 [Boktai - The Sun Is in Your Hand](https://remember.games/game/107/boktai-the-sun-is-in-your-hand/) (replay)
 
@@ -189,8 +193,6 @@ Aggressive Inline
 AirForce Delta Storm
 
 Aka-chan Doubutsuen
-
-Aladdin
 
 Aleck Bordon Adventure - Tower & Shaft Advance
 
@@ -1883,8 +1885,6 @@ Minami no Umi no Odyssey
 Mini Moni. - Mika no Happy Morning Chatty
 
 Mini Moni. - Onegai Ohoshi-sama!
-
-Minicraft
 
 Minna no Ouji-sama
 

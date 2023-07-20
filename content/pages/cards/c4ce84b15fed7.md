@@ -38,18 +38,28 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>2</td>
+      <td><a href="https://www.twitch.tv/6horntaurus">6HornTaurus</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://www.twitch.tv/karin_ch">karin_ch</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
+      <td>2</td>
       <td><a href="https://www.twitch.tv/sirryu">SirRyu</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://www.twitch.tv/thatguyfromsomewhere">thatguyfromsomewhere</a></td>
       <td>2</td>
       </tr>
     <tr>
       <td>2</td>
       <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
       <td>2</td>
-      </tr>
-    <tr>
-      <td>3</td>
-      <td><a href="https://www.twitch.tv/6horntaurus">6HornTaurus</a></td>
-      <td>1</td>
       </tr>
     <tr>
       <td>3</td>
@@ -63,17 +73,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>3</td>
-      <td><a href="https://www.twitch.tv/karin_ch">karin_ch</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>3</td>
       <td><a href="https://www.twitch.tv/soupisneat">soupisneat</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>3</td>
-      <td><a href="https://www.twitch.tv/thatguyfromsomewhere">thatguyfromsomewhere</a></td>
       <td>1</td>
       </tr>
   </tbody>
