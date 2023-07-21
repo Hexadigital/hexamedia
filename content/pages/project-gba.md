@@ -118,6 +118,8 @@ Tetris Worlds
 
 Jonny Moseley Mad Trix
 
+Knights' Kingdom (2023-07-21)
+
 [Need for Speed - Underground](https://remember.games/game/7311/) (2023-01-27)
 
 Popeye - Rush for Spinach
@@ -1549,8 +1551,6 @@ Klonoa - Empire of Dreams
 Klonoa 2 - Dream Champ Tournament
 
 Klonoa Heroes - Densetsu no Star Medal
-
-Knights' Kingdom
 
 Koala Brothers - Outback Adventures
 
