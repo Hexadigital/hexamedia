@@ -24,55 +24,55 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/jekkzerozero">JekkZeroZero</a></td>
-      <td>3</td>
+      <td>4</td>
       </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td><a href="https://www.twitch.tv/jimmy_mapp">jimmy_mapp</a></td>
       <td>3</td>
       </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td><a href="https://www.twitch.tv/sperbus">Sperbus</a></td>
       <td>3</td>
       </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/6horntaurus">6HornTaurus</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/karin_ch">karin_ch</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/sirryu">SirRyu</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/thatguyfromsomewhere">thatguyfromsomewhere</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/colekus">Colekus</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/hexadigital">Hexadigital</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/soupisneat">soupisneat</a></td>
       <td>1</td>
       </tr>
