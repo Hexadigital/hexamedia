@@ -38,6 +38,8 @@ Poppy Playtime
 
 Postal
 
+Twisted Metal
+
 ## Specific Games
 
 Cruelty Squad
