@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 14/87 users (16.09%)
+Collected by 15/89 users (16.85%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -32,13 +32,13 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       <td>4</td>
       </tr>
     <tr>
-      <td>2</td>
-      <td><a href="https://www.twitch.tv/6horntaurus">6HornTaurus</a></td>
-      <td>3</td>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/sperbus">Sperbus</a></td>
+      <td>4</td>
       </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://www.twitch.tv/sperbus">Sperbus</a></td>
+      <td><a href="https://www.twitch.tv/6horntaurus">6HornTaurus</a></td>
       <td>3</td>
       </tr>
     <tr>
@@ -79,6 +79,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>4</td>
       <td><a href="https://www.twitch.tv/hexadigital">Hexadigital</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="https://www.twitch.tv/lokodavis55">lokodavis55</a></td>
       <td>1</td>
       </tr>
     <tr>
