@@ -147,7 +147,10 @@ for user_id in users.keys():
                     page += "<img src='/images/cards/back-small.png' width='20%'>"
             # Check for secret rare
             if cards[set_name][-1]['ID'] in db['cards'][user_id]['collection'].keys():
-                    page += "<a href='/card/" + cards[set_name][-1]['ID'] + "/'><img src='/images/cards/" + cards[set_name][-1]['ID'] + "-small.png' width='20%'></a>"
+                card_text = 'Cards'
+                if db['cards'][user_id]['collection'][cards[set_name][-1]['ID']] == 1:
+                    card_text = 'Card'
+                page += "<span title='" + str(db['cards'][user_id]['collection'][cards[set_name][-1]['ID']]) + " " + card_text + "'><a href='/card/" + cards[set_name][-1]['ID'] + "/'><img src='/images/cards/" + cards[set_name][-1]['ID'] + "-small.png' width='20%'></a></span>"
         # Add event cards
         event_card_count = 0
         for card in event_cards:
