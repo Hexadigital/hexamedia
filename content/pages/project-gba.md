@@ -46,7 +46,7 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 
 Minicraft (2023-06-22, 3.75h)
 
-My Little Pony - Crystal Princess - The Runaway Rainbow (2023-07-14, 1.25h)
+[My Little Pony - Crystal Princess - The Runaway Rainbow](https://remember.games/game/8018/my-little-pony-crystal-princess-the-runaway-rainbow/) (2023-07-14, 1.25h)
 
 [Naruto - Ninja Council](https://remember.games/game/6952/naruto-ninja-council/) (2022-11-01, 2.25h)
 
