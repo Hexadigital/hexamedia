@@ -4,9 +4,11 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-1-P|23-C|24-H|9-D|1553-U
+2-P|23-C|25-H|9-D|1551-U
 
 ### Playing
+
+Megaman - Battle Network 2
 
 [Sudoku Fever](https://remember.games/game/7730/sudoku-fever/)
 
@@ -81,6 +83,8 @@ Dancing Sword - Senkou
 [Legend of Zelda, The - The Minish Cap](https://remember.games/game/1387/the-legend-of-zelda-the-minish-cap/) (replay)
 
 [LEGO Island 2 - The Brickster's Revenge](https://remember.games/game/7341/lego-island-2-the-bricksters-revenge/)
+
+Lost Vikings, The
 
 Mario Party Advance
 
@@ -1690,8 +1694,6 @@ Lord of the Rings, The - The Third Age
 
 Lord of the Rings, The - The Two Towers
 
-Lost Vikings, The
-
 Love Hina Advance - Shukufuku no Kane wa Naru Kana
 
 Lucky Luke - Wanted!
@@ -1825,8 +1827,6 @@ Megaman & Bass
 Megaman - Battle Chip Challenge (replay)
 
 Megaman - Battle Network (replay)
-
-Megaman - Battle Network 2 (replay)
 
 Megaman - Battle Network 3 - Blue Version (replay)
 
