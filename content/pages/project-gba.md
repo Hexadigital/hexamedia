@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-2-P|23-C|25-H|9-D|1551-U
+2-P|24-C|24-H|9-D|1551-U
 
 ### Playing
 
@@ -25,6 +25,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 [Famicom Mini 16 - Dig Dug](https://remember.games/game/6926/famicom-mini-16-dig-dug/) (2022-10-29 -> 2022-10-30, 1h)
 
 [Final Fantasy I & II - Dawn of Souls](https://remember.games/game/6866/final-fantasy-i-ii-dawn-of-souls/) (2022-10-07 -> 2023-02-18, 69.85h)
+
+[Gekido Advance - Kintaro's Revenge](https://remember.games/game/7749/gekido-advance-kintaros-revenge/) (2023-08-23, 4.5h)
 
 [Invader](https://remember.games/game/7729/invader/) (2023-04-29 -> 2023-04-30, 3h)
 
@@ -73,8 +75,6 @@ Aladdin
 Dancing Sword - Senkou
 
 [Fire Emblem](https://remember.games/game/2532/fire-emblem/)
-
-[Gekido Advance - Kintaro's Revenge](https://remember.games/game/7749/gekido-advance-kintaros-revenge/)
 
 [Guilty Gear X - Advance Edition](https://remember.games/game/7226/guilty-gear-x-advance-edition/)
 
