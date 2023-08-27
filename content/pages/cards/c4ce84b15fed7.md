@@ -38,22 +38,22 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/sirryu">SirRyu</a></td>
+      <td>4</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/sperbus">Sperbus</a></td>
       <td>4</td>
       </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://www.twitch.tv/sirryu">SirRyu</a></td>
+      <td><a href="https://www.twitch.tv/thatguyfromsomewhere">thatguyfromsomewhere</a></td>
       <td>3</td>
       </tr>
     <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/karin_ch">karin_ch</a></td>
-      <td>2</td>
-      </tr>
-    <tr>
-      <td>3</td>
-      <td><a href="https://www.twitch.tv/thatguyfromsomewhere">thatguyfromsomewhere</a></td>
       <td>2</td>
       </tr>
     <tr>
