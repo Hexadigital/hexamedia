@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 17/94 users (18.09%)
+Collected by 17/95 users (17.89%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
