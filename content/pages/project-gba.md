@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-2-P|24-C|24-H|9-D|1551-U
+2-P|25-C|24-H|9-D|1564-U
 
 ### Playing
 
@@ -57,6 +57,8 @@ Minicraft (2023-06-22, 3.75h)
 [Piglet's Big Game](https://remember.games/game/7941/piglets-big-game/) (2023-06-15 -> 2023-06-22, 3.5h)
 
 [Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/) (2022-12-25 -> 2023-07-01, 33.25h)
+
+Sips
 
 [Snood](https://remember.games/game/6761/snood/) (2022-09-19 -> 2023-01-25, 4.5h)
 
@@ -196,6 +198,8 @@ Agent Hugo - Roborumble
 
 Aggressive Inline
 
+Agoria - Ode to Fate
+
 AirForce Delta Storm
 
 Aka-chan Doubutsuen
@@ -249,6 +253,8 @@ Another World
 Ant Bully, The
 
 Antz - Extreme Racing
+
+Apotris
 
 Archer Maclean's 3D Pool
 
@@ -361,6 +367,8 @@ Batman Begins
 Battle B-Daman
 
 Battle B-Daman - Fire Spirits!
+
+Battle Picross
 
 BattleBots - Beyond the BattleBox
 
@@ -549,6 +557,8 @@ Castlevania - Circle of the Moon
 Castlevania - Harmony of Dissonance
 
 Cat in the Hat, The
+
+Cat's Curse
 
 Catwoman
 
@@ -946,6 +956,8 @@ Elemix!
 
 Elevator Action - Old & New
 
+Elland - The Crystal Wars
+
 Enchanted - Once Upon Andalasia
 
 Eragon
@@ -1222,6 +1234,8 @@ Grand Theft Auto
 
 Green Eggs and Ham by Dr. Seuss
 
+Green Memories
+
 Greg Hastings' Tournament Paintball Max'd
 
 Gremlins - Stripe vs Gizmo
@@ -1394,7 +1408,11 @@ Incredibles, The
 
 Incredibles, The - Rise of the Underminer
 
+Inheritors of the Oubliette
+
 Initial D - Another Stage
+
+Inky and the Alien Aquarium
 
 Inspector Gadget - Advance Mission
 
@@ -1698,6 +1716,8 @@ Love Hina Advance - Shukufuku no Kane wa Naru Kana
 
 Lucky Luke - Wanted!
 
+Luggage Retrieval Officer
+
 Lufia - The Ruins of Lore
 
 Lunar Legend
@@ -1861,6 +1881,8 @@ Metal Max 2 Kai
 Metal Slug - Super Vehicle-001 (Proto)
 
 Metal Slug Advance
+
+Metal Warrior 4
 
 Metalgun Slinger
 
@@ -2185,6 +2207,8 @@ Pinball Tycoon
 
 Pinball of the Dead, The
 
+Ping-Pong Diplomacy Advance
+
 Pink Panther - Pinkadelic Pursuit
 
 Pinky Monkey Town
@@ -2214,6 +2238,8 @@ Play Novel - Silent Hill
 Play-Yan
 
 Pocket Dogs
+
+Pocket Meat
 
 Pocket Music
 
@@ -2779,6 +2805,8 @@ Superman Returns - Fortress of Solitude
 
 Surf's Up
 
+Sushi the Cat
+
 Sutakomi - Star Communicator
 
 Sweet Cookie Pie
@@ -3126,6 +3154,8 @@ Winnie the Pooh's Rumbly Tumbly Adventure
 Winning Post for Game Boy Advance
 
 Winter Sports
+
+With the Last Moonbeam
 
 Wizardry Summoner
 
