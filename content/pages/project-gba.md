@@ -4,11 +4,9 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-2-P|25-C|24-H|9-D|1564-U
+1-P|26-C|24-H|9-D|1564-U
 
 ### Playing
-
-Megaman - Battle Network 2
 
 [Sudoku Fever](https://remember.games/game/7730/sudoku-fever/)
 
@@ -39,6 +37,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 [Mario Kart XXL (Demo)](https://remember.games/game/7560/mario-kart-xxl-prototype/) (2023-06-02, 0.25h)
 
 [Mario vs. Donkey Kong](https://remember.games/game/4327/mario-vs-donkey-kong/) (2022-09-15 -> 2022-09-16, 5.5h)
+
+[Mega Man Battle Network 2](https://remember.games/game/2244/mega-man-battle-network-2/) (2023-06-01 -> 2023-09-01, 33h)
 
 [Mega Man Zero](https://remember.games/game/4369/mega-man-zero/) (2022-06-10 -> 2022-11-04, 7.5h)
 
