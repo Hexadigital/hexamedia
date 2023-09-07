@@ -8,10 +8,13 @@ PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['i18n_subsites']
 SITENAME = 'HexaMedia'
 SITEURL = 'https://hexa.media'
-THEME = 'pelican-bootstrap3'
+#THEME = 'pelican-bootstrap3'
+THEME = 'bootstrap-next'
 TIMEZONE = 'America/Detroit'
 
-STATIC_PATHS = ['images', 'files']
+STATIC_PATHS = ['images', 'files', 'js']
+
+#BOOTSTRAP_NAVBAR_INVERSE = True
 
 # About Me
 ABOUT_ME = '''Nice to meet you! I'm Hex, a VTuber focusing on playing games from start to end, from all eras and for all platforms. In my free time, I enjoy gardening and coding.'''
