@@ -14,6 +14,18 @@ HideTitle: True
 
 <script src='/js/growing.js'></script>
 <script>
+function dynamicSort(property) {
+    var sortOrder = 1;
+    if(property[0] === "-") {
+        sortOrder = -1;
+        property = property.substr(1);
+    }
+    return function (a,b) {
+        var result = (a[property] < b[property]) ? -1 : (a[property] > b[property]) ? 1 : 0;
+        return result * sortOrder;
+    }
+}
+
 function dynamicSortMultiple() {
     var props = arguments;
     return function (obj1, obj2) {
@@ -31,13 +43,22 @@ var searchTerm = document.getElementById('search-box').value.toLowerCase();
 var filtered = jsonArray.filter(jsonObject => 
 jsonObject.name.toLowerCase().includes(searchTerm));
 
-console.log(document.getElementById('platform-dropdown').value);
 if (document.getElementById('platform-dropdown').value) {
     filtered = filtered.filter(jsonObject => 
 jsonObject.platform.includes(document.getElementById('platform-dropdown').value));
 };
 
-filtered.sort(dynamicSortMultiple("votes", "name"));
+var sort_by = document.getElementById('sort-dropdown').value;
+if (sort_by == 1) {
+    filtered.sort(dynamicSortMultiple("name", "-votes"));
+} else if (sort_by == 2) {
+    filtered.sort(dynamicSortMultiple("-name", "-votes"));
+} else if (sort_by == 4) {
+    filtered.sort(dynamicSortMultiple("votes", "name"));
+} else {
+    filtered.sort(dynamicSortMultiple("-votes", "name"));
+};
+    
 
 var html_to_write = '';
 var vote_letter = "s";
