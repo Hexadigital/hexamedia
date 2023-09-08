@@ -78,7 +78,7 @@ for (var i = 0; i < filtered.length; i += 2) {
             </div><br>
             <div class="row align-items-center">
                 <div class="col justify-content-center" align="center">
-                    ID: ${filtered[i].id} | ${filtered[i].platform} | ${filtered[i].votes} Vote${vote_letter}
+                    #${filtered[i].id} | ${filtered[i].platform} | ${filtered[i].votes} Vote${vote_letter}
                 </div>
             </div>
         </div>
@@ -99,7 +99,7 @@ for (var i = 0; i < filtered.length; i += 2) {
             </div><br>
             <div class="row align-items-center">
                 <div class="col justify-content-center" align="center">
-                    ID: ${filtered[i+1].id} | ${filtered[i+1].platform} | ${filtered[i+1].votes} Vote${vote_letter}
+                    #${filtered[i+1].id} | ${filtered[i+1].platform} | ${filtered[i+1].votes} Vote${vote_letter}
                 </div>
             </div>
         </div>

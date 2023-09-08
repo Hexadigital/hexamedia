@@ -24,7 +24,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/jimmy_mapp">jimmy_mapp</a></td>
-      <td>5</td>
+      <td>6</td>
       </tr>
     <tr>
       <td>2</td>
