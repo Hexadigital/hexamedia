@@ -84,12 +84,6 @@ var jsonArray = [
     "votes": 1
 },
 {
-    "id": 64,
-    "name": "Destrega",
-    "platform": "PlayStation",
-    "votes": 1
-},
-{
     "id": 66,
     "name": "Kim Possible: Revenge of Monkey Fist",
     "platform": "Game Boy Advance",

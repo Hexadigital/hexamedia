@@ -77,7 +77,7 @@ for (var i = 0; i < filtered.length; i += 2) {
             </div><br>
             <div class="row align-items-center">
                 <div class="col justify-content-center" align="center">
-                    #${filtered[i].id} | ${filtered[i].platform} | ${filtered[i].votes} Vote${vote_letter}
+                    <span class="badge badge-dark">#${filtered[i].id}</span> | <span class="badge badge-secondary">${filtered[i].platform}</span> | <span class="badge badge-primary">${filtered[i].votes} Vote${vote_letter}</span>
                 </div>
             </div>
         </div>
@@ -98,7 +98,7 @@ for (var i = 0; i < filtered.length; i += 2) {
             </div><br>
             <div class="row align-items-center">
                 <div class="col justify-content-center" align="center">
-                    #${filtered[i+1].id} | ${filtered[i+1].platform} | ${filtered[i+1].votes} Vote${vote_letter}
+                    <span class="badge badge-dark">#${filtered[i+1].id}</span> | <span class="badge badge-secondary">${filtered[i+1].platform}</span> | <span class="badge badge-primary">${filtered[i+1].votes} Vote${vote_letter}</span>
                 </div>
             </div>
         </div>
