@@ -2,16 +2,17 @@ Title: Garden of Games
 Summary: See the past, present, and future of streaming.
 Slug: gog
 Status: Hidden
+HideTitle: True
 
 
 ## <center><a href='/gog'><b>Entrance</b></a> | <a href='/gog/growing'>Growing</a> | <a href='/gog/harvested'>Harvested</a> | <a href='/gog/composted'>Composted</a> | <a href='/gog/seeded'>Seeded</a></center>
 
 ---
 
-Plants Growing (Games in Progress): 0
+Welcome to the Garden of Games!
 
-Plants Harvested (Games Completed): 0
+Here you can see the past, present, and future of my streams.
 
-Plants Composted (Games Dropped): 0
+Games streamed are either Growing (in progress), Harvested (completed), or Composted (dropped).
 
-Seeds Planted (Potential Streams): 0
+Potential upcoming streams are in the Seeded category - you can vote them up or down to determine the future of my streams!
