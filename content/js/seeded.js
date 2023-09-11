@@ -1371,7 +1371,7 @@ var jsonArray = [
         "id": 347,
         "name": "Chrono Trigger",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 348,
@@ -1581,7 +1581,7 @@ var jsonArray = [
         "id": 382,
         "name": "Drill Dozer",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 383,
@@ -3105,7 +3105,7 @@ var jsonArray = [
         "id": 636,
         "name": "Wild Arms",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 637,
@@ -3363,6 +3363,1014 @@ var jsonArray = [
         "id": 679,
         "name": "Yu Yu Hakusho: Ghost Files - Tournament Tactics",
         "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 680,
+        "name": "Phantasy Star Collection",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 681,
+        "name": "Crisis Force",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 682,
+        "name": "Crystalis",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 683,
+        "name": "Destiny of an Emperor",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 684,
+        "name": "Dream Master",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 685,
+        "name": "Fire Emblem Gaiden",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 686,
+        "name": "Fire Emblem: Shadow Dragon and the Blade of Light",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 687,
+        "name": "Gauntlet",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 688,
+        "name": "Gradius",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 689,
+        "name": "Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 690,
+        "name": "Keroppi to Keroriinu no Splash Bomb!",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 691,
+        "name": "Kirby's Adventure ",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 692,
+        "name": "Lipple Island | Ripple Island",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 693,
+        "name": "Magical Doropie",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 694,
+        "name": "Majou Densetsu II: Daimashikyou Galious | Maze of Galious",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 695,
+        "name": "Mega Man",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 696,
+        "name": "Mega Man 2",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 697,
+        "name": "Mega Man 3",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 698,
+        "name": "Mega Man 4",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 699,
+        "name": "Mega Man 5",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 700,
+        "name": "Mega Man 6",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 701,
+        "name": "Mr. Gimmick",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 702,
+        "name": "Nightshade",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 703,
+        "name": "Ninja Gaiden",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 704,
+        "name": "Parodius",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 705,
+        "name": "Moon Crystal",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 706,
+        "name": "Puyo Puyo",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 707,
+        "name": "Romancia: Dragon Slayer Jr.",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 708,
+        "name": "Saint Seiya: Ougon Densetsu Kanketsu Hen",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 709,
+        "name": "Power Blade",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 710,
+        "name": "Power Blazer",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 711,
+        "name": "Strider",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 712,
+        "name": "Super Mario Bros. 2",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 713,
+        "name": "Super Mario Bros. 3",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 714,
+        "name": "Sword Master",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 715,
+        "name": "Swords and Serpents",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 716,
+        "name": "TwinBee",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 717,
+        "name": "Urusei Yatsura: Lum no Wedding Bell",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 718,
+        "name": "Rockman 3: The Last of Mushroom Kingdom?!",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 719,
+        "name": "Rockman Cross X",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 720,
+        "name": "KiraKira Star Night AC",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 721,
+        "name": "KiraKira Star Night DX",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 722,
+        "name": "Micro Mages",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 723,
+        "name": "The Tower of Turmoil",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 724,
+        "name": "Megaman 1: The New Lands",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 725,
+        "name": "Megaman 1: The New Lands Remastered",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 726,
+        "name": "Battle B-Daman",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 727,
+        "name": "CIMA: The Enemy",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 728,
+        "name": "Dokapon: Monster Hunter",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 729,
+        "name": "Final Fantasy IV: Advance",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 730,
+        "name": "Gunstar Super Heroes",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 731,
+        "name": "The King of Fighters EX: Neo Blood",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 732,
+        "name": "The King of Fighters EX2: Howling Blood",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 733,
+        "name": "Lady Sia",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 734,
+        "name": "Lufia: The Ruins of Lore",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 735,
+        "name": "Lunar Legend",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 736,
+        "name": "Monster Rancher Advance 2",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 737,
+        "name": "Puyo Pop Fever",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 738,
+        "name": "Street Fighter Alpha 3",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 739,
+        "name": "Tekken Advance",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 740,
+        "name": "Yoshi's Island: Super Mario Advance 3",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 741,
+        "name": "Super Mario Advance",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 742,
+        "name": "Super Mario Advance 4: Super Mario Bros. 3",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 743,
+        "name": "Super Mario World: Super Mario Advance 2",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 744,
+        "name": "Super Puzzle Fighter II Turbo",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 745,
+        "name": "Super Street Fighter II Turbo Revival",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 746,
+        "name": "Art of Fighting",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 747,
+        "name": "Axelay",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 748,
+        "name": "Bio Metal",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 749,
+        "name": "Bishoujo Senshi Sailor Moon R",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 750,
+        "name": "Bishoujo Senshi Sailor Moon Super S: Fuwa Fuwa Panic",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 751,
+        "name": "Bishoujo Senshi Sailor Moon: Another Story",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 752,
+        "name": "Blackthorne",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 753,
+        "name": "BS The Legend of Zelda: Ancient Stone Tablets",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 754,
+        "name": "BS The Legend of Zelda",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 755,
+        "name": "BS Fire Emblem: Archanea Saga - Chapters 1-4",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 756,
+        "name": "Brandish",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 757,
+        "name": "Brandish 2: The Planet Buster",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 758,
+        "name": "Brain Lord",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 759,
+        "name": "BS Super Aleste",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 760,
+        "name": "Castlevania: Dracula X",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 761,
+        "name": "Chaos Seed: Fuusui Kairoki",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 762,
+        "name": "Clock Tower",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 763,
+        "name": "Demon's Crest",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 764,
+        "name": "Do-Re-Mi Fantasy: Milon no Dokidoki Daibouken",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 765,
+        "name": "Dragon View",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 766,
+        "name": "Dual Orb II",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 767,
+        "name": "Gon",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 768,
+        "name": "Final Fantasy: Mystic Quest",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 769,
+        "name": "Fire Emblem: Genealogy of the Holy War",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 770,
+        "name": "Fire Emblem: Mystery of the Emblem",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 771,
+        "name": "Fire Emblem: Thracia 776",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 772,
+        "name": "Firestriker",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 773,
+        "name": "Final Fantasy IV",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 774,
+        "name": "Kaizou Choujin Shubibinman Zero",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 775,
+        "name": "Kendo Rage",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 776,
+        "name": "Kirby Super Star",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 777,
+        "name": "Kirby's Toy Box",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 778,
+        "name": "Kirby's Dream Course",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 779,
+        "name": "Kirby's Dream Land 3",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 780,
+        "name": "Harvest Moon",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 781,
+        "name": "Hyper Iria",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 782,
+        "name": "Illusion of Gaia",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 783,
+        "name": "Incantation",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 784,
+        "name": "Madou Monogatari: Hanamaru Daiyouchi Enji",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 785,
+        "name": "Tales of Phantasia",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 786,
+        "name": "Tamori no Picross",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 787,
+        "name": "Wolverine: Adamantium Rage",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 788,
+        "name": "X-Men: Mutant Apocalypse",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 789,
+        "name": "Xardion",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 790,
+        "name": "Super Street Fighter II: The New Challengers",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 791,
+        "name": "Super Black Bass",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 792,
+        "name": "Super Mario Kart",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 793,
+        "name": "Super Mario RPG: Legend of the Seven Stars",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 794,
+        "name": "Super Mario World",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 795,
+        "name": "Super Mario World 2: Yoshi's Island",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 796,
+        "name": "Soul Blazer",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 797,
+        "name": "Sparkster",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 798,
+        "name": "Street Fighter Alpha 2",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 799,
+        "name": "Street Fighter II: The World Warrior",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 800,
+        "name": "Street Fighter II: Turbo",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 801,
+        "name": "SimAnt: The Electronic Ant Colony",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 802,
+        "name": "Samurai Shodown",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 803,
+        "name": "Secret of Evermore",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 804,
+        "name": "Ranma 1/2: Akanekodan Teki Hihou",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 805,
+        "name": "Ranma 1/2: Chougi Ranbu Hen",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 806,
+        "name": "Ranma 1/2: Chounai Gekitou Hen",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 807,
+        "name": "Ranma 1/2: Hard Battle",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 808,
+        "name": "Rudra no Hihou",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 809,
+        "name": "Paladin's Quest",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 810,
+        "name": "Magic Knight Rayearth",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 811,
+        "name": "Magical Pop'n",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 812,
+        "name": "Marchen Adventure Cotton 100%",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 813,
+        "name": "Marvel Super Heroes: War of the Gems",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 814,
+        "name": "Mega Man 7",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 815,
+        "name": "Mega Man X",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 816,
+        "name": "Mega Man X2",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 817,
+        "name": "Mega Man X3",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 818,
+        "name": "Mega Man X: Zero Playable",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 819,
+        "name": "Mega Man X3: Zero Project",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 820,
+        "name": "Mega Man X2: Zero Playable",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 821,
+        "name": "Sicari Remastered",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 822,
+        "name": "Captain Toad Treasure Tracker",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 823,
+        "name": "Arkanoid DS",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 824,
+        "name": "Mario & Luigi: Partners in Time",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 825,
+        "name": "Mario Kart DS",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 826,
+        "name": "Mario Party DS",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 827,
+        "name": "Mega Man Star Force: Leo",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 828,
+        "name": "Mega Man Star Force 2: Zerker x Ninja",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 829,
+        "name": "Monster Tale",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 830,
+        "name": "Lost in Blue",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 831,
+        "name": "Izuna: Legend of the Unemployed Ninja",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 832,
+        "name": "Harvest Moon DS",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 833,
+        "name": "Harvest Moon DS: Island of Happiness",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 834,
+        "name": "Golden Sun: Dark Dawn",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 835,
+        "name": "Draglade",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 836,
+        "name": "Drawn To Life",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 837,
+        "name": "Fire Emblem: Shadow Dragon",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 838,
+        "name": "Flower, Sun and Rain",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 839,
+        "name": "Mystery Dungeon: Shiren The Wanderer",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 840,
+        "name": "New Super Mario Bros.",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 841,
+        "name": "Ni no Kuni: The Jet-Black Mage",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 842,
+        "name": "Yoshi Touch & Go",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 843,
+        "name": "Scribblenauts",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 844,
+        "name": "Super Princess Peach",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 845,
+        "name": "Super Scribblenauts",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 846,
+        "name": "Ragnarok DS",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 847,
+        "name": "Ore ga Omae o Mamoru | I Will Protect You",
+        "platform": "Nintendo DS",
         "votes": 0
     }
 ]
