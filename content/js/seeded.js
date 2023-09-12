@@ -4372,5 +4372,437 @@ var jsonArray = [
         "name": "Ore ga Omae o Mamoru | I Will Protect You",
         "platform": "Nintendo DS",
         "votes": 0
+    },
+    {
+        "id": 848,
+        "name": "Pokemon Snap",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 849,
+        "name": "Doubutsu no Mori | Animal Forest (untranslated)",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 850,
+        "name": "Mario Party 3",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 851,
+        "name": "Mario Party 2",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 852,
+        "name": "Mario Party",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 853,
+        "name": "Kirby 64: The Crystal Shards",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 854,
+        "name": "Dragon Quest Wars",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 855,
+        "name": "G.G Series: All Breaker",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 856,
+        "name": "GO Series: Fishing Resort",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 857,
+        "name": "Mr. Driller: Drill till you Drop",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 858,
+        "name": "Chocobo no Fushigi na Dungeon | Chocobo's Dungeon",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 859,
+        "name": "Chocobo Racing",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 860,
+        "name": "Chocobo's Dungeon 2",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 861,
+        "name": "Choro Q | Penny Racers",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 862,
+        "name": "Choro Q 2",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 863,
+        "name": "Choro Q 3",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 864,
+        "name": "Community Pom",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 865,
+        "name": "Cowboy Bebop",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 866,
+        "name": "Diablo",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 867,
+        "name": "Eternal Eyes",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 868,
+        "name": "Ghost in the Shell",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 869,
+        "name": "Fisherman's Bait 2: Big Ol' Bass | Exciting Bass 2",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 870,
+        "name": "JoJo's Bizarre Adventure",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 871,
+        "name": "Jumping Flash!",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 872,
+        "name": "Jumping Flash! 2",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 873,
+        "name": "Kaze no NOTAM",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 874,
+        "name": "The Legend of Dragoon",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 875,
+        "name": "Legend of Legaia",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 876,
+        "name": "Mega Man 8",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 877,
+        "name": "Mega Man Legends",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 878,
+        "name": "Mega Man Legends 2",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 879,
+        "name": "Mega Man X3",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 880,
+        "name": "Mega Man X4",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 881,
+        "name": "Mega Man X5",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 882,
+        "name": "Mega Man X6",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 883,
+        "name": "Pong: The Next Level",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 884,
+        "name": "Reel Fishing | Fish Eyes",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 885,
+        "name": "Battle Stadium D.O.N",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 886,
+        "name": "God Hand",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 887,
+        "name": "Fullmetal Alchemist and the Broken Angel",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 888,
+        "name": "Dark Cloud",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 889,
+        "name": "Half-Life",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 890,
+        "name": "Mega Man X8",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 891,
+        "name": "Mega Man X7",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 892,
+        "name": "Naruto Shippuden: Ultimate Ninja 5",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 893,
+        "name": "Naruto Shippuden: Ultimate Ninja 4",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 894,
+        "name": "NeoGeo Battle Coliseum",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 895,
+        "name": "Shadow Hearts",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 896,
+        "name": ".hack//Link",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 897,
+        "name": "Cladun: This Is An RPG",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 898,
+        "name": "Creature Defense",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 899,
+        "name": "Steins;Gate",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 900,
+        "name": "Puzzle Quest: Challenge of the Warlords",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 901,
+        "name": "Pangya Fantasy Golf",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 902,
+        "name": "Mega Man: Powered Up",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 903,
+        "name": "Gauntlet: The Third Encounter",
+        "platform": "Atari Lynx",
+        "votes": 0
+    },
+    {
+        "id": 904,
+        "name": "Shadow of the Beast",
+        "platform": "Atari Lynx",
+        "votes": 0
+    },
+    {
+        "id": 905,
+        "name": "Golvellius: Valley of Doom",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 906,
+        "name": "Miracle Warriors: Seal of the Dark Lord",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 907,
+        "name": "Phantasy Star",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 908,
+        "name": "Psychic World",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 909,
+        "name": "R-Type",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 910,
+        "name": "Picross",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 911,
+        "name": "Coca-Cola Kid",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 912,
+        "name": "Crystal Warriors",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 913,
+        "name": "Dragon Crystal",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 914,
+        "name": "Mega Man",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 915,
+        "name": "Moldorian: The Sisters of Light and Darkness | Hikari to Yami no Sister",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 916,
+        "name": "Phantasy Star Adventure",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 917,
+        "name": "Phantasy Star Gaiden",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 918,
+        "name": "Royal Stone: Hirakareshi Toki no Tobira",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 919,
+        "name": "Sylvan Tale",
+        "platform": "Game Gear",
+        "votes": 0
     }
 ]
