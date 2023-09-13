@@ -54,6 +54,8 @@ if (sort_by == 1) {
     filtered.sort(dynamicSortMultiple("-name", "-votes"));
 } else if (sort_by == 4) {
     filtered.sort(dynamicSortMultiple("votes", "name"));
+} else if (sort_by == 5) {
+    filtered.sort(dynamicSortMultiple("-id"));
 } else {
     filtered.sort(dynamicSortMultiple("-votes", "name"));
 };
@@ -136,6 +138,7 @@ html_to_write = html_to_write.concat(`</select>
       <option value="2">Name (Z-A)</option>
       <option value="3">Votes (highest first)</option>
       <option value="4">Votes (lowest first)</option>
+      <option value="5">Latest First</option>
     </select>
     </div>
   </div>

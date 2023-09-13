@@ -86,7 +86,7 @@ var jsonArray = [
     {
         "id": 96,
         "name": "Kolibri",
-        "platform": "32X",
+        "platform": "Sega 32X",
         "votes": 1
     },
     {
@@ -4803,6 +4803,336 @@ var jsonArray = [
         "id": 919,
         "name": "Sylvan Tale",
         "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 920,
+        "name": "46 Okunen Monogatari: The Shinkaron",
+        "platform": "PC-98",
+        "votes": 0
+    },
+    {
+        "id": 921,
+        "name": "Alisia Dragoon",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 922,
+        "name": "Arcus Odyssey",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 923,
+        "name": "Bishoujo Senshi Sailor Moon",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 924,
+        "name": "Gaiares",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 925,
+        "name": "El Viento",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 926,
+        "name": "Ex-Mutants",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 927,
+        "name": "Exile",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 928,
+        "name": "King Salmon: The Big Catch",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 929,
+        "name": "Landstalker",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 930,
+        "name": "Lord Monarch: Tokoton Sentou Densetsu",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 931,
+        "name": "Marble Madness",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 932,
+        "name": "Mystic Defender",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 933,
+        "name": "Jewel Master",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 934,
+        "name": "Twinkle Tale",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 935,
+        "name": "Valis",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 936,
+        "name": "Vectorman",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 937,
+        "name": "Panorama Cotton",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 938,
+        "name": "Phantasy Star II",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 939,
+        "name": "Syd of Valis",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 940,
+        "name": "Earnest Evans",
+        "platform": "Sega CD",
+        "votes": 0
+    },
+    {
+        "id": 941,
+        "name": "Popful Mail",
+        "platform": "Sega CD",
+        "votes": 0
+    },
+    {
+        "id": 942,
+        "name": "Time Gal",
+        "platform": "Sega CD",
+        "votes": 0
+    },
+    {
+        "id": 943,
+        "name": "Vay",
+        "platform": "Sega CD",
+        "votes": 0
+    },
+    {
+        "id": 944,
+        "name": "The Amazing Spider-Man: Web of Fire",
+        "platform": "Sega 32X",
+        "votes": 0
+    },
+    {
+        "id": 945,
+        "name": "DeJig: Aqua World",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 946,
+        "name": "DeJig: McKnight - Art Collection",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 947,
+        "name": "DeJig: Tin Toy",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 948,
+        "name": "Sega Bass Fishing",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 949,
+        "name": "Batman",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 950,
+        "name": "Bonk's Adventure",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 951,
+        "name": "Bonk's Revenge",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 952,
+        "name": "Bonk III: Bonk's Big Adventure",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 953,
+        "name": "Cyber Core",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 954,
+        "name": "Dragon's Curse",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 955,
+        "name": "Dragon Spirit",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 956,
+        "name": "Valkyrie no Densetsu",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 957,
+        "name": "Gate of Thunder",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 958,
+        "name": "Motteke Tamago",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 959,
+        "name": "Summer Carnival '93: Nexzr Special",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 960,
+        "name": "Sylphia",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 961,
+        "name": "Chip-chan Kick! (untranslated)",
+        "platform": "PC-FX",
+        "votes": 0
+    },
+    {
+        "id": 962,
+        "name": "Choujin Heiki Zeroigar",
+        "platform": "PC-FX",
+        "votes": 0
+    },
+    {
+        "id": 963,
+        "name": "Farland Story FX",
+        "platform": "PC-FX",
+        "votes": 0
+    },
+    {
+        "id": 964,
+        "name": "Shanghai: Banri no Choujou",
+        "platform": "PC-FX",
+        "votes": 0
+    },
+    {
+        "id": 965,
+        "name": "Picture Puzzle (Karoshi Corporation)",
+        "platform": "MSX",
+        "votes": 0
+    },
+    {
+        "id": 966,
+        "name": "Final Fantasy",
+        "platform": "MSX",
+        "votes": 0
+    },
+    {
+        "id": 967,
+        "name": "SNK vs. Capcom: The Match of the Millennium",
+        "platform": "Neo Geo Pocket",
+        "votes": 0
+    },
+    {
+        "id": 968,
+        "name": "SNK vs. Capcom: Card Fighters' Clash",
+        "platform": "Neo Geo Pocket",
+        "votes": 0
+    },
+    {
+        "id": 969,
+        "name": "SNK vs. Capcom: Card Fighters 2: Expand Edition",
+        "platform": "Neo Geo Pocket",
+        "votes": 0
+    },
+    {
+        "id": 970,
+        "name": "Samurai Shodown 2!: Pocket Fighting Series",
+        "platform": "Neo Geo Pocket",
+        "votes": 0
+    },
+    {
+        "id": 971,
+        "name": "Chocobo's Dungeon for WonderSwan",
+        "platform": "WonderSwan",
+        "votes": 0
+    },
+    {
+        "id": 972,
+        "name": "Dicing Knight.",
+        "platform": "WonderSwan",
+        "votes": 0
+    },
+    {
+        "id": 973,
+        "name": "Final Fantasy IV",
+        "platform": "WonderSwan",
+        "votes": 0
+    },
+    {
+        "id": 974,
+        "name": "Shanghai Pocket",
+        "platform": "WonderSwan",
         "votes": 0
     }
 ]
