@@ -1323,7 +1323,7 @@ var jsonArray = [
         "id": 64,
         "name": "Destrega",
         "platform": "PlayStation",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 340,
