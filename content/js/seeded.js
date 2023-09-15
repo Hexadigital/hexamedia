@@ -57,7 +57,7 @@ var jsonArray = [
         "id": 72,
         "name": "E.V.O.: Search for Eden",
         "platform": "SNES",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 75,
@@ -1293,7 +1293,7 @@ var jsonArray = [
         "id": 335,
         "name": "Castlevania: Symphony of the Night",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 336,
@@ -1353,7 +1353,7 @@ var jsonArray = [
         "id": 344,
         "name": "Chibi-Robo! Zip Lash",
         "platform": "Nintendo 3DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 345,
@@ -1545,7 +1545,7 @@ var jsonArray = [
         "id": 376,
         "name": "Divinity: Dragon Commander",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 377,
@@ -1581,7 +1581,7 @@ var jsonArray = [
         "id": 382,
         "name": "Drill Dozer",
         "platform": "Game Boy Advance",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 383,
@@ -3165,7 +3165,7 @@ var jsonArray = [
         "id": 646,
         "name": "Valkyrie Profile: Lenneth",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 647,
