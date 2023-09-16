@@ -87,7 +87,7 @@ var jsonArray = [
         "id": 96,
         "name": "Kolibri",
         "platform": "Sega 32X",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 120,
@@ -4815,7 +4815,7 @@ var jsonArray = [
         "id": 921,
         "name": "Alisia Dragoon",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 922,
