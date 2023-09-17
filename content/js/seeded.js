@@ -93,7 +93,7 @@ var jsonArray = [
         "id": 120,
         "name": "PulseMan",
         "platform": "Mega Drive",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 122,
