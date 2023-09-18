@@ -1095,7 +1095,7 @@ var jsonArray = [
         "id": 302,
         "name": "Bastion",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 303,
@@ -3771,7 +3771,7 @@ var jsonArray = [
         "id": 747,
         "name": "Axelay",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 748,
@@ -4023,7 +4023,7 @@ var jsonArray = [
         "id": 789,
         "name": "Xardion",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 790,
@@ -5133,6 +5133,12 @@ var jsonArray = [
         "id": 974,
         "name": "Shanghai Pocket",
         "platform": "WonderSwan",
+        "votes": 0
+    },
+    {
+        "id": 975,
+        "name": "Albert Odyssey: Legend of Eldean",
+        "platform": "Saturn",
         "votes": 0
     }
 ]
