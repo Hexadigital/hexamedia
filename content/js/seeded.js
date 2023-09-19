@@ -2718,12 +2718,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 572,
-        "name": "Shin Megami Tensei: Persona 3 FES",
-        "platform": "PlayStation 2",
-        "votes": 0
-    },
-    {
         "id": 573,
         "name": "Persona 4 Golden",
         "platform": "PC",
