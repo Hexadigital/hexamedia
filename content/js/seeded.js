@@ -2001,7 +2001,7 @@ var jsonArray = [
         "id": 452,
         "name": "Hypnospace Outlaw",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 453,
