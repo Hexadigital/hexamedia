@@ -903,7 +903,7 @@ var jsonArray = [
         "id": 270,
         "name": ".hack//Infection",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 271,
@@ -1323,7 +1323,7 @@ var jsonArray = [
         "id": 64,
         "name": "Destrega",
         "platform": "PlayStation",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 340,
@@ -2817,7 +2817,7 @@ var jsonArray = [
         "id": 589,
         "name": "Starsiege",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 590,
@@ -4803,7 +4803,7 @@ var jsonArray = [
         "id": 920,
         "name": "46 Okunen Monogatari: The Shinkaron",
         "platform": "PC-98",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 921,

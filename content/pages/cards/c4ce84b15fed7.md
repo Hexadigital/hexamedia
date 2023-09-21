@@ -63,6 +63,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>3</td>
+      <td><a href="https://www.twitch.tv/lcolonq">LCOLONQ</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
       <td>2</td>
       </tr>
@@ -94,11 +99,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>4</td>
       <td><a href="https://www.twitch.tv/khemiamistwalker">KhemiaMistwalker</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>4</td>
-      <td><a href="https://www.twitch.tv/lcolonq">LCOLONQ</a></td>
       <td>1</td>
       </tr>
     <tr>
