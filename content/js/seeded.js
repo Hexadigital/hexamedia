@@ -393,7 +393,7 @@ var jsonArray = [
         "id": 184,
         "name": "Ayakashi no Shiro",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 185,
@@ -3759,7 +3759,7 @@ var jsonArray = [
         "id": 746,
         "name": "Art of Fighting",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 747,
