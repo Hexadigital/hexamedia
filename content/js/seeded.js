@@ -1191,7 +1191,7 @@ var jsonArray = [
         "id": 318,
         "name": "Bravely Default",
         "platform": "Nintendo 3DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 319,
