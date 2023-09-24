@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 19/106 users (17.92%)
+Collected by 20/106 users (18.87%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -104,6 +104,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>4</td>
       <td><a href="https://www.twitch.tv/lokodavis55">lokodavis55</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="https://www.twitch.tv/murder_vt">Murder_VT</a></td>
       <td>1</td>
       </tr>
     <tr>
