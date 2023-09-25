@@ -1281,7 +1281,7 @@ var jsonArray = [
         "id": 333,
         "name": "Castlevania: Circle of the Moon",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 334,
