@@ -66,12 +66,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 86,
-        "name": "Hitman GO: Definitive Edition",
-        "platform": "PC",
-        "votes": 1
-    },
-    {
         "id": 89,
         "name": "Inverse Evolver",
         "platform": "PC",
@@ -1318,12 +1312,6 @@ var jsonArray = [
         "name": "Cave Story MD",
         "platform": "Mega Drive",
         "votes": 0
-    },
-    {
-        "id": 64,
-        "name": "Destrega",
-        "platform": "PlayStation",
-        "votes": 3
     },
     {
         "id": 340,
@@ -5133,6 +5121,42 @@ var jsonArray = [
         "id": 975,
         "name": "Albert Odyssey: Legend of Eldean",
         "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 976,
+        "name": "The Legend of Zelda: The Shadow's Fall",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 977,
+        "name": "Legend of the River King 2",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 978,
+        "name": "X-Men: The Official Game",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 979,
+        "name": "Coryoon: Child of Dragon",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 980,
+        "name": "100 Rooms of Enemies",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 981,
+        "name": "Nazo Puyo 2",
+        "platform": "Game Gear",
         "votes": 0
     }
 ]
