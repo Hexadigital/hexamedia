@@ -1569,7 +1569,7 @@ var jsonArray = [
         "id": 382,
         "name": "Drill Dozer",
         "platform": "Game Boy Advance",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 383,
@@ -2733,7 +2733,7 @@ var jsonArray = [
         "id": 577,
         "name": "Skyblazer",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 578,
@@ -3849,7 +3849,7 @@ var jsonArray = [
         "id": 763,
         "name": "Demon's Crest",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 764,
@@ -4287,7 +4287,7 @@ var jsonArray = [
         "id": 836,
         "name": "Drawn To Life",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 837,
