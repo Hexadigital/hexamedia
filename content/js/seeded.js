@@ -4821,7 +4821,7 @@ var jsonArray = [
         "id": 925,
         "name": "El Viento",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 926,
