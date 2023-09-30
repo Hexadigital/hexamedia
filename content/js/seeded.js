@@ -2937,7 +2937,7 @@ var jsonArray = [
         "id": 611,
         "name": "The Journeyman Project 2: Buried in Time",
         "platform": "PC",
-        "votes": 0
+        "votes": 6
     },
     {
         "id": 612,
@@ -3999,7 +3999,7 @@ var jsonArray = [
         "id": 788,
         "name": "X-Men: Mutant Apocalypse",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 789,
