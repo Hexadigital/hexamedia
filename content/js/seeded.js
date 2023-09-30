@@ -2679,7 +2679,7 @@ var jsonArray = [
         "id": 567,
         "name": "Shadow of the Colossus",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 568,
@@ -2805,7 +2805,7 @@ var jsonArray = [
         "id": 589,
         "name": "Starsiege",
         "platform": "PC",
-        "votes": 1
+        "votes": 7
     },
     {
         "id": 590,
@@ -4587,7 +4587,7 @@ var jsonArray = [
         "id": 886,
         "name": "God Hand",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 887,
@@ -4791,7 +4791,7 @@ var jsonArray = [
         "id": 920,
         "name": "46 Okunen Monogatari: The Shinkaron",
         "platform": "PC-98",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 921,
