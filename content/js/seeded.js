@@ -4875,7 +4875,7 @@ var jsonArray = [
         "id": 934,
         "name": "Twinkle Tale",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 935,
