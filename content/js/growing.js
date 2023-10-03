@@ -1,11 +1,5 @@
 var jsonArray = [
     {
-        "id": 3,
-        "name": "The Legend of Zelda: Twilight Princess",
-        "platform": "GameCube",
-        "votes": 0
-    },
-    {
         "id": 2,
         "name": "Final Fantasy IV: The Complete Collection",
         "platform": "PlayStation Portable",
@@ -18,10 +12,16 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 64,
-        "name": "Destrega",
-        "platform": "PlayStation",
-        "votes": 3
+        "id": 314,
+        "name": "Boktai: The Sun is in Your Hand",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 358,
+        "name": "D4: Dark Dreams Don\u2019t Die -Season One-",
+        "platform": "PC",
+        "votes": 0
     },
     {
         "id": 86,

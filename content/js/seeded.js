@@ -1158,12 +1158,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 314,
-        "name": "Boktai: The Sun is in Your Hand (replay)",
-        "platform": "Game Boy Advance",
-        "votes": 0
-    },
-    {
         "id": 315,
         "name": "Boktai 2: Solar Boy Django",
         "platform": "Game Boy Advance",
@@ -1418,12 +1412,6 @@ var jsonArray = [
     {
         "id": 357,
         "name": "Cyberdimension Neptunia: 4 Goddesses Online",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
-        "id": 358,
-        "name": "D4: Dark Dreams Don\u2019t Die -Season One-",
         "platform": "PC",
         "votes": 0
     },
@@ -5157,6 +5145,36 @@ var jsonArray = [
         "id": 981,
         "name": "Nazo Puyo 2",
         "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 982,
+        "name": "Pokemon Kalos Crystal",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 983,
+        "name": "Peggle: Dual Shot",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 984,
+        "name": "Darius Alpha",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 985,
+        "name": "C_So!",
+        "platform": "SG-1000",
+        "votes": 0
+    },
+    {
+        "id": 986,
+        "name": "The Black Onyx",
+        "platform": "SG-1000",
         "votes": 0
     }
 ]

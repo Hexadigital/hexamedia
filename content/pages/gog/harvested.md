@@ -48,14 +48,14 @@ if (document.getElementById('platform-dropdown').value) {
 };
 
 var sort_by = document.getElementById('sort-dropdown').value;
-if (sort_by == 1) {
-    filtered.sort(dynamicSortMultiple("name", "-votes"));
+if (sort_by == 3) {
+    filtered.sort(dynamicSortMultiple("-votes", "name"));
 } else if (sort_by == 2) {
     filtered.sort(dynamicSortMultiple("-name", "-votes"));
 } else if (sort_by == 4) {
     filtered.sort(dynamicSortMultiple("votes", "name"));
 } else {
-    filtered.sort(dynamicSortMultiple("-votes", "name"));
+    filtered.sort(dynamicSortMultiple("name", "-votes"));
 };
     
 

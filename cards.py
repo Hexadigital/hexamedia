@@ -1,3 +1,7 @@
+wip = {
+
+}
+
 cards = {
     'Clover Power Set': [
         {
@@ -188,6 +192,197 @@ cards = {
             'Artist': 'hiduki_Laurant',
             'Artist Link': 'https://twitter.com/hiduki_Laurant',
             'Source': 'https://skeb.jp/@hiduki_Laurant/works/168'
+        },
+    ],
+    'Radish Riot Set': [
+        {
+            'ID':'83c4720aa822',
+            'Name': 'Blue Bird Tuesday',
+            'Number': '22',
+            'Rarity':'Common',
+            'Artist': 'KinariKaho',
+            'Artist Link': 'https://twitter.com/KinariKaho',
+            'Source': 'https://skeb.jp/@KinariKaho/works/1'
+        },
+        {
+            'ID':'ebac18703723',
+            'Name': 'Handheld Hexa',
+            'Number': '23',
+            'Rarity':'Common',
+            'Artist': 'NNN39__',
+            'Artist Link': 'https://twitter.com/NNN39__',
+            'Source': 'https://twitter.com/NNN39__/status/1691298512506675200'
+        },
+        {
+            'ID':'0b8f34452424',
+            'Name': 'Spring Into Action',
+            'Number': '24',
+            'Rarity':'Common',
+            'Artist': 'tomadoll_2',
+            'Artist Link': 'https://twitter.com/tomadoll_2',
+            'Source': 'https://skeb.jp/@tomadoll_2/works/2'
+        },
+        {
+            'ID':'d05b9c77a425',
+            'Name': 'Looking Forward',
+            'Number': '25',
+            'Rarity':'Common',
+            'Artist': 'samuer_2',
+            'Artist Link': 'https://twitter.com/samuer_2',
+            'Source': 'https://twitter.com/samuer_2/status/1692073152363614698'
+        },
+        {
+            'ID':'3f2139cc3926',
+            'Name': 'Mini Hex is Here',
+            'Number': '26',
+            'Rarity':'Common',
+            'Artist': 'es_tra_',
+            'Artist Link': 'https://twitter.com/es_tra_',
+            'Source': 'https://skeb.jp/@es_tra_/works/128'
+        },
+        {
+            'ID':'ffb1eeb66327',
+            'Name': 'A Hex-Like Plant',
+            'Number': '27',
+            'Rarity':'Common',
+            'Artist': 'kulo_062013',
+            'Artist Link': 'https://twitter.com/kulo_062013',
+            'Source': 'https://twitter.com/kulo_062013/status/1644559394594758661'
+        },
+        {
+            'ID':'f5240da30028',
+            'Name': 'Helping Assist',
+            'Number': '28',
+            'Rarity':'Common',
+            'Artist': 'Smiru39',
+            'Artist Link': 'https://twitter.com/Smiru39',
+            'Source': 'https://twitter.com/Smiru39/status/1666664665391439873'
+        },
+        {
+            'ID':'5f989bebb229',
+            'Name': 'Cheery Saturday',
+            'Number': '29',
+            'Rarity':'Common',
+            'Artist': '404itoq',
+            'Artist Link': 'https://twitter.com/404itoq',
+            'Source': 'https://skeb.jp/@404itoq/works/2'
+        },
+        {
+            'ID':'86ef1d0db530',
+            'Name': 'Balanced Heart',
+            'Number': '30',
+            'Rarity':'Common',
+            'Artist': 'oumataiho_',
+            'Artist Link': 'https://twitter.com/oumataiho_',
+            'Source': 'https://twitter.com/oumataiho_/status/1701451960858349901'
+        },
+        {
+            'ID':'9bee98d4a331',
+            'Name': 'Every Plant Starts Somewhere',
+            'Number': '31',
+            'Rarity':'Common',
+            'Artist': 'oekaki_noco',
+            'Artist Link': 'https://twitter.com/oekaki_noco',
+            'Source': 'https://skeb.jp/@oekaki_noco/works/49'
+        },
+        {
+            'ID':'26a11faa1f32',
+            'Name': 'Ready to Go',
+            'Number': '32',
+            'Rarity':'Uncommon',
+            'Artist': 'Gasmask0815',
+            'Artist Link': 'https://twitter.com/Gasmask0815',
+            'Source': 'https://skeb.jp/@Gasmask0815/works/1'
+        },
+        {
+            'ID':'bb2681c93233',
+            'Name': 'Mosaics Time',
+            'Number': '33',
+            'Rarity':'Uncommon',
+            'Artist': 'amakudabatu',
+            'Artist Link': 'https://twitter.com/amakudabatu',
+            'Source': 'https://twitter.com/amakudabatu/status/1661621805113815040'
+        },
+        {
+            'ID':'05eef9689034',
+            'Name': 'Breezy Pop',
+            'Number': '34',
+            'Rarity':'Uncommon',
+            'Artist': 'chocoko1221',
+            'Artist Link': 'https://twitter.com/chocoko1221',
+            'Source': 'https://twitter.com/chocoko1221/status/1708976771507618039'
+        },
+        {
+            'ID':'d6550f9acc35',
+            'Name': 'Work Mode',
+            'Number': '35',
+            'Rarity':'Uncommon',
+            'Artist': 'maki6435',
+            'Artist Link': 'https://twitter.com/maki6435',
+            'Source': 'https://twitter.com/maki6435/status/1668737308143779840'
+        },
+        {
+            'ID':'8768b8000536',
+            'Name': 'The Nursery',
+            'Number': '36',
+            'Rarity':'Uncommon',
+            'Artist': 'akainecotrou',
+            'Artist Link': 'https://twitter.com/akainecoTaro',
+            'Source': 'https://skeb.jp/@akainecotrou/works/5'
+        },
+        {
+            'ID':'6cfc679a9237',
+            'Name': 'Potted Maid',
+            'Number': '37',
+            'Rarity':'Rare',
+            'Artist': 'TheGenieA1',
+            'Artist Link': 'https://twitter.com/AbassyGenie',
+            'Source': 'https://twitter.com/AbassyGenie/status/1672184381874610177'
+        },
+        {
+            'ID':'67d3c2503338',
+            'Name': 'Penguins & Slippers',
+            'Number': '38',
+            'Rarity':'Rare',
+            'Artist': 'NovaPantsu',
+            'Artist Link': 'https://twitter.com/NovaPantsu',
+            'Source': 'https://twitter.com/NovaPantsu/status/1671890347386085376'
+        },
+        {
+            'ID':'0d4276ecfb39',
+            'Name': 'Hot Summer Day',
+            'Number': '39',
+            'Rarity':'Rare',
+            'Artist': 'oekak1_daisuk1',
+            'Artist Link': 'https://twitter.com/oekak1_daisuk1',
+            'Source': 'https://twitter.com/oekak1_daisuk1/status/1683039256238002179'
+        },
+        {
+            'ID':'be0ee33cf240',
+            'Name': "We're The Strongest",
+            'Number': '40',
+            'Rarity':'Ultra Rare',
+            'Artist': '_Machimo',
+            'Artist Link': 'https://twitter.com/_Machimo',
+            'Source': 'https://twitter.com/_Machimo/status/1672981491264151553'
+        },
+        {
+            'ID':'b92b7a1bac41',
+            'Name': 'Cafe Break',
+            'Number': '41',
+            'Rarity':'Ultra Rare',
+            'Artist': 'attyuuu3',
+            'Artist Link': 'https://twitter.com/attyuuu3',
+            'Source': 'https://skeb.jp/@attyuuu3/works/1'
+        },
+        {
+            'ID':'b3973e816b42',
+            'Name': 'Tactical Hex',
+            'Number': '42',
+            'Rarity':'Secret Rare',
+            'Artist': 'yamabiko270',
+            'Artist Link': 'https://twitter.com/yamabiko270',
+            'Source': 'https://twitter.com/yamabiko270/status/1702709699416887590'
         },
     ],
 }
