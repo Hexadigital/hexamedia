@@ -397,5 +397,15 @@ event_cards = [
         'Artist Link': 'https://twitter.com/soratukiame',
         'Source': 'https://skeb.jp/@soratukiame/works/1',
         'Description': 'Rewarded on check-in from 2023-06-23 to 2023-06-29.'
+    },
+    {
+        'ID':'364608a3e2f1',
+        'Name': 'October 2023',
+        'Number': '2',
+        'Rarity':'Common',
+        'Artist': 'ontama634z',
+        'Artist Link': 'https://twitter.com/ontama634z',
+        'Source': 'https://skeb.jp/@ontama634z/works/1',
+        'Description': 'Rewarded on check-in from 2023-10-02 to 2023-11-01.'
     }
 ]
