@@ -53,77 +53,77 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>3</td>
+      <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
+      <td>3</td>
+      </tr>
+    <tr>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/alllenski">alllenski</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/karin_ch">karin_ch</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/lcolonq">LCOLONQ</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>3</td>
-      <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
+      <td>4</td>
+      <td><a href="https://www.twitch.tv/tzarodziej">tzarodziej</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/colekus">Colekus</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/darkmetric">darkmetric</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/gendude">GenDude</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/hell_errol">hell_errol</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/hexadigital">Hexadigital</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/khemiamistwalker">KhemiaMistwalker</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/lokodavis55">lokodavis55</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/murder_vt">Murder_VT</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/soupisneat">soupisneat</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/tv_hayden2">tv_Hayden2</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>4</td>
-      <td><a href="https://www.twitch.tv/tzarodziej">tzarodziej</a></td>
       <td>1</td>
       </tr>
   </tbody>
