@@ -3819,7 +3819,7 @@ var jsonArray = [
         "id": 760,
         "name": "Castlevania: Dracula X",
         "platform": "SNES",
-        "votes": 0
+        "votes": 4
     },
     {
         "id": 761,
