@@ -5176,5 +5176,47 @@ var jsonArray = [
         "name": "The Black Onyx",
         "platform": "SG-1000",
         "votes": 0
+    },
+    {
+        "id": 989,
+        "name": "Trouble Shooter",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 990,
+        "name": "Ar tonelico: Melody of Elemia",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 991,
+        "name": "Yu-Gi-Oh! Monster Capsule GB",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 992,
+        "name": "Wolverine: Feral Instinct",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 993,
+        "name": "Shanghai",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 994,
+        "name": "Dragon Egg! (untranslated)",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 995,
+        "name": "Mouryou Senki Madara",
+        "platform": "NES",
+        "votes": 0
     }
 ]
