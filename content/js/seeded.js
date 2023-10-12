@@ -4503,7 +4503,7 @@ var jsonArray = [
         "id": 874,
         "name": "The Legend of Dragoon",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 875,
@@ -4911,7 +4911,7 @@ var jsonArray = [
         "id": 942,
         "name": "Time Gal",
         "platform": "Sega CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 943,
