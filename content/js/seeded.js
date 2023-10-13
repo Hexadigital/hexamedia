@@ -2925,7 +2925,7 @@ var jsonArray = [
         "id": 611,
         "name": "The Journeyman Project 2: Buried in Time",
         "platform": "PC",
-        "votes": 6
+        "votes": 9
     },
     {
         "id": 612,
