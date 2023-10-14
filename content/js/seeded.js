@@ -4689,7 +4689,7 @@ var jsonArray = [
         "id": 905,
         "name": "Golvellius: Valley of Doom",
         "platform": "Master System",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 906,
