@@ -37,6 +37,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       <td>5</td>
       </tr>
     <tr>
+      <td>2</td>
+      <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
+      <td>5</td>
+      </tr>
+    <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/6horntaurus">6HornTaurus</a></td>
       <td>4</td>
@@ -49,11 +54,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/thatguyfromsomewhere">thatguyfromsomewhere</a></td>
-      <td>4</td>
-      </tr>
-    <tr>
-      <td>3</td>
-      <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
       <td>4</td>
       </tr>
     <tr>

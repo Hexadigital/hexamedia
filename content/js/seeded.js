@@ -537,7 +537,7 @@ var jsonArray = [
         "id": 210,
         "name": "Golden Sun",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 211,
