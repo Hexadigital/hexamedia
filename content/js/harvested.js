@@ -126,6 +126,12 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 358,
+        "name": "D4: Dark Dreams Don't Die -Season One-",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
         "id": 24,
         "name": "L.A. Noire",
         "platform": "PC",

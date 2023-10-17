@@ -3816,12 +3816,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 760,
-        "name": "Castlevania: Dracula X",
-        "platform": "SNES",
-        "votes": 8
-    },
-    {
         "id": 761,
         "name": "Chaos Seed: Fuusui Kairoki",
         "platform": "SNES",
@@ -5217,6 +5211,54 @@ var jsonArray = [
         "id": 995,
         "name": "Mouryou Senki Madara",
         "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 996,
+        "name": "Keio Flying Squadron",
+        "platform": "Sega CD",
+        "votes": 0
+    },
+    {
+        "id": 997,
+        "name": "Shanghai II",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 998,
+        "name": "Sol-Feace",
+        "platform": "Sega CD",
+        "votes": 0
+    },
+    {
+        "id": 999,
+        "name": "Ikasuze! Koi no Doki Doki Penguin Land MD",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1000,
+        "name": "Shin Megami Tensei: Strange Journey",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1001,
+        "name": "Chocobo Land: A Game of Dice",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1002,
+        "name": "Tim Burton's The Nightmare Before Christmas: The Pumpkin King",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1003,
+        "name": "Tactics Ogre: The Knight of Lodis",
+        "platform": "Game Boy Advance",
         "votes": 0
     }
 ]

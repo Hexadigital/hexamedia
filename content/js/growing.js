@@ -18,12 +18,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 358,
-        "name": "D4: Dark Dreams Don\u2019t Die -Season One-",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 86,
         "name": "Hitman GO: Definitive Edition",
         "platform": "PC",
@@ -34,6 +28,12 @@ var jsonArray = [
         "name": "Deadly Premonition Origins",
         "platform": "Nintendo Switch",
         "votes": 0
+    },
+    {
+        "id": 760,
+        "name": "Castlevania: Dracula X",
+        "platform": "SNES",
+        "votes": 8
     },
     {
         "id": 988,
