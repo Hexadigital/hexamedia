@@ -543,7 +543,7 @@ var jsonArray = [
         "id": 211,
         "name": "Golden Sun: The Lost Age",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 212,
@@ -5259,6 +5259,72 @@ var jsonArray = [
         "id": 1003,
         "name": "Tactics Ogre: The Knight of Lodis",
         "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1004,
+        "name": "Sigma Star Saga",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1005,
+        "name": "Anguna: Warriors of Virtue",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1006,
+        "name": "Raiden",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1007,
+        "name": "Alwa's Awakening",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1008,
+        "name": "Zatch Bell! Electric Arena",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1009,
+        "name": "Pocket Bomberman",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1010,
+        "name": "Rikki & Vikki",
+        "platform": "Atari 7800",
+        "votes": 0
+    },
+    {
+        "id": 1011,
+        "name": "GODS",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1012,
+        "name": "Venom and Spider-Man: Separation Anxiety",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1013,
+        "name": "Virtual Fishing",
+        "platform": "Virtual Boy",
+        "votes": 0
+    },
+    {
+        "id": 1014,
+        "name": "Virtual Boy: Wario Land",
+        "platform": "Virtual Boy",
         "votes": 0
     }
 ]
