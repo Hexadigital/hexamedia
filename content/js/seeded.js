@@ -3135,7 +3135,7 @@ var jsonArray = [
         "id": 646,
         "name": "Valkyrie Profile: Lenneth",
         "platform": "PlayStation Portable",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 647,
