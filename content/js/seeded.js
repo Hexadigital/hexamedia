@@ -3135,7 +3135,7 @@ var jsonArray = [
         "id": 646,
         "name": "Valkyrie Profile: Lenneth",
         "platform": "PlayStation Portable",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 647,
@@ -5217,7 +5217,7 @@ var jsonArray = [
         "id": 996,
         "name": "Keio Flying Squadron",
         "platform": "Sega CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 997,

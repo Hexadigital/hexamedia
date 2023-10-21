@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 22/109 users (20.18%)
+Collected by 22/110 users (20.00%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -27,6 +27,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       <td>6</td>
       </tr>
     <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
+      <td>6</td>
+      </tr>
+    <tr>
       <td>2</td>
       <td><a href="https://www.twitch.tv/sirryu">SirRyu</a></td>
       <td>5</td>
@@ -34,11 +39,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>2</td>
       <td><a href="https://www.twitch.tv/sperbus">Sperbus</a></td>
-      <td>5</td>
-      </tr>
-    <tr>
-      <td>2</td>
-      <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
       <td>5</td>
       </tr>
     <tr>
