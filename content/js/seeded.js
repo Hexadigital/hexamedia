@@ -5313,7 +5313,7 @@ var jsonArray = [
         "id": 1012,
         "name": "Venom and Spider-Man: Separation Anxiety",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1013,
