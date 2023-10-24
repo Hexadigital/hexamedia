@@ -5326,5 +5326,149 @@ var jsonArray = [
         "name": "Virtual Boy: Wario Land",
         "platform": "Virtual Boy",
         "votes": 0
+    },
+    {
+        "id": 1015,
+        "name": "A Plumber For All Seasons",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1016,
+        "name": "Super Boy II",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 1017,
+        "name": "Castlevania: The Adventure",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1018,
+        "name": "Castlevania",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1019,
+        "name": "Castlevania II: Simon\u2019s Quest",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1020,
+        "name": "Castlevania III: Dracula\u2019s Curse",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1021,
+        "name": "64th. Street: A Detective Story",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1022,
+        "name": "Aero Fighters 2 | Sonic Wings 2",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1023,
+        "name": "Altered Beast",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1024,
+        "name": "1943: The Battle of Midway",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1025,
+        "name": "Armored Warriors",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1026,
+        "name": "Bad Dudes vs. DragonNinja",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1027,
+        "name": "Batman",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1028,
+        "name": "Battle Circuit",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1029,
+        "name": "Battle Garegga",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1030,
+        "name": "Black Tiger",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1031,
+        "name": "Blade Master | Cross Blades!",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1032,
+        "name": "Blazing Star",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1033,
+        "name": "Blood Bros.",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1034,
+        "name": "Blue's Journey | Raguy",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1035,
+        "name": "Breaker's",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1036,
+        "name": "BurgerTime",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1037,
+        "name": "Burning Fight",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1038,
+        "name": "Buster Bros. | Pang",
+        "platform": "Arcade",
+        "votes": 0
     }
 ]

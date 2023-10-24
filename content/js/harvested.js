@@ -132,6 +132,12 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 760,
+        "name": "Castlevania: Dracula X",
+        "platform": "SNES",
+        "votes": 8
+    },
+    {
         "id": 24,
         "name": "L.A. Noire",
         "platform": "PC",
