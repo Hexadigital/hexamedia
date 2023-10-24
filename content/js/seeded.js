@@ -5470,5 +5470,155 @@ var jsonArray = [
         "name": "Buster Bros. | Pang",
         "platform": "Arcade",
         "votes": 0
+    },
+    {
+        "id": 1040,
+        "name": "Rocket Knight Adventures",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1041,
+        "name": "Capcom vs. SNK 2: Mark of the Millennium 2001",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1042,
+        "name": "Captain Commando",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1043,
+        "name": "Cleopatra Fortune",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1044,
+        "name": "Contra",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1045,
+        "name": "Cotton: Fantastic Night Dreams",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1046,
+        "name": "Crazy Kong",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1047,
+        "name": "Crazy Kong Part II",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1048,
+        "name": "Crime Fighters",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1049,
+        "name": "Crime Fighters 2",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1050,
+        "name": "Cyber-Lip",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1051,
+        "name": "Darkstalkers: The Night Warriors | Vampire: The Night Warriors",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1052,
+        "name": "Defender",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1053,
+        "name": "Demon Front",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1054,
+        "name": "Donkey Kong",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1055,
+        "name": "Donkey Kong 3",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1056,
+        "name": "Donkey Kong Junior",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1057,
+        "name": "DonPachi",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1058,
+        "name": "Double Dragon",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1059,
+        "name": "Double Dragon (Neo-Geo)",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1060,
+        "name": "Dragon Ball Z",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1061,
+        "name": "Dragon Ball Z 2: Super Battle",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1062,
+        "name": "Dyna Gear",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1063,
+        "name": "Dungeons & Dragons: Shadow Over Mystara",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1064,
+        "name": "Dungeons & Dragons: Tower of Doom",
+        "platform": "Arcade",
+        "votes": 0
     }
 ]
