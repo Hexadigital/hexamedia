@@ -861,7 +861,7 @@ var jsonArray = [
         "id": 264,
         "name": "Ace Attorney Investigations 2: Prosecutor's Path",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 265,
@@ -5451,7 +5451,7 @@ var jsonArray = [
         "id": 1035,
         "name": "Breaker's",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1036,
@@ -5618,6 +5618,234 @@ var jsonArray = [
     {
         "id": 1064,
         "name": "Dungeons & Dragons: Tower of Doom",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1065,
+        "name": "Kingdom Hearts: Final Mix",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1066,
+        "name": "ESP Ra.De.",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1067,
+        "name": "Elevator Action Returns | Elevator Action II",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1068,
+        "name": "Final Fight",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1069,
+        "name": "Frogger",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1070,
+        "name": "G.I. Joe: A Real American Hero",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1071,
+        "name": "Gaia Crusaders",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1072,
+        "name": "Gain Ground",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1073,
+        "name": "Galaga",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1074,
+        "name": "Galaxian",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1075,
+        "name": "Garou: Mark of the Wolves",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1076,
+        "name": "Global Champion",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1077,
+        "name": "Ghosts 'n Goblins",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1078,
+        "name": "Ghouls 'n Ghosts | Daimakaimura",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1079,
+        "name": "Gee Bee",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1080,
+        "name": "Gradius III",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1081,
+        "name": "Gunbarich",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1082,
+        "name": "Gunbird",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1083,
+        "name": "GunForce II | Geo Storm",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1084,
+        "name": "Gyruss",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1085,
+        "name": "Hang-On",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1086,
+        "name": "Hang-On Jr.",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1087,
+        "name": "Haunted Castle",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1088,
+        "name": "Hippodrome",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1089,
+        "name": "Hook",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1090,
+        "name": "JoJo's Venture | JoJo no Kimyou na Bouken",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1091,
+        "name": "Ogre Battle: The March of the Black Queen",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1092,
+        "name": "Dark Castle",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1093,
+        "name": "Sled Storm",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1094,
+        "name": "The Castle",
+        "platform": "SG-1000",
+        "votes": 0
+    },
+    {
+        "id": 1095,
+        "name": "King & Balloon",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1096,
+        "name": "The King of Dragons",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1097,
+        "name": "King of the Monsters",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1098,
+        "name": "Knights of the Round",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1099,
+        "name": "Krull",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1100,
+        "name": "The Last Blade 2",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1101,
+        "name": "The Last Blade",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1102,
+        "name": "Last Resort",
         "platform": "Arcade",
         "votes": 0
     }
