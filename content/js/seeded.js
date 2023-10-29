@@ -5848,5 +5848,173 @@ var jsonArray = [
         "name": "Last Resort",
         "platform": "Arcade",
         "votes": 0
+    },
+    {
+        "id": 1103,
+        "name": "Dungeon Drafters",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1104,
+        "name": "Jewel Match Solitaire Winterscapes",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1105,
+        "name": "Starblade",
+        "platform": "3DO",
+        "votes": 0
+    },
+    {
+        "id": 1106,
+        "name": "Cardinal Sins",
+        "platform": "WonderSwan",
+        "votes": 0
+    },
+    {
+        "id": 1107,
+        "name": "CTGP: Nitro",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1108,
+        "name": "Mercs",
+        "platform": "Mega Drive",
+        "votes": 1
+    },
+    {
+        "id": 1109,
+        "name": "Gradius II: GOFER no Yabou",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1110,
+        "name": "Magician Lord",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1111,
+        "name": "Mars Matrix: Hyper Solid Shooting",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1112,
+        "name": "Marvel Super Heroes",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1113,
+        "name": "Marvel Super Heroes vs. Street Fighter",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1114,
+        "name": "Marvel vs. Capcom: Clash of Super Heroes",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1115,
+        "name": "Mega Man 2: The Power Fighters",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1116,
+        "name": "Mega Man: The Power Battle",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1117,
+        "name": "Melty Blood Actress Again",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1118,
+        "name": "Metamorphic Force",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1119,
+        "name": "Michael Jackson's Moonwalker",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1120,
+        "name": "Monkey Ball",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1121,
+        "name": "Mr. Goemon",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1122,
+        "name": "Mutation Nation",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1123,
+        "name": "Neo Drift Out: New Technology",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1124,
+        "name": "Neo Turf Masters | Big Tournament Golf",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1125,
+        "name": "NeoGeo Battle Coliseum",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1126,
+        "name": "Night Slashers",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1127,
+        "name": "Night Striker",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1128,
+        "name": "Nightmare in the Dark",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1129,
+        "name": "Ninja Combat",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1130,
+        "name": "Ninja Master's: Haou Ninou Chou",
+        "platform": "Arcade",
+        "votes": 0
     }
 ]
