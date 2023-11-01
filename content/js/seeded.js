@@ -6016,5 +6016,395 @@ var jsonArray = [
         "name": "Ninja Master's: Haou Ninou Chou",
         "platform": "Arcade",
         "votes": 0
+    },
+    {
+        "id": 1131,
+        "name": "Jelly Boy 2",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1132,
+        "name": "Hamtaro: Ham-Hams Unite!",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1133,
+        "name": "Frogger Advance: The Great Quest",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1134,
+        "name": "Osman | Cannon-Dancer",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1135,
+        "name": "The Outfoxies",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1136,
+        "name": "Phoenix",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1137,
+        "name": "Prehistoric Isle in 1930 | Genshi-Tou 1930s",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1138,
+        "name": "Pretty Soldier Sailor Moon",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1139,
+        "name": "Psycho Soldier",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1140,
+        "name": "Pulstar",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1141,
+        "name": "Punch-Out!!",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1142,
+        "name": "The Punisher",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1143,
+        "name": "Puzzle Bobble 2 | Bust-A-Move Again EX",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1144,
+        "name": "Puzzle Bobble 3",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1145,
+        "name": "Puzzle Bobble | Bust-A-Move",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1146,
+        "name": "Vampire Night",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1147,
+        "name": "Riot City",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1148,
+        "name": "Robo Army",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1149,
+        "name": "Samurai Shodown | Samurai Spirits",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1150,
+        "name": "Sengoku 3 | Sengoku Densho 2001",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1151,
+        "name": "Shinobi",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1152,
+        "name": "Shock Troopers",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1153,
+        "name": "Shock Troopers: 2nd Squad",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1154,
+        "name": "Sinistar",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1155,
+        "name": "SNK vs. Capcom: SVC Chaos",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1156,
+        "name": "Spider-Man: The Videogame",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1157,
+        "name": "Street Fighter",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1158,
+        "name": "Strider | Strider Hiryu",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1159,
+        "name": "Strikers 1945",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1160,
+        "name": "Sunset Riders",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1161,
+        "name": "Super Gem Fighter: Mini Mix | Pocket Fighter",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1162,
+        "name": "Super Punch-Out!!",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1163,
+        "name": "Super Puzzle Fighter II Turbo | Super Puzzle Fighter II X",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1164,
+        "name": "Superman",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1165,
+        "name": "Tank Force",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1166,
+        "name": "Teenage Mutant Ninja Turtles",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1167,
+        "name": "Teenage Mutant Ninja Turtles: Turtles in Time",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1168,
+        "name": "Tengai | Sengoku Blade: Sengoku Ace Episode II",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1169,
+        "name": "Tetris Plus",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1170,
+        "name": "Tetris Plus 2",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1171,
+        "name": "Thrash Rally",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1172,
+        "name": "Toki",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1173,
+        "name": "The Tower of Druaga",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1174,
+        "name": "Turtle Ship",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1175,
+        "name": "Twinkle Star Sprites",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1176,
+        "name": "U.N. Squadron | Area 88",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1177,
+        "name": "Vampire Hunter 2: Darkstalkers Revenge",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1178,
+        "name": "Vampire Savior: The Lord of Vampire",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1179,
+        "name": "Vendetta",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1180,
+        "name": "Viewpoint",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1181,
+        "name": "Vigilante",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1182,
+        "name": "Violent Storm",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1183,
+        "name": "Waku Waku 7",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1184,
+        "name": "Warriors of Fate",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1185,
+        "name": "Willow",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1186,
+        "name": "X-Men",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1187,
+        "name": "X-Men vs. Street Fighter",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1188,
+        "name": "X-Men: Children of the Atom",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1189,
+        "name": "Xain'd Sleena | Solar-Warrior",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1190,
+        "name": "Xybots",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1191,
+        "name": "Zed Blade | Operation Ragnarok",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1192,
+        "name": "Zintrick | Oshidashi Zentrix",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1193,
+        "name": "Marble Madness 2: Marble Man",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1194,
+        "name": "FEDA: The Emblem of Justice",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1195,
+        "name": "Tombs and Treasure",
+        "platform": "NES",
+        "votes": 0
     }
 ]
