@@ -6195,7 +6195,7 @@ var jsonArray = [
         "id": 1160,
         "name": "Sunset Riders",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1161,
