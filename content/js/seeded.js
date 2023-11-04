@@ -6333,7 +6333,7 @@ var jsonArray = [
         "id": 1183,
         "name": "Waku Waku 7",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1184,
