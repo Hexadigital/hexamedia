@@ -1557,7 +1557,7 @@ var jsonArray = [
         "id": 382,
         "name": "Drill Dozer",
         "platform": "Game Boy Advance",
-        "votes": 3
+        "votes": 4
     },
     {
         "id": 383,
@@ -5943,7 +5943,7 @@ var jsonArray = [
         "id": 1118,
         "name": "Metamorphic Force",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1119,
@@ -6351,7 +6351,7 @@ var jsonArray = [
         "id": 1186,
         "name": "X-Men",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1187,
