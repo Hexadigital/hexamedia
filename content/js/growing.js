@@ -12,12 +12,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 314,
-        "name": "Boktai: The Sun is in Your Hand",
-        "platform": "Game Boy Advance",
-        "votes": 0
-    },
-    {
         "id": 86,
         "name": "Hitman GO: Definitive Edition",
         "platform": "PC",
@@ -30,8 +24,8 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 988,
-        "name": "Jewel Match Twilight 3",
+        "id": 138,
+        "name": "Fantasy Mosaics 11: Fleeing from Dinosaurs",
         "platform": "PC",
         "votes": 0
     },

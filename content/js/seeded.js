@@ -108,12 +108,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 138,
-        "name": "Fantasy Mosaics 11: Fleeing from Dinosaurs",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 139,
         "name": "Fantasy Mosaics 12: Parallel Universes",
         "platform": "PC",
@@ -825,7 +819,7 @@ var jsonArray = [
         "id": 258,
         "name": "Ikaruga",
         "platform": "Dreamcast",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 259,

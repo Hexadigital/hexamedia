@@ -264,6 +264,18 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 314,
+        "name": "Boktai: The Sun is in Your Hand",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 988,
+        "name": "Jewel Match Twilight 3",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
         "id": 64,
         "name": "Destrega",
         "platform": "PlayStation",

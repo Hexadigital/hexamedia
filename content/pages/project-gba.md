@@ -4,13 +4,13 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-1-P|26-C|24-H|9-D|1564-U
+0-P|27-C|23-H|10-D|1564-U
 
 ### Playing
 
-[Sudoku Fever](https://remember.games/game/7730/sudoku-fever/)
-
 ### Completed
+
+[Boktai - The Sun Is in Your Hand](https://remember.games/game/107/boktai-the-sun-is-in-your-hand/) (2023-10-07 -> 2023-11-04, 11.27h)
 
 [Britney's Dance Beat](https://remember.games/game/7585/) (2023-03-18 -> 2023-03-24, 2h)
 
@@ -67,8 +67,6 @@ Sips
 ### Tried, Will Continue
 
 Aladdin
-
-[Boktai - The Sun Is in Your Hand](https://remember.games/game/107/boktai-the-sun-is-in-your-hand/) (replay)
 
 [Car Battler Joe](https://remember.games/game/7070/car-battler-joe/)
 
@@ -133,6 +131,8 @@ Popeye - Rush for Spinach
 Quake (Prototype) (2023-06-06)
 
 Shamu's Deep Sea Adventures
+
+[Sudoku Fever](https://remember.games/game/7730/sudoku-fever/)
 
 [Worms Blast](https://remember.games/game/5544) (2023-04-02)
 
