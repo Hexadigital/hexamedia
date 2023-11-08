@@ -393,7 +393,7 @@ var jsonArray = [
         "id": 186,
         "name": "Bahamut Lagoon",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 187,
