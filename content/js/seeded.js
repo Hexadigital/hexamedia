@@ -6333,7 +6333,7 @@ var jsonArray = [
         "id": 1184,
         "name": "Warriors of Fate",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1185,
