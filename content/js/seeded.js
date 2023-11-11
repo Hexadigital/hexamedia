@@ -6285,7 +6285,7 @@ var jsonArray = [
         "id": 1176,
         "name": "U.N. Squadron | Area 88",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1177,
