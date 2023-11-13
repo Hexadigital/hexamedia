@@ -3771,7 +3771,7 @@ var jsonArray = [
         "id": 753,
         "name": "BS The Legend of Zelda: Ancient Stone Tablets",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 754,
@@ -6399,6 +6399,84 @@ var jsonArray = [
         "id": 1195,
         "name": "Tombs and Treasure",
         "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1196,
+        "name": "Strider",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1197,
+        "name": "Survival Kids",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1198,
+        "name": "Survival Kids 2: Dasshutsu!! Futagojima! | Escape the Twin Islands!",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1199,
+        "name": "Grand Theft Auto: Liberty City Stories",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1200,
+        "name": "Castlevania: Resurrection",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 1202,
+        "name": "Feed IT Souls",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1203,
+        "name": "Vandal Hearts II",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1204,
+        "name": "Zool",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1205,
+        "name": "Etrian Odyssey",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1206,
+        "name": "Etrian Odyssey II: Heroes of Lagaard",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1207,
+        "name": "Harvest Moon DS: Sunshine Islands",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1208,
+        "name": "Micro Machines V3",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1209,
+        "name": "Metal Slug 3D",
+        "platform": "PlayStation 2",
         "votes": 0
     }
 ]
