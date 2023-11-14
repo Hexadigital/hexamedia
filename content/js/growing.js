@@ -18,16 +18,16 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 987,
-        "name": "Deadly Premonition Origins",
-        "platform": "Nintendo Switch",
-        "votes": 0
-    },
-    {
         "id": 138,
         "name": "Fantasy Mosaics 11: Fleeing from Dinosaurs",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 611,
+        "name": "The Journeyman Project 2: Buried in Time",
+        "platform": "PC",
+        "votes": 9
     },
     {
         "id": 1039,

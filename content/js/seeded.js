@@ -2916,12 +2916,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 611,
-        "name": "The Journeyman Project 2: Buried in Time",
-        "platform": "PC",
-        "votes": 9
-    },
-    {
         "id": 612,
         "name": "The Journeyman Project 3: Legacy of Time",
         "platform": "PC",

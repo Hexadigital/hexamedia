@@ -276,6 +276,12 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 987,
+        "name": "Deadly Premonition Origins",
+        "platform": "Nintendo Switch",
+        "votes": 0
+    },
+    {
         "id": 64,
         "name": "Destrega",
         "platform": "PlayStation",
