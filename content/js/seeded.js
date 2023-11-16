@@ -6399,7 +6399,7 @@ var jsonArray = [
         "id": 1196,
         "name": "Strider",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1197,
@@ -6435,7 +6435,7 @@ var jsonArray = [
         "id": 1203,
         "name": "Vandal Hearts II",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1204,

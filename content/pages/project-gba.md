@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-0-P|28-C|23-H|10-D|1563-U
+0-P|29-C|23-H|10-D|1562-U
 
 ### Playing
 
@@ -55,6 +55,8 @@ Minicraft (2023-06-22, 3.75h)
 [My Little Pony - Crystal Princess - The Runaway Rainbow](https://remember.games/game/8018/my-little-pony-crystal-princess-the-runaway-rainbow/) (2023-07-14, 1.25h)
 
 [Naruto - Ninja Council](https://remember.games/game/6952/naruto-ninja-council/) (2022-11-01, 2.25h)
+
+[Ninja Five-0](https://remember.games/game/8090/ninja-five-o/) (2023-11-16, 3.25h)
 
 [Piglet's Big Game](https://remember.games/game/7941/piglets-big-game/) (2023-06-15 -> 2023-06-22, 3.5h)
 
@@ -2095,8 +2097,6 @@ Nicktoons Racing
 Nicktoons Unite!
 
 Nihon Pro Mahjong Renmei Kounin - Tetsuman Advance - Menkyo Kaiden Series
-
-Ninja Five-0
 
 No No No Puzzle Chailien
 
