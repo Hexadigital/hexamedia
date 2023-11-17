@@ -6472,5 +6472,131 @@ var jsonArray = [
         "name": "Metal Slug 3D",
         "platform": "PlayStation 2",
         "votes": 0
+    },
+    {
+        "id": 1210,
+        "name": "42 All-Time Classics | Clubhouse Games",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1211,
+        "name": "Hokuto no Ken",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 1212,
+        "name": "Burnout",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1213,
+        "name": "Savage Reign | Fu'un Mokushiroku: Kakutou Sousei",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1214,
+        "name": "Neo Turf Masters | Big Tournament Golf",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1215,
+        "name": "Ironclad: Tesshou Rusha | Choutetsu Brikin'ger",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1216,
+        "name": "Rally Chase | Thrash Rally",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1217,
+        "name": "Mutation Nation",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1218,
+        "name": "Neo Drift Out: New Technology",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1219,
+        "name": "Pulstar",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1220,
+        "name": "Puzzle Bobble ~ Bust-A-Move",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1221,
+        "name": "Xeno Crisis",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1222,
+        "name": "Top Hunter: Roddy & Cathy",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1223,
+        "name": "Twinkle Star Sprites",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1224,
+        "name": "Bang\u00b2 Busters",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1225,
+        "name": "Far East of Eden: Tengai Makyou Shinden | Kabuki Klash",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1226,
+        "name": "Crossed Swords",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1227,
+        "name": "Crossed Swords II",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1228,
+        "name": "ADK World",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1229,
+        "name": "Wall Street Kid",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1230,
+        "name": "Parasite Eve",
+        "platform": "PlayStation",
+        "votes": 1
     }
 ]
