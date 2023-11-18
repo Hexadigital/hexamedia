@@ -6567,7 +6567,7 @@ var jsonArray = [
         "id": 1225,
         "name": "Far East of Eden: Tengai Makyou Shinden | Kabuki Klash",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1226,
