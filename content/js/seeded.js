@@ -528,12 +528,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 210,
-        "name": "Golden Sun",
-        "platform": "Game Boy Advance",
-        "votes": 1
-    },
-    {
         "id": 211,
         "name": "Golden Sun: The Lost Age",
         "platform": "Game Boy Advance",
@@ -3476,12 +3470,6 @@ var jsonArray = [
     {
         "id": 705,
         "name": "Moon Crystal",
-        "platform": "NES",
-        "votes": 0
-    },
-    {
-        "id": 706,
-        "name": "Puyo Puyo",
         "platform": "NES",
         "votes": 0
     },

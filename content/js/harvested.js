@@ -286,5 +286,17 @@ var jsonArray = [
         "name": "Destrega",
         "platform": "PlayStation",
         "votes": 3
+    },
+    {
+        "id": 2,
+        "name": "Final Fantasy IV: The Complete Collection",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 138,
+        "name": "Fantasy Mosaics 11: Fleeing from Dinosaurs",
+        "platform": "PC",
+        "votes": 0
     }
 ]
