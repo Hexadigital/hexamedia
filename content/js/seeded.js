@@ -6435,7 +6435,7 @@ var jsonArray = [
         "id": 1203,
         "name": "Vandal Hearts II",
         "platform": "PlayStation",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1204,

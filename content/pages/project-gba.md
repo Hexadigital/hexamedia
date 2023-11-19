@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-0-P|29-C|23-H|10-D|1562-U
+0-P|29-C|25-H|12-D|1558-U
 
 ### Playing
 
@@ -70,6 +70,8 @@ Sips
 
 ### Tried, Will Continue
 
+AirForce Delta Storm
+
 Aladdin
 
 [Car Battler Joe](https://remember.games/game/7070/car-battler-joe/)
@@ -114,6 +116,8 @@ Sims, The - Bustin' Out
 
 [Snood 2 - On Vacation](https://remember.games/game/6760/snood-2-on-vacation/)
 
+Sonic Battle
+
 Tetris Worlds
 
 [World Championship Poker](https://remember.games/game/7584/)
@@ -124,11 +128,15 @@ Tetris Worlds
 
 [Disney Sports - Soccer](https://remember.games/game/7750/) (2023-05-13)
 
+Earthworm Jim (2023-11-18)
+
 Jonny Moseley Mad Trix
 
 Knights' Kingdom (2023-07-21)
 
 [Need for Speed - Underground](https://remember.games/game/7311/) (2023-01-27)
+
+Paws & Claws - Pet Vet (2023-11-18)
 
 Popeye - Rush for Spinach
 
@@ -203,8 +211,6 @@ Agent Hugo - Roborumble
 Aggressive Inline
 
 Agoria - Ode to Fate
-
-AirForce Delta Storm
 
 Aka-chan Doubutsuen
 
@@ -943,8 +949,6 @@ EZ-Talk - Shokyuu Hen 4
 EZ-Talk - Shokyuu Hen 5
 
 EZ-Talk - Shokyuu Hen 6
-
-Earthworm Jim
 
 Earthworm Jim 2
 
@@ -2174,7 +2178,6 @@ Paws & Claws - Best Friends - Dogs & Cats
 
 Paws & Claws - Pet Resort
 
-Paws & Claws - Pet Vet
 
 Payback
 
@@ -2630,8 +2633,6 @@ Sonic Advance
 Sonic Advance 2
 
 Sonic Advance 3
-
-Sonic Battle
 
 Sonic Pinball Party
 
