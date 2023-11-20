@@ -6357,7 +6357,7 @@ var jsonArray = [
         "id": 1191,
         "name": "Zed Blade | Operation Ragnarok",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1192,
