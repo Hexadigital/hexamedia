@@ -4,9 +4,11 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-0-P|29-C|25-H|12-D|1558-U
+1-P|30-C|25-H|12-D|1556-U
 
 ### Playing
+
+[Golden Sun](https://remember.games/game/3374/golden-sun/)
 
 ### Completed
 
@@ -25,6 +27,8 @@ Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
 [Final Fantasy I & II - Dawn of Souls](https://remember.games/game/6866/final-fantasy-i-ii-dawn-of-souls/) (2022-10-07 -> 2023-02-18, 69.85h)
 
 Finding Nemo (2023-11-08, 3.25h)
+
+[Frogger's Adventures - Temple of the Frog](https://remember.games/game/6630/froggers-adventures-temple-of-the-frog/) (2023-11-22, 3h)
 
 [Gekido Advance - Kintaro's Revenge](https://remember.games/game/7749/gekido-advance-kintaros-revenge/) (2023-08-23, 4.5h)
 
@@ -116,7 +120,7 @@ Sims, The - Bustin' Out
 
 [Snood 2 - On Vacation](https://remember.games/game/6760/snood-2-on-vacation/)
 
-Sonic Battle
+[Sonic Battle](https://remember.games/game/6656/sonic-battle/)
 
 Tetris Worlds
 
@@ -1122,8 +1126,6 @@ Freekstyle
 
 Frogger Advance - The Great Quest
 
-Frogger's Adventures - Temple of the Frog
-
 Frogger's Adventures 2 - The Lost Wand
 
 Frogger's Journey - The Forgotten Relic
@@ -1227,8 +1229,6 @@ Godzilla - Domination!
 Goemon - New Age Shutsudou!
 
 Golden Nugget Casino
-
-Golden Sun
 
 Golden Sun - The Lost Age
 
