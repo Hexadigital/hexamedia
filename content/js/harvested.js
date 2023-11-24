@@ -288,6 +288,12 @@ var jsonArray = [
         "votes": 3
     },
     {
+        "id": 1236,
+        "name": "Frogger's Adventures: Temple of the Frog",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
         "id": 2,
         "name": "Final Fantasy IV: The Complete Collection",
         "platform": "PlayStation Portable",

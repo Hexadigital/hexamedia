@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 25/116 users (21.55%)
+Collected by 26/116 users (22.41%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -124,6 +124,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>6</td>
       <td><a href="https://www.twitch.tv/pentarta">PentaRTA</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>6</td>
+      <td><a href="https://www.twitch.tv/rahnmu">rahnMU</a></td>
       <td>1</td>
       </tr>
     <tr>

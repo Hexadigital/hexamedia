@@ -6586,5 +6586,41 @@ var jsonArray = [
         "name": "Parasite Eve",
         "platform": "PlayStation",
         "votes": 1
+    },
+    {
+        "id": 1231,
+        "name": "Cadash",
+        "platform": "Mega Drive",
+        "votes": 1
+    },
+    {
+        "id": 1232,
+        "name": "Musashi no Bouken",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1233,
+        "name": "Atelier Iris: Eternal Mana",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1234,
+        "name": "Pokemon Pinball Generations",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1235,
+        "name": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1237,
+        "name": "Tomato Adventure",
+        "platform": "Game Boy Advance",
+        "votes": 1
     }
 ]
