@@ -264,6 +264,12 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 706,
+        "name": "Puyo Puyo",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
         "id": 314,
         "name": "Boktai: The Sun is in Your Hand",
         "platform": "Game Boy Advance",

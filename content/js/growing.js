@@ -18,12 +18,6 @@ var jsonArray = [
         "votes": 9
     },
     {
-        "id": 706,
-        "name": "Puyo Puyo",
-        "platform": "NES",
-        "votes": 0
-    },
-    {
         "id": 210,
         "name": "Golden Sun",
         "platform": "Game Boy Advance",
