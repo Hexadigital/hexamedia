@@ -6519,7 +6519,7 @@ var jsonArray = [
         "id": 1219,
         "name": "Pulstar",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1220,
