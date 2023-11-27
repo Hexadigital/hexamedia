@@ -6573,7 +6573,7 @@ var jsonArray = [
         "id": 1228,
         "name": "ADK World",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1229,
