@@ -3834,12 +3834,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 768,
-        "name": "Final Fantasy: Mystic Quest",
-        "platform": "SNES",
-        "votes": 0
-    },
-    {
         "id": 769,
         "name": "Fire Emblem: Genealogy of the Holy War",
         "platform": "SNES",

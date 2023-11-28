@@ -24,6 +24,12 @@ var jsonArray = [
         "votes": 1
     },
     {
+        "id": 768,
+        "name": "Final Fantasy: Mystic Quest",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
         "id": 1039,
         "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
         "platform": "PC",
