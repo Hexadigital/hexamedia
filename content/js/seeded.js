@@ -6616,5 +6616,53 @@ var jsonArray = [
         "name": "Tomato Adventure",
         "platform": "Game Boy Advance",
         "votes": 1
+    },
+    {
+        "id": 1238,
+        "name": "Life Force",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1239,
+        "name": "Digimon World Dusk",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1240,
+        "name": "Drunk as I Like",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1241,
+        "name": "Grandia: Parallel Trippers",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1242,
+        "name": "Shantae",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1243,
+        "name": "Magician Lord",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1244,
+        "name": "King of the Monsters 2",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1245,
+        "name": "Bomberman Fantasy Race",
+        "platform": "PlayStation",
+        "votes": 0
     }
 ]

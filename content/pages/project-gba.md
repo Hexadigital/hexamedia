@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-1-P|30-C|25-H|12-D|1556-U
+1-P|30-C|25-H|13-D|1555-U
 
 ### Playing
 
@@ -141,6 +141,8 @@ Knights' Kingdom (2023-07-21)
 [Need for Speed - Underground](https://remember.games/game/7311/) (2023-01-27)
 
 Paws & Claws - Pet Vet (2023-11-18)
+
+Peter Pan - The Motion Picture Event (2023-12-01)
 
 Popeye - Rush for Spinach
 
@@ -2178,12 +2180,9 @@ Paws & Claws - Best Friends - Dogs & Cats
 
 Paws & Claws - Pet Resort
 
-
 Payback
 
 Peter Pan - Return to Neverland
-
-Peter Pan - The Motion Picture Event
 
 Petz - Hamsterz Life 2
 
@@ -2200,6 +2199,7 @@ Phantom, The (Proto)
 Phil of the Future
 
 Pia Carrot e Youkoso!! 3.3
+
 Pikapika Nurse Monogatari - Nurse Ikusei Game
 
 Pinball Advance
