@@ -1797,7 +1797,7 @@ var jsonArray = [
         "id": 424,
         "name": "Grandia",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 425,
