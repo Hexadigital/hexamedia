@@ -5826,12 +5826,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1104,
-        "name": "Jewel Match Solitaire Winterscapes",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 1105,
         "name": "Starblade",
         "platform": "3DO",

@@ -282,6 +282,12 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 86,
+        "name": "Hitman GO: Definitive Edition",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
         "id": 987,
         "name": "Deadly Premonition Origins",
         "platform": "Nintendo Switch",

@@ -6,12 +6,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 86,
-        "name": "Hitman GO: Definitive Edition",
-        "platform": "PC",
-        "votes": 1
-    },
-    {
         "id": 611,
         "name": "The Journeyman Project 2: Buried in Time",
         "platform": "PC",
@@ -27,6 +21,12 @@ var jsonArray = [
         "id": 768,
         "name": "Final Fantasy: Mystic Quest",
         "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1104,
+        "name": "Jewel Match Solitaire Winterscapes",
+        "platform": "PC",
         "votes": 0
     },
     {
