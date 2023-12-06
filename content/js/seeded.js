@@ -6658,5 +6658,47 @@ var jsonArray = [
         "name": "Bomberman Fantasy Race",
         "platform": "PlayStation",
         "votes": 0
+    },
+    {
+        "id": 1246,
+        "name": "Yu Yu Hakusho 2: Gekitou! Nanakyou no Tatakai",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 1247,
+        "name": "Kou Dai Guai Shou | Shen Qi Bao Bei",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1248,
+        "name": "Chibi-Robo!: Park Patrol",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1249,
+        "name": "Dungeons & Dragons: Eye of the Beholder",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1250,
+        "name": "Valkyrie Profile 2: Silmeria",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1251,
+        "name": "Pic Pic",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1252,
+        "name": "Super Smash Bros. Clash",
+        "platform": "Nintendo DS",
+        "votes": 0
     }
 ]
