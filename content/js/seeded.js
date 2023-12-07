@@ -1803,7 +1803,7 @@ var jsonArray = [
         "id": 425,
         "name": "Grandia II",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 426,
