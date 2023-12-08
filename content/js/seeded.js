@@ -2259,7 +2259,7 @@ var jsonArray = [
         "id": 501,
         "name": "Metal Wolf Chaos XD",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 502,
@@ -6700,5 +6700,125 @@ var jsonArray = [
         "name": "Super Smash Bros. Clash",
         "platform": "Nintendo DS",
         "votes": 0
+    },
+    {
+        "id": 1253,
+        "name": "Puzzle & Dragons Z + Super Mario Bros. Edition",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 1254,
+        "name": "Shin Megami Tensei: Strange Journey Redux",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 1255,
+        "name": "Mario & Luigi: Dream Team",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 1256,
+        "name": "Mario Kart 7",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 1257,
+        "name": "Etrian Mystery Dungeon",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 1258,
+        "name": "Etrian Odyssey 2 Untold: The Fafnir Knight",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 1259,
+        "name": "Etrian Odyssey Nexus",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 1260,
+        "name": "Etrian Odyssey Untold: The Millennium Girl",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 1261,
+        "name": "Etrian Odyssey V: Beyond the Myth",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 1262,
+        "name": "DreamMix TV World Fighters",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1263,
+        "name": "Assassin\u2019s Creed",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1264,
+        "name": "Cross Blitz",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1265,
+        "name": "Tevi",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1266,
+        "name": "The Final Fantasy Legend | Makai Toushi SaGa",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1267,
+        "name": "Blaster Master",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1268,
+        "name": "BlazBlue: Calamity Trigger",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1269,
+        "name": "Castlevania: Chorus of Mysteries",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1270,
+        "name": "Castlevania: The Holy Relics",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1271,
+        "name": "Castlevania: The Last Tear",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1272,
+        "name": "Lunar: The Silver Star",
+        "platform": "Sega CD",
+        "votes": 1
     }
 ]
