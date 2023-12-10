@@ -73,7 +73,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>5</td>
-      <td><a href="https://www.twitch.tv/murder_vt">Murder_VT</a></td>
+      <td><a href="https://www.twitch.tv/murdervt">MurderVT</a></td>
       <td>2</td>
       </tr>
     <tr>
