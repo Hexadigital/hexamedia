@@ -6099,7 +6099,7 @@ var jsonArray = [
         "id": 1150,
         "name": "Sengoku 3 | Sengoku Densho 2001",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1151,
@@ -6795,7 +6795,7 @@ var jsonArray = [
         "id": 1268,
         "name": "BlazBlue: Calamity Trigger",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1269,
