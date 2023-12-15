@@ -6051,7 +6051,7 @@ var jsonArray = [
         "id": 1142,
         "name": "The Punisher",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1143,
@@ -6820,5 +6820,65 @@ var jsonArray = [
         "name": "Lunar: The Silver Star",
         "platform": "Sega CD",
         "votes": 1
+    },
+    {
+        "id": 1273,
+        "name": "RC de Go!",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1274,
+        "name": "GG Aleste 3",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 1275,
+        "name": "Dynasty Warriors",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1276,
+        "name": "Over Obj",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1277,
+        "name": "Moorhuhn Kart",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1278,
+        "name": "Pokemon Adventure: Red Chapter",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1279,
+        "name": "Aspic: Mahebiou no Noroi | Aspic: Curse of the Snakelord",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1280,
+        "name": "Fate/Unlimited Codes",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1281,
+        "name": "Cooking Mama 3: Shop & Chop",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1282,
+        "name": "X-Men: Wolverine's Revenge",
+        "platform": "PlayStation 2",
+        "votes": 0
     }
 ]
