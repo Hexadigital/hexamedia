@@ -6783,7 +6783,7 @@ var jsonArray = [
         "id": 1266,
         "name": "The Final Fantasy Legend | Makai Toushi SaGa",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1267,
