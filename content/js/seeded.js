@@ -6880,5 +6880,125 @@ var jsonArray = [
         "name": "X-Men: Wolverine's Revenge",
         "platform": "PlayStation 2",
         "votes": 0
+    },
+    {
+        "id": 1283,
+        "name": "StarTropics",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1284,
+        "name": "Pixsaw",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1285,
+        "name": "Help Me Remember, Satori-sama!",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1286,
+        "name": "Shirone: the Dragon Girl",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1287,
+        "name": "Moonstone Island",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1288,
+        "name": "Smushi Come Home",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1289,
+        "name": "Crystar",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1290,
+        "name": "Bubble Bobble",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1291,
+        "name": "Urban Reign",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1292,
+        "name": "Vapor Trail",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1293,
+        "name": "Kou Dai Guai Shou II | Pokemon Diamond II",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1294,
+        "name": "Final Fantasy Elements",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1295,
+        "name": "Medarot: Kabuto Version",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1296,
+        "name": "Medarot: Kuwagata Version",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1297,
+        "name": "Kou Dai Guai Shou III | Pokemon Diamond III",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1298,
+        "name": "Nancy Drew: Message in a Haunted Mansion",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1299,
+        "name": "Evolution: The World of Sacred Device",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 1300,
+        "name": "The Oregon Trail",
+        "platform": "Apple II",
+        "votes": 0
+    },
+    {
+        "id": 1301,
+        "name": "Lagrange Point",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1302,
+        "name": "Super Nazo Puyo: Ruruu no Ruu",
+        "platform": "SNES",
+        "votes": 0
     }
 ]
