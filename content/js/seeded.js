@@ -6885,7 +6885,7 @@ var jsonArray = [
         "id": 1283,
         "name": "StarTropics",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1284,
