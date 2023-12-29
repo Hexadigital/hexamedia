@@ -6681,7 +6681,7 @@ var jsonArray = [
         "id": 1249,
         "name": "Dungeons & Dragons: Eye of the Beholder",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1250,
