@@ -397,13 +397,13 @@ var jsonArray = [
     },
     {
         "id": 187,
-        "name": "The World Ends with You (replay)",
+        "name": "The World Ends with You [replay]",
         "platform": "Nintendo DS",
         "votes": 0
     },
     {
         "id": 188,
-        "name": "Metal Gear Solid: Ghost Babel (replay)",
+        "name": "Metal Gear Solid: Ghost Babel [replay]",
         "platform": "Game Boy Color",
         "votes": 0
     },
@@ -1219,7 +1219,7 @@ var jsonArray = [
     },
     {
         "id": 327,
-        "name": "Call of Duty: Black Ops III (modded)",
+        "name": "Call of Duty: Black Ops III [modded]",
         "platform": "PC",
         "votes": 0
     },
@@ -3211,7 +3211,7 @@ var jsonArray = [
     },
     {
         "id": 662,
-        "name": "Kirby: Nightmare in Dream Land (replay)",
+        "name": "Kirby: Nightmare in Dream Land [replay]",
         "platform": "Game Boy Advance",
         "votes": 0
     },
@@ -4315,7 +4315,7 @@ var jsonArray = [
     },
     {
         "id": 849,
-        "name": "Doubutsu no Mori | Animal Forest (untranslated)",
+        "name": "Doubutsu no Mori | Animal Forest [untranslated]",
         "platform": "Nintendo 64",
         "votes": 0
     },
@@ -4987,7 +4987,7 @@ var jsonArray = [
     },
     {
         "id": 961,
-        "name": "Chip-chan Kick! (untranslated)",
+        "name": "Chip-chan Kick! [untranslated]",
         "platform": "PC-FX",
         "votes": 0
     },
@@ -5173,7 +5173,7 @@ var jsonArray = [
     },
     {
         "id": 994,
-        "name": "Dragon Egg! (untranslated)",
+        "name": "Dragon Egg! [untranslated]",
         "platform": "PC Engine",
         "votes": 0
     },
@@ -6999,6 +6999,66 @@ var jsonArray = [
         "id": 1302,
         "name": "Super Nazo Puyo: Ruruu no Ruu",
         "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1303,
+        "name": "Ridge Racer 2",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1304,
+        "name": "Akira [prototype]",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1305,
+        "name": "Hime's Quest",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1306,
+        "name": "ICO",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1307,
+        "name": "Squishy Tank",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1308,
+        "name": "Progear | Progear no Arashi",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1309,
+        "name": "Yeti Sports: Pingu Throw",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1310,
+        "name": "My Hero",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 1311,
+        "name": "Shipwreckers! | Overboard!",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1312,
+        "name": "Junction [no timer]",
+        "platform": "Mega Drive",
         "votes": 0
     }
 ]

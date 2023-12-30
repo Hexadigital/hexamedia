@@ -16,3 +16,5 @@ Here you can see the past, present, and future of my streams.
 Games streamed are either Growing (in progress), Harvested (completed), or Composted (dropped).
 
 Potential upcoming streams are in the Seeded category - you can vote them up or down to determine the future of my streams!
+
+Some games may have special modifiers, such as [replay], [untranslated], or [modded]. If you see one of those, be warned that it might change the gameplay experience!
