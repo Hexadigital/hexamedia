@@ -7023,7 +7023,7 @@ var jsonArray = [
         "id": 1306,
         "name": "ICO",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1307,
