@@ -6459,7 +6459,7 @@ var jsonArray = [
         "id": 1211,
         "name": "Hokuto no Ken",
         "platform": "Master System",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1212,
@@ -6627,7 +6627,7 @@ var jsonArray = [
         "id": 1240,
         "name": "Drunk as I Like",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 1241,
