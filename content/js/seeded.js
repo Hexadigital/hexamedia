@@ -6846,12 +6846,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1277,
-        "name": "Moorhuhn Kart",
-        "platform": "PlayStation",
-        "votes": 0
-    },
-    {
         "id": 1278,
         "name": "Pokemon Adventure: Red Chapter",
         "platform": "Game Boy Advance",
