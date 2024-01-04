@@ -2433,7 +2433,7 @@ var jsonArray = [
         "id": 530,
         "name": "Outer Wilds",
         "platform": "PC",
-        "votes": 0
+        "votes": 3
     },
     {
         "id": 531,
@@ -7041,7 +7041,7 @@ var jsonArray = [
         "id": 1310,
         "name": "My Hero",
         "platform": "Master System",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1311,
