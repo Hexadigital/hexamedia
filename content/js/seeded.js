@@ -7005,7 +7005,7 @@ var jsonArray = [
         "id": 1304,
         "name": "Akira [prototype]",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1305,
