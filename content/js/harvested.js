@@ -288,6 +288,12 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 1104,
+        "name": "Jewel Match Solitaire Winterscapes",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
         "id": 86,
         "name": "Hitman GO: Definitive Edition",
         "platform": "PC",

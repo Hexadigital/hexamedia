@@ -22,11 +22,5 @@ var jsonArray = [
         "name": "Final Fantasy: Mystic Quest",
         "platform": "SNES",
         "votes": 0
-    },
-    {
-        "id": 1104,
-        "name": "Jewel Match Solitaire Winterscapes",
-        "platform": "PC",
-        "votes": 0
     }
 ]

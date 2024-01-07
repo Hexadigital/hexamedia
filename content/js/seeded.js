@@ -7054,5 +7054,65 @@ var jsonArray = [
         "name": "Junction [no timer]",
         "platform": "Mega Drive",
         "votes": 0
+    },
+    {
+        "id": 1313,
+        "name": "Pocket Souls [modded]",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1314,
+        "name": "Phantom Brave: The Hermuda Triangle",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1315,
+        "name": "Micro Machines",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 1316,
+        "name": "Prince of Persia: The Sands of Time",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1317,
+        "name": "Goodboy Galaxy",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1318,
+        "name": "Ultima I: The First Age of Darkness",
+        "platform": "Apple II",
+        "votes": 0
+    },
+    {
+        "id": 1319,
+        "name": "First Samurai",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1320,
+        "name": "Robbit mon Dieu | Jumping Flash! 3",
+        "platform": "PlayStation ",
+        "votes": 0
+    },
+    {
+        "id": 1321,
+        "name": "Star Soldier: Vanishing Earth",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 1322,
+        "name": "Questprobe Featuring the Hulk",
+        "platform": "Apple II",
+        "votes": 0
     }
 ]
