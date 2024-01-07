@@ -6969,7 +6969,7 @@ var jsonArray = [
         "id": 1298,
         "name": "Nancy Drew: Message in a Haunted Mansion",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1299,
