@@ -2107,7 +2107,7 @@ var jsonArray = [
     },
     {
         "id": 476,
-        "name": "Layton's Mystery Journey: Katrielle and The Millionaire\u2019s Conspiracy",
+        "name": "Layton's Mystery Journey: Katrielle and The Millionaire's Conspiracy",
         "platform": "Nintendo 3DS",
         "votes": 0
     },
@@ -2463,7 +2463,7 @@ var jsonArray = [
         "id": 535,
         "name": "Paper Mario: The Thousand-Year Door",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 536,
@@ -5323,13 +5323,13 @@ var jsonArray = [
     },
     {
         "id": 1019,
-        "name": "Castlevania II: Simon\u2019s Quest",
+        "name": "Castlevania II: Simon's Quest",
         "platform": "NES",
         "votes": 0
     },
     {
         "id": 1020,
-        "name": "Castlevania III: Dracula\u2019s Curse",
+        "name": "Castlevania III: Dracula's Curse",
         "platform": "NES",
         "votes": 0
     },
@@ -6763,7 +6763,7 @@ var jsonArray = [
     },
     {
         "id": 1263,
-        "name": "Assassin\u2019s Creed",
+        "name": "Assassin's Creed",
         "platform": "PC",
         "votes": 0
     },
@@ -7071,13 +7071,13 @@ var jsonArray = [
         "id": 1315,
         "name": "Micro Machines",
         "platform": "Master System",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1316,
         "name": "Prince of Persia: The Sands of Time",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1317,
