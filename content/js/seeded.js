@@ -108,12 +108,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 139,
-        "name": "Fantasy Mosaics 12: Parallel Universes",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 140,
         "name": "Fantasy Mosaics 13: Unexpected Visitor",
         "platform": "PC",
