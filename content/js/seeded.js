@@ -7108,5 +7108,149 @@ var jsonArray = [
         "name": "Questprobe Featuring the Hulk",
         "platform": "Apple II",
         "votes": 0
+    },
+{
+        "id": 1323,
+        "name": "Astal",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1324,
+        "name": "Astra Superstars",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1325,
+        "name": "Baroque",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1326,
+        "name": "Clockwork Knight",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1327,
+        "name": "Dragon Force",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1328,
+        "name": "Guardian Heroes",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1329,
+        "name": "Last Bronx",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1330,
+        "name": "Lunacy | Torico",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1331,
+        "name": "The Mansion of Hidden Souls",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1332,
+        "name": "Mr. Bones",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1333,
+        "name": "Panzer Dragoon",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1334,
+        "name": "Panzer Dragoon Saga",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1335,
+        "name": "Powerslave | Exhumed",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1336,
+        "name": "Rabbit",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1337,
+        "name": "Radiant Silvergun",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1338,
+        "name": "Shanghai: Triple-Threat",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1339,
+        "name": "Virtual-On: Cyber Troopers",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1340,
+        "name": "Cubix - Robots for Everyone: Clash 'n Bash",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1341,
+        "name": "O.D.T.: Escape... Or Die Trying",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1342,
+        "name": "2003 Crash II Advance | Crash Bandicoot 2: The Huge Adventure",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1343,
+        "name": "Bionic Commando: Elite Forces",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1344,
+        "name": "Crash Advance IV",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1345,
+        "name": "Over Top",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1346,
+        "name": "Hidden Mysteries: Vampire Secrets",
+        "platform": "Nintendo DS",
+        "votes": 0
     }
 ]
