@@ -7109,7 +7109,7 @@ var jsonArray = [
         "platform": "Apple II",
         "votes": 0
     },
-{
+    {
         "id": 1323,
         "name": "Astal",
         "platform": "Saturn",
@@ -7143,7 +7143,7 @@ var jsonArray = [
         "id": 1328,
         "name": "Guardian Heroes",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1329,
