@@ -7173,13 +7173,13 @@ var jsonArray = [
         "id": 1333,
         "name": "Panzer Dragoon",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1334,
         "name": "Panzer Dragoon Saga",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1335,
