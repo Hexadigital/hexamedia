@@ -2514,12 +2514,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 545,
-        "name": "Pokemon Conquest",
-        "platform": "Nintendo DS",
-        "votes": 0
-    },
-    {
         "id": 546,
         "name": "Pokemon Mystery Dungeon: Gates to Infinity",
         "platform": "Nintendo 3DS",
@@ -7197,7 +7191,7 @@ var jsonArray = [
         "id": 1337,
         "name": "Radiant Silvergun",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1338,
@@ -7209,6 +7203,12 @@ var jsonArray = [
         "id": 1339,
         "name": "Virtual-On: Cyber Troopers",
         "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 97,
+        "name": "Kuru Kuru Kururin",
+        "platform": "Game Boy Advance",
         "votes": 0
     },
     {

@@ -1,17 +1,5 @@
 var jsonArray = [
     {
-        "id": 97,
-        "name": "Kuru Kuru Kururin",
-        "platform": "Game Boy Advance",
-        "votes": 0
-    },
-    {
-        "id": 611,
-        "name": "The Journeyman Project 2: Buried in Time",
-        "platform": "PC",
-        "votes": 9
-    },
-    {
         "id": 210,
         "name": "Golden Sun",
         "platform": "Game Boy Advance",
@@ -21,6 +9,12 @@ var jsonArray = [
         "id": 139,
         "name": "Fantasy Mosaics 12: Parallel Universes",
         "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 545,
+        "name": "Pokemon Conquest",
+        "platform": "Nintendo DS",
         "votes": 0
     },
     {
