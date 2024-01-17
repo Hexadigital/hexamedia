@@ -4344,12 +4344,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 856,
-        "name": "GO Series: Fishing Resort",
-        "platform": "Nintendo DSi",
-        "votes": 0
-    },
-    {
         "id": 857,
         "name": "Mr. Driller: Drill till you Drop",
         "platform": "Nintendo DSi",
@@ -7251,6 +7245,96 @@ var jsonArray = [
         "id": 1346,
         "name": "Hidden Mysteries: Vampire Secrets",
         "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1347,
+        "name": "Warlocked",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1348,
+        "name": "Magical Vacation",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1349,
+        "name": "Hexyz Force",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1350,
+        "name": "The Hunt for the Chocolate Egg",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1351,
+        "name": "Onimusha Tactics",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1352,
+        "name": "Pop Island",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1353,
+        "name": "Simply Mahjong",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1354,
+        "name": "Zuma's Revenge",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1355,
+        "name": "Bloons TD 4",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1356,
+        "name": "Dark Void Zero",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1357,
+        "name": "G.G Series: The Last Knight",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1358,
+        "name": "Rabi Laby",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1359,
+        "name": "UNO",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1360,
+        "name": "Panzer Dragoon II Zwei",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1361,
+        "name": "Panzer Dragoon Mini",
+        "platform": "Game Gear",
         "votes": 0
     }
 ]
