@@ -16,11 +16,5 @@ var jsonArray = [
         "name": "Pokemon Conquest",
         "platform": "Nintendo DS",
         "votes": 0
-    },
-    {
-        "id": 768,
-        "name": "Final Fantasy: Mystic Quest",
-        "platform": "SNES",
-        "votes": 0
     }
 ]

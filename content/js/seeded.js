@@ -7329,7 +7329,7 @@ var jsonArray = [
         "id": 1360,
         "name": "Panzer Dragoon II Zwei",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1361,

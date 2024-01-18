@@ -276,6 +276,12 @@ var jsonArray = [
         "votes": 9
     },
     {
+        "id": 768,
+        "name": "Final Fantasy: Mystic Quest",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
         "id": 314,
         "name": "Boktai: The Sun is in Your Hand",
         "platform": "Game Boy Advance",
