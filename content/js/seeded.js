@@ -7275,7 +7275,7 @@ var jsonArray = [
         "id": 1351,
         "name": "Onimusha Tactics",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1352,
