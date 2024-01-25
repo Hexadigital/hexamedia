@@ -7305,7 +7305,7 @@ var jsonArray = [
         "id": 1356,
         "name": "Dark Void Zero",
         "platform": "Nintendo DSi",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1357,
@@ -7335,6 +7335,6 @@ var jsonArray = [
         "id": 1361,
         "name": "Panzer Dragoon Mini",
         "platform": "Game Gear",
-        "votes": 0
+        "votes": 1
     }
 ]
