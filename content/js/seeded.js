@@ -7311,7 +7311,7 @@ var jsonArray = [
         "id": 1357,
         "name": "G.G Series: The Last Knight",
         "platform": "Nintendo DSi",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1358,
