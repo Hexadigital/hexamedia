@@ -7257,13 +7257,13 @@ var jsonArray = [
         "id": 1348,
         "name": "Magical Vacation",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1349,
         "name": "Hexyz Force",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1350,
@@ -7336,5 +7336,137 @@ var jsonArray = [
         "name": "Panzer Dragoon Mini",
         "platform": "Game Gear",
         "votes": 1
+    },
+    {
+        "id": 1362,
+        "name": "Final Fantasy IV: Unprecedented Crisis",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1363,
+        "name": "Final Fantasy IV: Ultima",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1364,
+        "name": "Final Fantasy ++",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1365,
+        "name": "Mega Man X in Sonic the Hedgehog 2",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1366,
+        "name": "Castlevania: Order of Ecclesia - Zero Collection",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1367,
+        "name": "Patchwork Heroes",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1368,
+        "name": "Rune: Viking Warlord",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1369,
+        "name": "Doom Troopers",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1370,
+        "name": "SD Gundam Gaiden: Knight Gundam Monogatari",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1371,
+        "name": "Black Bass: Lure Fishing",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1372,
+        "name": "Mr. Driller",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1373,
+        "name": "Dolphin Blue",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1374,
+        "name": "Battletoads and Double Dragon: The Ultimate Team",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1375,
+        "name": "Heracles no Eikou: Ugokidashita Kamigami",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1376,
+        "name": "Asura Blade: Sword of Dynasty",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1377,
+        "name": "Dragon Scroll",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1378,
+        "name": "Maken X",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 1379,
+        "name": "Primal Rage",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1380,
+        "name": "LittleBigPlanet",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1381,
+        "name": "DoDonPachi DaiOuJou",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1382,
+        "name": "Gurumin: A Monstrous Adventure",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1383,
+        "name": "Mortal Kombat: Tournament Edition",
+        "platform": "Game Boy Advance",
+        "votes": 0
     }
 ]
