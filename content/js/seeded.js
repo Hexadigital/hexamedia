@@ -7101,7 +7101,7 @@ var jsonArray = [
         "id": 1323,
         "name": "Astal",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1324,
