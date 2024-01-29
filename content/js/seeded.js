@@ -6337,7 +6337,7 @@ var jsonArray = [
     },
     {
         "id": 1193,
-        "name": "Marble Madness 2: Marble Man",
+        "name": "Marble Madness 2: Marble Man [prototype]",
         "platform": "Arcade",
         "votes": 0
     },
