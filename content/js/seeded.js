@@ -1536,12 +1536,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 382,
-        "name": "Drill Dozer",
-        "platform": "Game Boy Advance",
-        "votes": 4
-    },
-    {
         "id": 383,
         "name": "Draw Puzzle",
         "platform": "PC",
@@ -7082,7 +7076,7 @@ var jsonArray = [
     {
         "id": 1320,
         "name": "Robbit mon Dieu | Jumping Flash! 3",
-        "platform": "PlayStation ",
+        "platform": "PlayStation",
         "votes": 0
     },
     {

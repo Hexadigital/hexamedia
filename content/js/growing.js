@@ -16,5 +16,17 @@ var jsonArray = [
         "name": "Pokemon Conquest",
         "platform": "Nintendo DS",
         "votes": 0
+    },
+    {
+        "id": 382,
+        "name": "Drill Dozer",
+        "platform": "Game Boy Advance",
+        "votes": 4
+    },
+    {
+        "id": 1384,
+        "name": "Swordbird Song: The Iron Owl Tower",
+        "platform": "Game Boy",
+        "votes": 0
     }
 ]
