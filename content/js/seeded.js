@@ -7245,7 +7245,7 @@ var jsonArray = [
         "id": 1347,
         "name": "Warlocked",
         "platform": "Game Boy Color",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1348,
