@@ -340,5 +340,23 @@ var jsonArray = [
         "name": "Fantasy Mosaics 11: Fleeing from Dinosaurs",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 139,
+        "name": "Fantasy Mosaics 12: Parallel Universes",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1384,
+        "name": "Swordbird Song: The Iron Owl Tower",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1385,
+        "name": "Black Castle",
+        "platform": "Mega Duck",
+        "votes": 0
     }
 ]

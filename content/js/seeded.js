@@ -3367,7 +3367,7 @@ var jsonArray = [
     },
     {
         "id": 691,
-        "name": "Kirby's Adventure ",
+        "name": "Kirby's Adventure",
         "platform": "NES",
         "votes": 0
     },
@@ -7425,7 +7425,7 @@ var jsonArray = [
         "id": 1377,
         "name": "Dragon Scroll",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1378,
