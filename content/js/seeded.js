@@ -3099,7 +3099,7 @@ var jsonArray = [
         "id": 646,
         "name": "Valkyrie Profile: Lenneth",
         "platform": "PlayStation Portable",
-        "votes": 3
+        "votes": 4
     },
     {
         "id": 647,
@@ -3195,7 +3195,7 @@ var jsonArray = [
         "id": 662,
         "name": "Kirby: Nightmare in Dream Land [replay]",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 663,
@@ -7407,7 +7407,7 @@ var jsonArray = [
         "id": 1374,
         "name": "Battletoads and Double Dragon: The Ultimate Team",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1375,
@@ -7419,7 +7419,7 @@ var jsonArray = [
         "id": 1376,
         "name": "Asura Blade: Sword of Dynasty",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1377,
