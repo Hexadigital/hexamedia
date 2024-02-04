@@ -4,9 +4,11 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-1-P|30-C|25-H|13-D|1555-U
+2-P|32-C|24-H|13-D|1553-U
 
 ### Playing
+
+[Drill Dozer](https://remember.games/game/7803/drill-dozer/)
 
 [Golden Sun](https://remember.games/game/3374/golden-sun/)
 
@@ -56,6 +58,8 @@ Finding Nemo (2023-11-08, 3.25h)
 
 Minicraft (2023-06-22, 3.75h)
 
+Misfortune Advance (2023-12-10, 0.5h)
+
 [My Little Pony - Crystal Princess - The Runaway Rainbow](https://remember.games/game/8018/my-little-pony-crystal-princess-the-runaway-rainbow/) (2023-07-14, 1.25h)
 
 [Naruto - Ninja Council](https://remember.games/game/6952/naruto-ninja-council/) (2022-11-01, 2.25h)
@@ -66,11 +70,13 @@ Minicraft (2023-06-22, 3.75h)
 
 [Pokemon Mystery Dungeon - Red Rescue Team](https://remember.games/game/382/pokemon-mystery-dungeon-red-rescue-team/) (2022-12-25 -> 2023-07-01, 33.25h)
 
-Sips
+Sips (2023-03-06, 0.25h)
 
 [Snood](https://remember.games/game/6761/snood/) (2022-09-19 -> 2023-01-25, 4.5h)
 
 [Touhou Kaisekiki: Arabasiri](https://remember.games/game/7258/touhou-kaisekiki-arabasiri/) (2022-01-23 -> 2022-01-24, 4h)
+
+[World Championship Poker](https://remember.games/game/7584/)
 
 ### Tried, Will Continue
 
@@ -123,8 +129,6 @@ Sims, The - Bustin' Out
 [Sonic Battle](https://remember.games/game/6656/sonic-battle/)
 
 Tetris Worlds
-
-[World Championship Poker](https://remember.games/game/7584/)
 
 ### Tried, Dropped
 
@@ -895,8 +899,6 @@ Dragon Tales - Dragon Adventures
 Dragon's Rock
 
 Drake & Josh
-
-Drill Dozer
 
 Driv3r
 
@@ -1939,8 +1941,6 @@ Minna no Soft Series - Tetris Advance
 Minority Report - Everybody Runs
 
 Mirakuru! Panzou - 7-tsu no Hoshi no Uchuu Kaizoku
-
-Misfortune Advance
 
 Mission Impossible - Operation Surma
 
