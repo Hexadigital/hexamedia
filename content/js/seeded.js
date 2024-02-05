@@ -7413,7 +7413,7 @@ var jsonArray = [
         "id": 1375,
         "name": "Heracles no Eikou: Ugokidashita Kamigami",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1376,
