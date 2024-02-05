@@ -7462,5 +7462,209 @@ var jsonArray = [
         "name": "Mortal Kombat: Tournament Edition",
         "platform": "Game Boy Advance",
         "votes": 0
+    },
+    {
+        "id": 1386,
+        "name": "Shadow of Destiny | Shadow of Memories",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1387,
+        "name": "Super Turrican",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1388,
+        "name": "Plants vs. Zombies",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1389,
+        "name": "Lumines",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1390,
+        "name": "Crime City",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1391,
+        "name": "Pastel Muses",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1392,
+        "name": "Magic Knight Rayearth",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1394,
+        "name": "Frankenstein: Through the Eyes of the Monster",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1395,
+        "name": "Night Striker S",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1396,
+        "name": "Saturn Bomberman Fight!! [untranslated]",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1397,
+        "name": "Bishoujo Senshi Sailor Moon SuperS: Various Emotion [untranslated]",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1398,
+        "name": "Sakura Wars | Sakura Taisen",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1399,
+        "name": "Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1400,
+        "name": "Cleopatra Fortune",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1401,
+        "name": "Cyberbots: Fullmetal Madness",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1402,
+        "name": "Dungeons & Dragons Collection",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1403,
+        "name": "Dungeon Master Nexus",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1404,
+        "name": "Sega Ages: Galaxy Force II",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1405,
+        "name": "Uno DX",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1406,
+        "name": "Guardian Force",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1407,
+        "name": "Yumimi Mix Remix",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1408,
+        "name": "Ninpen Manmaru",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1409,
+        "name": "Snowboard Kids Plus [untranslated]",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1410,
+        "name": "Egg Mania: Eggstreme Madness",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1411,
+        "name": "Virtua Fighter Kids",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1412,
+        "name": "O-chan no Oekaki Logic",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1413,
+        "name": "Hyper Duel",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1414,
+        "name": "Jigsaw Madness",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1415,
+        "name": "Mega Man Anniversary Collection",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1416,
+        "name": "Crusaders of Might and Magic",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1417,
+        "name": "Monster Hunter Freedom",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1418,
+        "name": "Super Doggo WOW WAN",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1419,
+        "name": "Mega Man Battle Network 5: Double Team DS",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1420,
+        "name": "Puzz Loop | Ballistic",
+        "platform": "PlayStation",
+        "votes": 0
     }
 ]
