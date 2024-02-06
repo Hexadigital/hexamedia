@@ -12,12 +12,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 56,
-        "name": "Touhou Rououmu",
-        "platform": "NES",
-        "votes": 0
-    },
-    {
         "id": 57,
         "name": "Touhou Mario: Imperishable Night",
         "platform": "SNES",
