@@ -358,5 +358,11 @@ var jsonArray = [
         "name": "Black Castle",
         "platform": "Mega Duck",
         "votes": 0
+    },
+    {
+        "id": 382,
+        "name": "Drill Dozer",
+        "platform": "Game Boy Advance",
+        "votes": 4
     }
 ]
