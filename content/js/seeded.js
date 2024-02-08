@@ -2793,7 +2793,7 @@ var jsonArray = [
         "id": 595,
         "name": "Summon Night: Swordcraft Story",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 596,
