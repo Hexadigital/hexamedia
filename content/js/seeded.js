@@ -7497,7 +7497,7 @@ var jsonArray = [
         "id": 1392,
         "name": "Magic Knight Rayearth",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1394,
