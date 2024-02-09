@@ -7461,7 +7461,7 @@ var jsonArray = [
         "id": 1386,
         "name": "Shadow of Destiny | Shadow of Memories",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1387,
