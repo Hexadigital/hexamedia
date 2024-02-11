@@ -1,11 +1,5 @@
 var jsonArray = [
     {
-        "id": 210,
-        "name": "Golden Sun",
-        "platform": "Game Boy Advance",
-        "votes": 1
-    },
-    {
         "id": 545,
         "name": "Pokemon Conquest",
         "platform": "Nintendo DS",

@@ -7545,7 +7545,7 @@ var jsonArray = [
         "id": 1401,
         "name": "Cyberbots: Fullmetal Madness",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1402,
@@ -7617,7 +7617,7 @@ var jsonArray = [
         "id": 1413,
         "name": "Hyper Duel",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1414,

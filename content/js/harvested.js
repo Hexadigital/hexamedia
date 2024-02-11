@@ -324,6 +324,12 @@ var jsonArray = [
         "votes": 3
     },
     {
+        "id": 210,
+        "name": "Golden Sun",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
         "id": 1236,
         "name": "Frogger's Adventures: Temple of the Frog",
         "platform": "Game Boy Advance",
