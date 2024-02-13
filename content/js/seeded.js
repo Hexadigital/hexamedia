@@ -513,7 +513,7 @@ var jsonArray = [
         "id": 209,
         "name": "Rune Factory: A Fantasy Harvest Moon",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 211,
