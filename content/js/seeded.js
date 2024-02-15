@@ -3297,7 +3297,7 @@ var jsonArray = [
         "id": 680,
         "name": "Phantasy Star Collection",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 681,
@@ -7575,7 +7575,7 @@ var jsonArray = [
         "id": 1406,
         "name": "Guardian Force",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1407,
