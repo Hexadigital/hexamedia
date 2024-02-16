@@ -7578,12 +7578,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 1407,
-        "name": "Yumimi Mix Remix",
-        "platform": "Saturn",
-        "votes": 0
-    },
-    {
         "id": 1408,
         "name": "Ninpen Manmaru",
         "platform": "Saturn",
@@ -7660,5 +7654,83 @@ var jsonArray = [
         "name": "Puzz Loop | Ballistic",
         "platform": "PlayStation",
         "votes": 0
+    },
+    {
+        "id": 1421,
+        "name": "Nekketsu Tairiku Burning Heroes",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 1422,
+        "name": "Final Fantasy Chronicles: Final Fantasy IV",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1423,
+        "name": "Little Magic",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1424,
+        "name": "Penguin Patrol",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 1425,
+        "name": "Virtual Hydlide",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1426,
+        "name": "Legacy of Kain: Soul Reaver",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1427,
+        "name": "Kirby's Halloween Adventure",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1428,
+        "name": "Saiyuki: Journey West",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1429,
+        "name": "bit Generations: Orbital",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1430,
+        "name": "SMW For Your Kids Only",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1431,
+        "name": "SMB Extended",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1432,
+        "name": "Blade Warrior",
+        "platform": "Amstrad CPC",
+        "votes": 0
+    },
+    {
+        "id": 1433,
+        "name": "Soldiers of Fortune | The Chaos Engine",
+        "platform": "SNES",
+        "votes": 1
     }
 ]
