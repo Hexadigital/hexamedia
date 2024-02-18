@@ -7677,7 +7677,7 @@ var jsonArray = [
         "id": 1424,
         "name": "Penguin Patrol",
         "platform": "Nintendo DSi",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1425,
