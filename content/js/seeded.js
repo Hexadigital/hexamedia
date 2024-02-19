@@ -2184,12 +2184,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 492,
-        "name": "Mega Man Battle Network 5: Double Team DS",
-        "platform": "Nintendo DS",
-        "votes": 0
-    },
-    {
         "id": 493,
         "name": "Mega Man Battle Network 6: Cybeast Falzar",
         "platform": "Game Boy Advance",
@@ -4308,12 +4302,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 852,
-        "name": "Mario Party",
-        "platform": "Nintendo 64",
-        "votes": 0
-    },
-    {
         "id": 853,
         "name": "Kirby 64: The Crystal Shards",
         "platform": "Nintendo 64",
@@ -5955,12 +5943,6 @@ var jsonArray = [
         "id": 1131,
         "name": "Jelly Boy 2",
         "platform": "SNES",
-        "votes": 0
-    },
-    {
-        "id": 1132,
-        "name": "Hamtaro: Ham-Hams Unite!",
-        "platform": "Game Boy Color",
         "votes": 0
     },
     {
@@ -7725,6 +7707,12 @@ var jsonArray = [
         "id": 1432,
         "name": "Blade Warrior",
         "platform": "Amstrad CPC",
+        "votes": 1
+    },
+    {
+        "id": 545,
+        "name": "Pokemon Conquest",
+        "platform": "Nintendo DS",
         "votes": 0
     },
     {
