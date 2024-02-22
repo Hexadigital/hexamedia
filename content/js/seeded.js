@@ -7533,7 +7533,7 @@ var jsonArray = [
         "id": 1402,
         "name": "Dungeons & Dragons Collection",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1403,
@@ -7683,7 +7683,7 @@ var jsonArray = [
         "id": 1428,
         "name": "Saiyuki: Journey West",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1429,
