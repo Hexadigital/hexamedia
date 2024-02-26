@@ -3378,12 +3378,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 695,
-        "name": "Mega Man",
-        "platform": "NES",
-        "votes": 0
-    },
-    {
         "id": 696,
         "name": "Mega Man 2",
         "platform": "NES",
@@ -4701,7 +4695,7 @@ var jsonArray = [
         "id": 920,
         "name": "46 Okunen Monogatari: The Shinkaron",
         "platform": "PC-98",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 921,
@@ -6561,7 +6555,7 @@ var jsonArray = [
         "id": 1237,
         "name": "Tomato Adventure",
         "platform": "Game Boy Advance",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1238,
@@ -7284,12 +7278,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 1358,
-        "name": "Rabi Laby",
-        "platform": "Nintendo DSi",
-        "votes": 0
-    },
-    {
         "id": 1359,
         "name": "UNO",
         "platform": "Nintendo DSi",
@@ -7638,12 +7626,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1421,
-        "name": "Nekketsu Tairiku Burning Heroes",
-        "platform": "SNES",
-        "votes": 1
-    },
-    {
         "id": 1422,
         "name": "Final Fantasy Chronicles: Final Fantasy IV",
         "platform": "PlayStation",
@@ -7653,7 +7635,7 @@ var jsonArray = [
         "id": 1423,
         "name": "Little Magic",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1424,
