@@ -2190,12 +2190,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 494,
-        "name": "Mega Man Battle Network 6: Cybeast Gregar",
-        "platform": "Game Boy Advance",
-        "votes": 0
-    },
-    {
         "id": 495,
         "name": "Rockman.EXE: Operate Shooting Star",
         "platform": "Nintendo DS",
@@ -7702,5 +7696,71 @@ var jsonArray = [
         "name": "Soldiers of Fortune | The Chaos Engine",
         "platform": "SNES",
         "votes": 1
+    },
+    {
+        "id": 1435,
+        "name": "Super Mario Starlight Remix",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1436,
+        "name": "Asuka 120% Limited BURNING Fest.",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1437,
+        "name": "Choujikuu Yousai Macross: Scrambled Valkyrie",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1438,
+        "name": "Raven's Gate",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1439,
+        "name": "Return of the Ninja",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1440,
+        "name": "In the Hunt",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1441,
+        "name": "LocoRoco",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1442,
+        "name": "Mischief Makers",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 1443,
+        "name": "Knightmare II: The Maze of Galious",
+        "platform": "MSX",
+        "votes": 0
+    },
+    {
+        "id": 1444,
+        "name": "Mega Man Battle Network 6: Cybeast Gregar",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1445,
+        "name": "Contra: Shattered Soldier",
+        "platform": "PlayStation 2",
+        "votes": 0
     }
 ]
