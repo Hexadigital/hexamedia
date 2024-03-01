@@ -7761,6 +7761,6 @@ var jsonArray = [
         "id": 1445,
         "name": "Contra: Shattered Soldier",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     }
 ]

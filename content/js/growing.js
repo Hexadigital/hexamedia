@@ -18,12 +18,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 1358,
-        "name": "Rabi Laby",
-        "platform": "Nintendo DSi",
-        "votes": 0
-    },
-    {
         "id": 1434,
         "name": "Final Fantasy V",
         "platform": "SNES",
