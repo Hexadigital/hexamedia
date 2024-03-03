@@ -4,13 +4,9 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-2-P|32-C|24-H|13-D|1553-U
+0-P|34-C|24-H|13-D|1553-U
 
 ### Playing
-
-[Drill Dozer](https://remember.games/game/7803/drill-dozer/)
-
-[Golden Sun](https://remember.games/game/3374/golden-sun/)
 
 ### Completed
 
@@ -19,6 +15,8 @@ This is a list of all the games released for the Game Boy Advance, and my status
 [Britney's Dance Beat](https://remember.games/game/7585/) (2023-03-18 -> 2023-03-24, 2h)
 
 Classic NES Series - Super Mario Bros. (2022-11-21 -> 2022-11-23, 1h)
+
+[Drill Dozer](https://remember.games/game/7803/drill-dozer/) (2024-01-24 -> 2024-02-08, 8.71h)
 
 [Elf - The Movie](https://remember.games/game/7628/elf-the-movie/) (2023-04-02, 1.75h)
 
@@ -33,6 +31,8 @@ Finding Nemo (2023-11-08, 3.25h)
 [Frogger's Adventures - Temple of the Frog](https://remember.games/game/6630/froggers-adventures-temple-of-the-frog/) (2023-11-22, 3h)
 
 [Gekido Advance - Kintaro's Revenge](https://remember.games/game/7749/gekido-advance-kintaros-revenge/) (2023-08-23, 4.5h)
+
+[Golden Sun](https://remember.games/game/3374/golden-sun/) (2023-11-25 -> 2024-02-10, 34.68h)
 
 [Invader](https://remember.games/game/7729/invader/) (2023-04-29 -> 2023-04-30, 3h)
 

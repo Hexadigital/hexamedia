@@ -6399,7 +6399,7 @@ var jsonArray = [
         "id": 1211,
         "name": "Hokuto no Ken",
         "platform": "Master System",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1212,
@@ -7725,7 +7725,7 @@ var jsonArray = [
         "id": 1439,
         "name": "Return of the Ninja",
         "platform": "Game Boy Color",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1440,
@@ -7737,13 +7737,13 @@ var jsonArray = [
         "id": 1441,
         "name": "LocoRoco",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1442,
         "name": "Mischief Makers",
         "platform": "Nintendo 64",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1443,
