@@ -6399,7 +6399,7 @@ var jsonArray = [
         "id": 1211,
         "name": "Hokuto no Ken",
         "platform": "Master System",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 1212,
@@ -7707,13 +7707,13 @@ var jsonArray = [
         "id": 1436,
         "name": "Asuka 120% Limited BURNING Fest.",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1437,
         "name": "Choujikuu Yousai Macross: Scrambled Valkyrie",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1438,

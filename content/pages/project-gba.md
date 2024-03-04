@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-0-P|34-C|24-H|13-D|1553-U
+0-P|35-C|24-H|13-D|1552-U
 
 ### Playing
 
@@ -75,6 +75,8 @@ Sips (2023-03-06, 0.25h)
 [Snood](https://remember.games/game/6761/snood/) (2022-09-19 -> 2023-01-25, 4.5h)
 
 [Touhou Kaisekiki: Arabasiri](https://remember.games/game/7258/touhou-kaisekiki-arabasiri/) (2022-01-23 -> 2022-01-24, 4h)
+
+Who Wants to Be a Millionaire Junior (2024-03-03, 0.1h)
 
 [World Championship Poker](https://remember.games/game/7584/)
 
@@ -3129,8 +3131,6 @@ Whac-A-Mole
 Who Wants to Be a Millionaire
 
 Who Wants to Be a Millionaire - 2nd Edition
-
-Who Wants to Be a Millionaire Junior
 
 Wild Thornberrys Movie, The
 
