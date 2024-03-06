@@ -7762,5 +7762,47 @@ var jsonArray = [
         "name": "Contra: Shattered Soldier",
         "platform": "PlayStation 2",
         "votes": 1
+    },
+    {
+        "id": 1446,
+        "name": "Last Battle | Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1447,
+        "name": "Zupapa!",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1448,
+        "name": "Shotgun Mario 64",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 1449,
+        "name": "Castlequest",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1450,
+        "name": "Gradius",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1451,
+        "name": "Gold Rush!",
+        "platform": "Apple II",
+        "votes": 0
+    },
+    {
+        "id": 1452,
+        "name": "Guru Logic Champ",
+        "platform": "Game Boy Advance",
+        "votes": 0
     }
 ]
