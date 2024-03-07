@@ -7804,5 +7804,83 @@ var jsonArray = [
         "name": "Guru Logic Champ",
         "platform": "Game Boy Advance",
         "votes": 0
+    },
+    {
+        "id": 1454,
+        "name": "Wyvia",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1455,
+        "name": "Pygmalion",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1456,
+        "name": "Terra Nil",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1457,
+        "name": "Granblue Fantasy: Relink",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1458,
+        "name": "BlazBlue Entropy Effect",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1459,
+        "name": "Syndicate",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1460,
+        "name": "WitchSpring R",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1461,
+        "name": "Witch Spring 3 Re:Fine - The Story of Eirudy -",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1462,
+        "name": "Wadanohara and the Great Blue Sea",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1463,
+        "name": "Monark",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1464,
+        "name": "htoL#NiQ: The Firefly Diary",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1465,
+        "name": "Frontier Hunter: Erza\u2019s Wheel of Fortune",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1466,
+        "name": "Lords of the Fallen",
+        "platform": "PC",
+        "votes": 0
     }
 ]
