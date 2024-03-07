@@ -9,9 +9,9 @@ with open('database.json') as db_file:
 	users = db['id_to_username'].copy()
 
 # Handle new cards
-files = os.listdir('../../Desktop/twitch/redeems/cardgacha/')
+files = os.listdir('../twitch/redeems/cardgacha/')
 for file in files:
-    with open('../../Desktop/twitch/redeems/cardgacha/' + file, 'r') as in_file:
+    with open('../twitch/redeems/cardgacha/' + file, 'r') as in_file:
         jdata = json.load(in_file)
     if jdata['User'] not in db['cards'].keys():
         db['cards'][jdata['User']] = {'collection':{}}
@@ -20,7 +20,7 @@ for file in files:
         db['cards'][jdata['User']]['collection'][card_id] += 1
     else:
         db['cards'][jdata['User']]['collection'][card_id] = 1
-    os.remove('../../Desktop/twitch/redeems/cardgacha/' + file)
+    os.remove('../twitch/redeems/cardgacha/' + file)
 
 # Calculate card stats...
 card_stats = {}

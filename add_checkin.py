@@ -3,11 +3,11 @@ import json, os
 with open('database.json') as lb_file:
 	lb = json.load(lb_file)
 
-files = os.listdir('../../Desktop/twitch/redeems/checkin/')
+files = os.listdir('../twitch/redeems/checkin/')
 
 for file in files:
 	#print(file)
-	with open('../../Desktop/twitch/redeems/checkin/' + file, 'r') as in_file:
+	with open('../twitch/redeems/checkin/' + file, 'r') as in_file:
 		jdata = json.load(in_file)
 	un = jdata['data']['redemption']['user']['display_name']
 	uid = str(jdata['data']['redemption']['user']['id'])
@@ -24,7 +24,7 @@ for file in files:
 	if uid not in lb['cards'].keys():
 		lb['cards'][uid] = {'collection':{}}
 	
-	os.remove('../../Desktop/twitch/redeems/checkin/' + file)
+	os.remove('../twitch/redeems/checkin/' + file)
 
 with open('database.json', 'w') as out_file:
 	out_file.write(json.dumps(lb, indent=4))
