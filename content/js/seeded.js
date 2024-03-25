@@ -1923,7 +1923,7 @@ var jsonArray = [
         "id": 448,
         "name": "Hotel Dusk: Room 215",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 449,
@@ -4485,7 +4485,7 @@ var jsonArray = [
         "id": 886,
         "name": "God Hand",
         "platform": "PlayStation 2",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 887,
@@ -7425,7 +7425,7 @@ var jsonArray = [
         "id": 1386,
         "name": "Shadow of Destiny | Shadow of Memories",
         "platform": "PlayStation 2",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 1387,
@@ -7545,13 +7545,13 @@ var jsonArray = [
         "id": 1408,
         "name": "Ninpen Manmaru",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1409,
         "name": "Snowboard Kids Plus [untranslated]",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1410,
@@ -7569,7 +7569,7 @@ var jsonArray = [
         "id": 1412,
         "name": "O-chan no Oekaki Logic",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1413,
@@ -7731,7 +7731,7 @@ var jsonArray = [
         "id": 1440,
         "name": "In the Hunt",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1441,
@@ -7767,13 +7767,13 @@ var jsonArray = [
         "id": 1446,
         "name": "Last Battle | Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1447,
         "name": "Zupapa!",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1448,
@@ -7785,13 +7785,13 @@ var jsonArray = [
         "id": 1449,
         "name": "Castlequest",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1450,
         "name": "Gradius",
         "platform": "PC Engine",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1451,
@@ -7821,7 +7821,7 @@ var jsonArray = [
         "id": 1456,
         "name": "Terra Nil",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1457,
@@ -7833,13 +7833,13 @@ var jsonArray = [
         "id": 1458,
         "name": "BlazBlue Entropy Effect",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1459,
         "name": "Syndicate",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1460,

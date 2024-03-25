@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 26/137 users (18.98%)
+Collected by 27/139 users (19.42%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -62,6 +62,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       <td>3</td>
       </tr>
     <tr>
+      <td>6</td>
+      <td><a href="https://www.twitch.tv/tzarodziej">tzarodziej</a></td>
+      <td>3</td>
+      </tr>
+    <tr>
       <td>7</td>
       <td><a href="https://www.twitch.tv/alllenski">alllenski</a></td>
       <td>2</td>
@@ -74,11 +79,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>7</td>
       <td><a href="https://www.twitch.tv/lcolonq">LCOLONQ</a></td>
-      <td>2</td>
-      </tr>
-    <tr>
-      <td>7</td>
-      <td><a href="https://www.twitch.tv/tzarodziej">tzarodziej</a></td>
       <td>2</td>
       </tr>
     <tr>
@@ -119,6 +119,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>8</td>
       <td><a href="https://www.twitch.tv/lokodavis55">lokodavis55</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>8</td>
+      <td><a href="https://www.twitch.tv/lurilurilu">Lurilurilu</a></td>
       <td>1</td>
       </tr>
     <tr>
