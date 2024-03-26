@@ -4,7 +4,7 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-0-P|35-C|24-H|13-D|1552-U
+0-P|36-C|24-H|13-D|1551-U
 
 ### Playing
 
@@ -61,6 +61,8 @@ Minicraft (2023-06-22, 3.75h)
 Misfortune Advance (2023-12-10, 0.5h)
 
 [My Little Pony - Crystal Princess - The Runaway Rainbow](https://remember.games/game/8018/my-little-pony-crystal-princess-the-runaway-rainbow/) (2023-07-14, 1.25h)
+
+Nancy Drew - Message in a Haunted Mansion (2024-03-24, 2h)
 
 [Naruto - Ninja Council](https://remember.games/game/6952/naruto-ninja-council/) (2022-11-01, 2.25h)
 
@@ -2065,8 +2067,6 @@ Nakayoshi Youchien - Sukoyaka Enji Ikusei Game
 Namco Museum
 
 Namco Museum - 50th Anniversary
-
-Nancy Drew - Message in a Haunted Mansion
 
 Napoleon
 
