@@ -7882,5 +7882,143 @@ var jsonArray = [
         "name": "Lords of the Fallen",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 1467,
+        "name": "Iron Commando: Koutetsu no Senshi",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1468,
+        "name": "Ice Scream",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1469,
+        "name": "Teenage Mutant Ninja Turtles",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1470,
+        "name": "The Wizard of Oz",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1471,
+        "name": "Centipede",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1472,
+        "name": "Drop Off",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1473,
+        "name": "Arkanoid Returns",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1474,
+        "name": "Namco Museum Volume 1",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1475,
+        "name": "Assassin's Creed: Bloodlines",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1476,
+        "name": "Alcon | Slap Fight",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1477,
+        "name": "Tengai Makyou Zero",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1478,
+        "name": "Bomberman: Panic Bomber",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1479,
+        "name": "Final Fight Revenge",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1480,
+        "name": "Arc the Lad",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1481,
+        "name": "Frogger 2",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1482,
+        "name": "Metal Max",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1483,
+        "name": "Pac-Mania",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1484,
+        "name": "Rayman: Raving Rabbids",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1485,
+        "name": "The Granstream Saga",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1486,
+        "name": "Master of Monsters",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1487,
+        "name": "Second Samurai",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1488,
+        "name": "Transformers: The Game",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1489,
+        "name": "Mighty Mighty Missile!",
+        "platform": "Sega CD",
+        "votes": 0
     }
 ]
