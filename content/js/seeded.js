@@ -7491,7 +7491,7 @@ var jsonArray = [
         "id": 1398,
         "name": "Sakura Wars | Sakura Taisen",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1399,
@@ -7503,7 +7503,7 @@ var jsonArray = [
         "id": 1400,
         "name": "Cleopatra Fortune",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1401,
@@ -7521,7 +7521,7 @@ var jsonArray = [
         "id": 1403,
         "name": "Dungeon Master Nexus",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1404,
