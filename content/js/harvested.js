@@ -6,10 +6,28 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 1132,
+        "name": "Hamtaro: Ham-Hams Unite!",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 695,
+        "name": "Mega Man",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
         "id": 5,
         "name": "Chocobo Kwehst",
         "platform": "NES",
         "votes": 0
+    },
+    {
+        "id": 1298,
+        "name": "Nancy Drew: Message in a Haunted Mansion",
+        "platform": "Game Boy Advance",
+        "votes": 1
     },
     {
         "id": 6,

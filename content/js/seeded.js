@@ -6906,12 +6906,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1298,
-        "name": "Nancy Drew: Message in a Haunted Mansion",
-        "platform": "Game Boy Advance",
-        "votes": 1
-    },
-    {
         "id": 1299,
         "name": "Evolution: The World of Sacred Device",
         "platform": "Dreamcast",
