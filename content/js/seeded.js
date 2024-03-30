@@ -7989,7 +7989,7 @@ var jsonArray = [
         "id": 1485,
         "name": "The Granstream Saga",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1486,
@@ -8013,6 +8013,24 @@ var jsonArray = [
         "id": 1489,
         "name": "Mighty Mighty Missile!",
         "platform": "Sega CD",
+        "votes": 0
+    },
+    {
+        "id": 1490,
+        "name": "Little Master: Nijiiro no Maseki",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1491,
+        "name": "Super Boss Collection",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1492,
+        "name": "Darkwing Duck",
+        "platform": "Game Boy",
         "votes": 0
     }
 ]
