@@ -8031,6 +8031,6 @@ var jsonArray = [
         "id": 1492,
         "name": "Darkwing Duck",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     }
 ]
