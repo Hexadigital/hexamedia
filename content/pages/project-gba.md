@@ -4,11 +4,13 @@ Status: Hidden
 
 This is a list of all the games released for the Game Boy Advance, and my status for each. My goal is to try out every single GBA game, and complete as many as I can.
 
-0-P|36-C|24-H|13-D|1551-U
+0-P|37-C|25-H|14-D|1548-U
 
 ### Playing
 
 ### Completed
+
+Alien Hominid (2024-03-31, 1.5h)
 
 [Boktai - The Sun Is in Your Hand](https://remember.games/game/107/boktai-the-sun-is-in-your-hand/) (2023-10-07 -> 2023-11-04, 11.27h)
 
@@ -110,11 +112,13 @@ Mario Party Advance
 
 [Mooncat's Trio](https://remember.games/game/7761/mooncats-trio/)
 
+Over the Hedge
+
 [Perplexus Diodomin (Proto)](https://remember.games/game/7760/perplexus-diodomin/)
 
 [Pokemon - Emerald Version](https://remember.games/game/376/pokemon-emerald-version/) (replay)
 
-[Pokemon - FireRed Version](https://remember.games/game/377/pokemon-firered-version/) (replay)
+[Pokemon - FireRed Version](https://remember.games/game/377/pokemon-firered-version/)
 
 [Pokemon - LeafGreen Version](https://remember.games/game/378/pokemon-leafgreen-version/) (replay)
 
@@ -141,6 +145,8 @@ Tetris Worlds
 [Disney Sports - Soccer](https://remember.games/game/7750/) (2023-05-13)
 
 Earthworm Jim (2023-11-18)
+
+Hello Kitty Collection - Miracle Fashion Maker (2024-03-31)
 
 Jonny Moseley Mad Trix
 
@@ -231,8 +237,6 @@ Aka-chan Doubutsuen
 Aleck Bordon Adventure - Tower & Shaft Advance
 
 Alex Rider - Stormbreaker
-
-Alien Hominid
 
 Alienators - Evolution Continues
 
@@ -1344,8 +1348,6 @@ Heidi - The Game
 
 Hello Kitty - Happy Party Pals
 
-Hello Kitty Collection - Miracle Fashion Maker
-
 Hello! Idol Debut - Kids Idol Ikusei Game
 
 Herbie - Fully Loaded
@@ -2161,8 +2163,6 @@ Oshare Princess 3
 Oshare Princess 5
 
 Ottifanten Pinball
-
-Over the Hedge
 
 Over the Hedge - Hammy Goes Nuts!
 

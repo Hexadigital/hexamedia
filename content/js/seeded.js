@@ -8019,7 +8019,7 @@ var jsonArray = [
         "id": 1490,
         "name": "Little Master: Nijiiro no Maseki",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1491,
@@ -8032,5 +8032,17 @@ var jsonArray = [
         "name": "Darkwing Duck",
         "platform": "Game Boy",
         "votes": 1
+    },
+    {
+        "id": 1943,
+        "name": "Romancing SaGa: Minstrel Song",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1944,
+        "name": "Dottie Flowers",
+        "platform": "SNES",
+        "votes": 0
     }
 ]
