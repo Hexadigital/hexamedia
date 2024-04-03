@@ -1650,12 +1650,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 403,
-        "name": "Far Cry",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 404,
         "name": "Fate/Extella",
         "platform": "PC",
@@ -3938,12 +3932,6 @@ var jsonArray = [
     {
         "id": 793,
         "name": "Super Mario RPG: Legend of the Seven Stars",
-        "platform": "SNES",
-        "votes": 0
-    },
-    {
-        "id": 794,
-        "name": "Super Mario World",
         "platform": "SNES",
         "votes": 0
     },
@@ -6612,12 +6600,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1248,
-        "name": "Chibi-Robo!: Park Patrol",
-        "platform": "Nintendo DS",
-        "votes": 0
-    },
-    {
         "id": 1249,
         "name": "Dungeons & Dragons: Eye of the Beholder",
         "platform": "Game Boy Advance",
@@ -8049,6 +8031,18 @@ var jsonArray = [
         "id": 1495,
         "name": "Choro Q Wonderful!",
         "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1496,
+        "name": "Titenic",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1497,
+        "name": "Seal of the Pharaoh",
+        "platform": "3DO",
         "votes": 0
     }
 ]
