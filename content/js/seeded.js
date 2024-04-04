@@ -8019,13 +8019,13 @@ var jsonArray = [
         "id": 1493,
         "name": "Romancing SaGa: Minstrel Song",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1494,
         "name": "Dottie Flowers",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1495,
