@@ -8044,5 +8044,11 @@ var jsonArray = [
         "name": "Seal of the Pharaoh",
         "platform": "3DO",
         "votes": 0
+    },
+    {
+        "id": 1498,
+        "name": "Klonoa Heroes: Densetsu no Star Medal",
+        "platform": "Game Boy Advance",
+        "votes": 0
     }
 ]
