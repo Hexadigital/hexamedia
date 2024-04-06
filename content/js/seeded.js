@@ -75,7 +75,7 @@ var jsonArray = [
         "id": 96,
         "name": "Kolibri",
         "platform": "Sega 32X",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 120,
