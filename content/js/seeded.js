@@ -8050,5 +8050,11 @@ var jsonArray = [
         "name": "Klonoa Heroes: Densetsu no Star Medal",
         "platform": "Game Boy Advance",
         "votes": 1
+    },
+    {
+        "id": 1499,
+        "name": "Cyborg 009",
+        "platform": "SNES",
+        "votes": 0
     }
 ]
