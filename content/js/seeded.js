@@ -8043,7 +8043,7 @@ var jsonArray = [
         "id": 1497,
         "name": "Seal of the Pharaoh",
         "platform": "3DO",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1498,
