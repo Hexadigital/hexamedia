@@ -8055,6 +8055,6 @@ var jsonArray = [
         "id": 1499,
         "name": "Cyborg 009",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     }
 ]
