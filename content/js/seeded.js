@@ -7662,12 +7662,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 545,
-        "name": "Pokemon Conquest",
-        "platform": "Nintendo DS",
-        "votes": 0
-    },
-    {
         "id": 1433,
         "name": "Soldiers of Fortune | The Chaos Engine",
         "platform": "SNES",
@@ -8056,5 +8050,41 @@ var jsonArray = [
         "name": "Cyborg 009",
         "platform": "SNES",
         "votes": 1
+    },
+    {
+        "id": 1501,
+        "name": "sweetsdigger",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1502,
+        "name": "Mega Man Battle Network 6: Cybeast Falzar - MegaRock Patch",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1503,
+        "name": "Penguin-kun Wars",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1504,
+        "name": "Bleach: Soul Carnival",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1505,
+        "name": "Dragon Quest Heroes: Rocket Slime",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1506,
+        "name": "Deep Dungeon",
+        "platform": "Game Boy",
+        "votes": 0
     }
 ]

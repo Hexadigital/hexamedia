@@ -6,6 +6,12 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 1421,
+        "name": "Nekketsu Tairiku Burning Heroes",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
         "id": 1132,
         "name": "Hamtaro: Ham-Hams Unite!",
         "platform": "Game Boy Color",
