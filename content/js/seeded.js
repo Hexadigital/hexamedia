@@ -7479,7 +7479,7 @@ var jsonArray = [
         "id": 1400,
         "name": "Cleopatra Fortune",
         "platform": "Saturn",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1401,
@@ -8067,7 +8067,7 @@ var jsonArray = [
         "id": 1503,
         "name": "Penguin-kun Wars",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1504,
@@ -8079,7 +8079,7 @@ var jsonArray = [
         "id": 1505,
         "name": "Dragon Quest Heroes: Rocket Slime",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1506,
