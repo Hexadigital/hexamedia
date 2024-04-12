@@ -8001,7 +8001,7 @@ var jsonArray = [
         "id": 1491,
         "name": "Super Boss Collection",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1492,
@@ -8085,6 +8085,6 @@ var jsonArray = [
         "id": 1506,
         "name": "Deep Dungeon",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     }
 ]
