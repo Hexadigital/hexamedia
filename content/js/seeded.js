@@ -7989,7 +7989,7 @@ var jsonArray = [
         "id": 1489,
         "name": "Mighty Mighty Missile!",
         "platform": "Sega CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1490,
@@ -8019,7 +8019,7 @@ var jsonArray = [
         "id": 1494,
         "name": "Dottie Flowers",
         "platform": "SNES",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1495,
@@ -8086,5 +8086,11 @@ var jsonArray = [
         "name": "Deep Dungeon",
         "platform": "Game Boy",
         "votes": 1
+    },
+    {
+        "id": 1507,
+        "name": "Super Mario Bros.",
+        "platform": "NES",
+        "votes": 0
     }
 ]
