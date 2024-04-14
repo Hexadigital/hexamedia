@@ -7977,7 +7977,7 @@ var jsonArray = [
         "id": 1487,
         "name": "Second Samurai",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1488,
@@ -8091,6 +8091,24 @@ var jsonArray = [
         "id": 1507,
         "name": "Super Mario Bros.",
         "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1508,
+        "name": "TearRing Saga: Yutona Eiyuu Senki",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1509,
+        "name": "Super Tilt Bro.",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1510,
+        "name": "10 Lines Princess",
+        "platform": "MSX",
         "votes": 0
     }
 ]
