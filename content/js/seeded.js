@@ -8097,7 +8097,7 @@ var jsonArray = [
         "id": 1508,
         "name": "TearRing Saga: Yutona Eiyuu Senki",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1509,
@@ -8109,6 +8109,18 @@ var jsonArray = [
         "id": 1510,
         "name": "10 Lines Princess",
         "platform": "MSX",
+        "votes": 0
+    },
+    {
+        "id": 1511,
+        "name": "Socket",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1512,
+        "name": "Bonk's Revenge",
+        "platform": "Game Boy",
         "votes": 0
     }
 ]
