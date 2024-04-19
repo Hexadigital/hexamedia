@@ -8122,5 +8122,17 @@ var jsonArray = [
         "name": "Bonk's Revenge",
         "platform": "Game Boy",
         "votes": 1
+    },
+    {
+        "id": 1513,
+        "name": "Batman Forever",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1514,
+        "name": "Perfect Dark",
+        "platform": "Game Boy Color",
+        "votes": 0
     }
 ]
