@@ -8115,12 +8115,12 @@ var jsonArray = [
         "id": 1511,
         "name": "Socket",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1512,
         "name": "Bonk's Revenge",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     }
 ]

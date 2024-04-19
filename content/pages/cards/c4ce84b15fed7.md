@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 27/141 users (19.15%)
+Collected by 27/142 users (19.01%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -58,6 +58,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>6</td>
+      <td><a href="https://www.twitch.tv/lcolonq">LCOLONQ</a></td>
+      <td>3</td>
+      </tr>
+    <tr>
+      <td>6</td>
       <td><a href="https://www.twitch.tv/murdervt">MurderVT</a></td>
       <td>3</td>
       </tr>
@@ -74,11 +79,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>7</td>
       <td><a href="https://www.twitch.tv/karin_ch">karin_ch</a></td>
-      <td>2</td>
-      </tr>
-    <tr>
-      <td>7</td>
-      <td><a href="https://www.twitch.tv/lcolonq">LCOLONQ</a></td>
       <td>2</td>
       </tr>
     <tr>
