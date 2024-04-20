@@ -12,6 +12,18 @@ var jsonArray = [
         "votes": 1
     },
     {
+        "id": 794,
+        "name": "Super Mario World",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1453,
+        "name": "Metal Gear Solid 4: Guns of the Patriots",
+        "platform": "PlayStation 3",
+        "votes": 0
+    },
+    {
         "id": 1132,
         "name": "Hamtaro: Ham-Hams Unite!",
         "platform": "Game Boy Color",

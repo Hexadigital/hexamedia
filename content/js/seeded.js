@@ -381,7 +381,7 @@ var jsonArray = [
         "id": 186,
         "name": "Bahamut Lagoon",
         "platform": "SNES",
-        "votes": 1
+        "votes": 8
     },
     {
         "id": 187,
@@ -1329,7 +1329,7 @@ var jsonArray = [
         "id": 347,
         "name": "Chrono Trigger",
         "platform": "SNES",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 348,
@@ -4473,7 +4473,7 @@ var jsonArray = [
         "id": 886,
         "name": "God Hand",
         "platform": "PlayStation 2",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 887,
@@ -7971,7 +7971,7 @@ var jsonArray = [
         "id": 1486,
         "name": "Master of Monsters",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1487,
@@ -8091,7 +8091,7 @@ var jsonArray = [
         "id": 1507,
         "name": "Super Mario Bros.",
         "platform": "NES",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 1508,
