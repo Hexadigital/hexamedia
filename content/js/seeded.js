@@ -2169,7 +2169,7 @@ var jsonArray = [
         "id": 490,
         "name": "Mega Man Battle Network 3: White Version",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 4
     },
     {
         "id": 491,
@@ -2739,7 +2739,7 @@ var jsonArray = [
         "id": 589,
         "name": "Starsiege",
         "platform": "PC",
-        "votes": 7
+        "votes": 8
     },
     {
         "id": 590,
@@ -4677,7 +4677,7 @@ var jsonArray = [
         "id": 920,
         "name": "46 Okunen Monogatari: The Shinkaron",
         "platform": "PC-98",
-        "votes": 3
+        "votes": 4
     },
     {
         "id": 921,
@@ -7935,7 +7935,7 @@ var jsonArray = [
         "id": 1480,
         "name": "Arc the Lad",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1481,
@@ -7959,7 +7959,7 @@ var jsonArray = [
         "id": 1484,
         "name": "Rayman: Raving Rabbids",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1485,
