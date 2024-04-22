@@ -6,9 +6,15 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 403,
-        "name": "Far Cry",
+        "id": 140,
+        "name": "Fantasy Mosaics 13: Unexpected Visitor",
         "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 615,
+        "name": "The Legend of Zelda: Phantom Hourglass",
+        "platform": "Nintendo DS",
         "votes": 0
     },
     {

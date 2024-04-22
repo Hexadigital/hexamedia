@@ -102,12 +102,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 140,
-        "name": "Fantasy Mosaics 13: Unexpected Visitor",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 141,
         "name": "Fantasy Mosaics 14: Fourth Color",
         "platform": "PC",
@@ -2883,12 +2877,6 @@ var jsonArray = [
         "id": 614,
         "name": "The Legend of Zelda: Breath of the Wild",
         "platform": "Nintendo Switch",
-        "votes": 0
-    },
-    {
-        "id": 615,
-        "name": "The Legend of Zelda: Phantom Hourglass",
-        "platform": "Nintendo DS",
         "votes": 0
     },
     {
