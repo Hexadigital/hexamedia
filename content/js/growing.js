@@ -12,10 +12,10 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 615,
-        "name": "The Legend of Zelda: Phantom Hourglass",
-        "platform": "Nintendo DS",
-        "votes": 0
+        "id": 186,
+        "name": "Bahamut Lagoon",
+        "platform": "SNES",
+        "votes": 8
     },
     {
         "id": 1500,

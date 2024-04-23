@@ -372,12 +372,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 186,
-        "name": "Bahamut Lagoon",
-        "platform": "SNES",
-        "votes": 8
-    },
-    {
         "id": 187,
         "name": "The World Ends with You [replay]",
         "platform": "Nintendo DS",
@@ -2883,12 +2877,6 @@ var jsonArray = [
         "id": 616,
         "name": "The Legend of Zelda: Skyward Sword",
         "platform": "Wii",
-        "votes": 0
-    },
-    {
-        "id": 617,
-        "name": "The Legend of Zelda: Spirit Tracks",
-        "platform": "Nintendo DS",
         "votes": 0
     },
     {
