@@ -7833,7 +7833,7 @@ var jsonArray = [
         "id": 1467,
         "name": "Iron Commando: Koutetsu no Senshi",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1468,
@@ -7893,7 +7893,7 @@ var jsonArray = [
         "id": 1477,
         "name": "Tengai Makyou Zero",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1478,
@@ -8110,5 +8110,17 @@ var jsonArray = [
         "name": "Perfect Dark",
         "platform": "Game Boy Color",
         "votes": 0
+    },
+    {
+        "id": 1515,
+        "name": "Reel Fishing II | Fish Eyes II",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1516,
+        "name": "Deathsmiles",
+        "platform": "Arcade",
+        "votes": 1
     }
 ]
