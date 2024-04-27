@@ -8122,5 +8122,29 @@ var jsonArray = [
         "name": "Deathsmiles",
         "platform": "Arcade",
         "votes": 1
+    },
+    {
+        "id": 1517,
+        "name": "Rockman Gaiden",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1518,
+        "name": "Rockman: Claw",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1519,
+        "name": "Megaman 1: Speed Bomber",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1520,
+        "name": "Mega Man: Ultra Challenge",
+        "platform": "NES",
+        "votes": 0
     }
 ]
