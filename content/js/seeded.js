@@ -8146,5 +8146,11 @@ var jsonArray = [
         "name": "Mega Man: Ultra Challenge",
         "platform": "NES",
         "votes": 0
+    },
+    {
+        "id": 1521,
+        "name": "Dante's Inferno",
+        "platform": "PlayStation Portable",
+        "votes": 0
     }
 ]
