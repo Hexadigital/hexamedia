@@ -381,7 +381,7 @@ var jsonArray = [
         "id": 188,
         "name": "Metal Gear Solid: Ghost Babel [replay]",
         "platform": "Game Boy Color",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 190,
@@ -969,7 +969,7 @@ var jsonArray = [
         "id": 288,
         "name": "Age of Empires: The Age of Kings",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 11
     },
     {
         "id": 289,
@@ -1017,7 +1017,7 @@ var jsonArray = [
         "id": 296,
         "name": "Aviary Attorney",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 297,
@@ -1203,7 +1203,7 @@ var jsonArray = [
         "id": 328,
         "name": "Captain Toad: Treasure Tracker",
         "platform": "Nintendo Switch",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 329,
@@ -1233,7 +1233,7 @@ var jsonArray = [
         "id": 333,
         "name": "Castlevania: Circle of the Moon",
         "platform": "Game Boy Advance",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 334,
@@ -1407,7 +1407,7 @@ var jsonArray = [
         "id": 363,
         "name": "Deus Ex",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 364,
@@ -1479,7 +1479,7 @@ var jsonArray = [
         "id": 375,
         "name": "Dishonored",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 376,
@@ -1515,7 +1515,7 @@ var jsonArray = [
         "id": 381,
         "name": "Drakengard 2",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 383,
@@ -1527,7 +1527,7 @@ var jsonArray = [
         "id": 384,
         "name": "Dune",
         "platform": "DOS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 385,
@@ -2013,7 +2013,7 @@ var jsonArray = [
         "id": 466,
         "name": "We Love Katamari",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 467,
@@ -2157,7 +2157,7 @@ var jsonArray = [
         "id": 490,
         "name": "Mega Man Battle Network 3: White Version",
         "platform": "Game Boy Advance",
-        "votes": 4
+        "votes": 9
     },
     {
         "id": 491,
@@ -2313,7 +2313,7 @@ var jsonArray = [
         "id": 518,
         "name": "My Nintendo Picross: The Legend of Zelda: Twilight Princess",
         "platform": "Nintendo 3DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 519,
@@ -2343,7 +2343,7 @@ var jsonArray = [
         "id": 523,
         "name": "NEO: The World Ends with You",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 524,
@@ -2403,7 +2403,7 @@ var jsonArray = [
         "id": 533,
         "name": "Paper Mario",
         "platform": "Nintendo 64",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 534,
@@ -2451,7 +2451,7 @@ var jsonArray = [
         "id": 541,
         "name": "Pikmin",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 542,
@@ -2541,7 +2541,7 @@ var jsonArray = [
         "id": 557,
         "name": "Quantum Break",
         "platform": "PC",
-        "votes": 0
+        "votes": 6
     },
     {
         "id": 558,
@@ -2709,7 +2709,7 @@ var jsonArray = [
         "id": 586,
         "name": "SoulCalibur II",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 587,
@@ -2859,7 +2859,7 @@ var jsonArray = [
         "id": 612,
         "name": "The Journeyman Project 3: Legacy of Time",
         "platform": "PC",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 613,
@@ -4095,7 +4095,7 @@ var jsonArray = [
         "id": 825,
         "name": "Mario Kart DS",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 826,
@@ -4185,7 +4185,7 @@ var jsonArray = [
         "id": 840,
         "name": "New Super Mario Bros.",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 841,
@@ -4251,7 +4251,7 @@ var jsonArray = [
         "id": 851,
         "name": "Mario Party 2",
         "platform": "Nintendo 64",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 853,
@@ -6663,7 +6663,7 @@ var jsonArray = [
         "id": 1263,
         "name": "Assassin's Creed",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1264,
@@ -6759,7 +6759,7 @@ var jsonArray = [
         "id": 1280,
         "name": "Fate/Unlimited Codes",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1281,
@@ -7431,7 +7431,7 @@ var jsonArray = [
         "id": 1396,
         "name": "Saturn Bomberman Fight!! [untranslated]",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1397,
@@ -7737,7 +7737,7 @@ var jsonArray = [
         "id": 1450,
         "name": "Gradius",
         "platform": "PC Engine",
-        "votes": 1
+        "votes": 0
     },
     {
         "id": 1451,
