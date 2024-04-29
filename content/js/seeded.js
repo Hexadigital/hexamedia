@@ -7383,7 +7383,7 @@ var jsonArray = [
         "id": 1387,
         "name": "Super Turrican",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1388,
@@ -7401,7 +7401,7 @@ var jsonArray = [
         "id": 1390,
         "name": "Crime City",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1391,
