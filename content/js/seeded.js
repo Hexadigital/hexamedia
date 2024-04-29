@@ -8152,5 +8152,11 @@ var jsonArray = [
         "name": "Dante's Inferno",
         "platform": "PlayStation Portable",
         "votes": 0
+    },
+    {
+        "id": 1522,
+        "name": "Shadow of Rome",
+        "platform": "PlayStation 2",
+        "votes": 0
     }
 ]
