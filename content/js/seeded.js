@@ -8158,5 +8158,11 @@ var jsonArray = [
         "name": "Shadow of Rome",
         "platform": "PlayStation 2",
         "votes": 0
+    },
+    {
+        "id": 1523,
+        "name": "Mega Man Star Force DX",
+        "platform": "Nintendo DS",
+        "votes": 0
     }
 ]
