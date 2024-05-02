@@ -7287,7 +7287,7 @@ var jsonArray = [
         "id": 1369,
         "name": "Doom Troopers",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1370,
