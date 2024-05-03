@@ -969,7 +969,7 @@ var jsonArray = [
         "id": 288,
         "name": "Age of Empires: The Age of Kings",
         "platform": "Nintendo DS",
-        "votes": 11
+        "votes": 12
     },
     {
         "id": 289,
@@ -7269,7 +7269,7 @@ var jsonArray = [
         "id": 1366,
         "name": "Castlevania: Order of Ecclesia - Zero Collection",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1367,
@@ -8121,7 +8121,7 @@ var jsonArray = [
         "id": 1516,
         "name": "Deathsmiles",
         "platform": "Arcade",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1517,
@@ -8163,6 +8163,6 @@ var jsonArray = [
         "id": 1523,
         "name": "Mega Man Star Force DX",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     }
 ]
