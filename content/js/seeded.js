@@ -8164,5 +8164,221 @@ var jsonArray = [
         "name": "Mega Man Star Force DX",
         "platform": "Nintendo DS",
         "votes": 1
+    },
+    {
+        "id": 1524,
+        "name": "Tengai Makyou: Ziria",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1525,
+        "name": "Dragon Slayer: The Legend of Heroes",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1526,
+        "name": "1941: Counter Attack",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1527,
+        "name": "Marchen Maze",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1528,
+        "name": "1943 Kai",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1529,
+        "name": "Ginga Fukei Densetsu Sapphire",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1530,
+        "name": "R-Type Complete",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1531,
+        "name": "Maria",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1532,
+        "name": "Cosmic Fantasy 2",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1533,
+        "name": "The Manhole",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1534,
+        "name": "Somer Assault | Mesopotamia",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1535,
+        "name": "Kyuukyoku Tiger | Twin Cobra",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1536,
+        "name": "Wonder Momo",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1537,
+        "name": "Samurai Ghost | Genpei Toumaden - Kan no Ni",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1538,
+        "name": "Shapeshifter",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1539,
+        "name": "Metal Stoker",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1540,
+        "name": "Dragon Saber: After Story of Dragon Spirit",
+        "platform": "PC Engine",
+        "votes": 1
+    },
+    {
+        "id": 1541,
+        "name": "Chou Jikuu Yousai Macross 2036",
+        "platform": "PC Engine CD",
+        "votes": 1
+    },
+    {
+        "id": 1542,
+        "name": "Deep Blue",
+        "platform": "PC Engine",
+        "votes": 1
+    },
+    {
+        "id": 1543,
+        "name": "Shadow of the Beast",
+        "platform": "PC Engine CD",
+        "votes": 1
+    },
+    {
+        "id": 1544,
+        "name": "Genpei Toumaden",
+        "platform": "PC Engine",
+        "votes": 1
+    },
+    {
+        "id": 1545,
+        "name": "Monster Lair",
+        "platform": "PC Engine CD",
+        "votes": 1
+    },
+    {
+        "id": 1546,
+        "name": "Godzilla | Gojira: Bakutou Retsuden",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1547,
+        "name": "Travel Epuru",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1548,
+        "name": "Tatsunoko Fighter",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1549,
+        "name": "Doraemon: Nobita no Dorabian Night [untranslated]",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1550,
+        "name": "Godzilla: Save the Earth",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1551,
+        "name": "Famidash",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1552,
+        "name": "Finding Nemo: The Continuing Adventures",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1553,
+        "name": "Street Fighter EX3",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1554,
+        "name": "Mission X",
+        "platform": "Intellivision",
+        "votes": 0
+    },
+    {
+        "id": 1555,
+        "name": "TechnoMage: Return of Eternity",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1556,
+        "name": "Magical Puzzle Popils",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 1557,
+        "name": "Fushigi no Yume no Alice",
+        "platform": "PC Engine",
+        "votes": 0
+    },
+    {
+        "id": 1558,
+        "name": "Mahou no Princess Minky Momo Remember Dream",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1559,
+        "name": "Aladdin",
+        "platform": "Game Boy Color",
+        "votes": 0
     }
 ]
