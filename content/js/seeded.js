@@ -5205,7 +5205,7 @@ var jsonArray = [
         "id": 1014,
         "name": "Virtual Boy: Wario Land",
         "platform": "Virtual Boy",
-        "votes": 0
+        "votes": 10
     },
     {
         "id": 1015,
@@ -8385,6 +8385,6 @@ var jsonArray = [
         "id": 1560,
         "name": "Digimon World",
         "platform": "PlayStation",
-        "votes": 1
+        "votes": 2
     }
 ]
