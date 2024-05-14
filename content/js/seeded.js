@@ -8386,5 +8386,41 @@ var jsonArray = [
         "name": "Digimon World",
         "platform": "PlayStation",
         "votes": 2
+    },
+    {
+        "id": 1561,
+        "name": "Idol Hakkenden | Pop Star Debut",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1562,
+        "name": "Metal Slug: Super Vehicle-001",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1563,
+        "name": "Metal Slug 2",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1564,
+        "name": "VR Troopers",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 1565,
+        "name": "Short Circuit",
+        "platform": "Amstrad CPC",
+        "votes": 0
+    },
+    {
+        "id": 1566,
+        "name": "Time Soldiers",
+        "platform": "Master System",
+        "votes": 0
     }
 ]
