@@ -68,7 +68,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>6</td>
-      <td><a href="https://www.twitch.tv/tzarodziej">tzarodziej</a></td>
+      <td><a href="https://www.twitch.tv/tzaro_ch">tzaro_ch</a></td>
       <td>3</td>
       </tr>
     <tr>

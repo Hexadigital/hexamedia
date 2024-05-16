@@ -8415,12 +8415,12 @@ var jsonArray = [
         "id": 1565,
         "name": "Short Circuit",
         "platform": "Amstrad CPC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1566,
         "name": "Time Soldiers",
         "platform": "Master System",
-        "votes": 0
+        "votes": 1
     }
 ]
