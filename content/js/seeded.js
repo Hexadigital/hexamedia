@@ -8397,13 +8397,13 @@ var jsonArray = [
         "id": 1562,
         "name": "Metal Slug: Super Vehicle-001",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1563,
         "name": "Metal Slug 2",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1564,

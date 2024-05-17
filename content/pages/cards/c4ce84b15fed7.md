@@ -78,6 +78,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>7</td>
+      <td><a href="https://www.twitch.tv/edwardurahara">EdwardUrahara</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
+      <td>7</td>
       <td><a href="https://www.twitch.tv/karin_ch">karin_ch</a></td>
       <td>2</td>
       </tr>
@@ -89,11 +94,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>8</td>
       <td><a href="https://www.twitch.tv/darkmetric">darkmetric</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>8</td>
-      <td><a href="https://www.twitch.tv/edwardurahara">EdwardUrahara</a></td>
       <td>1</td>
       </tr>
     <tr>
