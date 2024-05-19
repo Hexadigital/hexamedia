@@ -8361,13 +8361,13 @@ var jsonArray = [
         "id": 1556,
         "name": "Magical Puzzle Popils",
         "platform": "Game Gear",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1557,
         "name": "Fushigi no Yume no Alice",
         "platform": "PC Engine",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1558,
