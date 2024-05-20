@@ -8422,5 +8422,59 @@ var jsonArray = [
         "name": "Time Soldiers",
         "platform": "Master System",
         "votes": 1
+    },
+    {
+        "id": 1567,
+        "name": "Tower of Doom",
+        "platform": "Intellivision",
+        "votes": 0
+    },
+    {
+        "id": 1568,
+        "name": "Nobunaga's Ambition",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1569,
+        "name": "Dragon Ball Z: The Legacy of Goku",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1570,
+        "name": "Street Fighter Alpha 3",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 1571,
+        "name": "Yoru no Kasou",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1572,
+        "name": "Lady Bug",
+        "platform": "Intellivision",
+        "votes": 0
+    },
+    {
+        "id": 1573,
+        "name": "Crayon Shin-chan: Taiketsu! Kantam Panic!!",
+        "platform": "Game Gear",
+        "votes": 0
+    },
+    {
+        "id": 1574,
+        "name": "Dino Crisis",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 1575,
+        "name": "Fate/Extra CCC",
+        "platform": "PlayStation Portable",
+        "votes": 0
     }
 ]
