@@ -1167,7 +1167,7 @@ var jsonArray = [
         "id": 322,
         "name": "Bridge Constructor Portal",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 323,
@@ -1479,7 +1479,7 @@ var jsonArray = [
         "id": 375,
         "name": "Dishonored",
         "platform": "PC",
-        "votes": 1
+        "votes": 3
     },
     {
         "id": 376,
@@ -1527,7 +1527,7 @@ var jsonArray = [
         "id": 384,
         "name": "Dune",
         "platform": "DOS",
-        "votes": 1
+        "votes": 3
     },
     {
         "id": 385,
@@ -2403,7 +2403,7 @@ var jsonArray = [
         "id": 533,
         "name": "Paper Mario",
         "platform": "Nintendo 64",
-        "votes": 1
+        "votes": 7
     },
     {
         "id": 534,
@@ -8259,7 +8259,7 @@ var jsonArray = [
         "id": 1539,
         "name": "Metal Stoker",
         "platform": "PC Engine",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1540,
@@ -8355,7 +8355,7 @@ var jsonArray = [
         "id": 1555,
         "name": "TechnoMage: Return of Eternity",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1556,
