@@ -6,16 +6,16 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 140,
-        "name": "Fantasy Mosaics 13: Unexpected Visitor",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 186,
         "name": "Bahamut Lagoon",
         "platform": "SNES",
         "votes": 8
+    },
+    {
+        "id": 1492,
+        "name": "Darkwing Duck",
+        "platform": "Game Boy",
+        "votes": 1
     },
     {
         "id": 1500,

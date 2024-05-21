@@ -7980,12 +7980,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 1492,
-        "name": "Darkwing Duck",
-        "platform": "Game Boy",
-        "votes": 1
-    },
-    {
         "id": 1493,
         "name": "Romancing SaGa: Minstrel Song",
         "platform": "PlayStation 2",
