@@ -789,7 +789,7 @@ var jsonArray = [
         "id": 258,
         "name": "Ikaruga",
         "platform": "Dreamcast",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 259,
@@ -1737,7 +1737,7 @@ var jsonArray = [
         "id": 420,
         "name": "Grand Theft Auto: San Andreas",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 421,
@@ -8379,7 +8379,7 @@ var jsonArray = [
         "id": 1560,
         "name": "Digimon World",
         "platform": "PlayStation",
-        "votes": 2
+        "votes": 4
     },
     {
         "id": 1561,
@@ -8463,7 +8463,7 @@ var jsonArray = [
         "id": 1574,
         "name": "Dino Crisis",
         "platform": "Dreamcast",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1575,
