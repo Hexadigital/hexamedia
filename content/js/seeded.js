@@ -8445,7 +8445,7 @@ var jsonArray = [
         "id": 1571,
         "name": "Yoru no Kasou",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1572,
