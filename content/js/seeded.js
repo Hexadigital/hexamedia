@@ -4449,7 +4449,7 @@ var jsonArray = [
         "id": 886,
         "name": "God Hand",
         "platform": "PlayStation 2",
-        "votes": 3
+        "votes": 4
     },
     {
         "id": 887,
@@ -8247,7 +8247,7 @@ var jsonArray = [
         "id": 1538,
         "name": "Shapeshifter",
         "platform": "PC Engine CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1539,
