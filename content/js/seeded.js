@@ -8331,7 +8331,7 @@ var jsonArray = [
         "id": 1552,
         "name": "Finding Nemo: The Continuing Adventures",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1553,
