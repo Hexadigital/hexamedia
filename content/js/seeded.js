@@ -8470,5 +8470,143 @@ var jsonArray = [
         "name": "Fate/Extra CCC",
         "platform": "PlayStation Portable",
         "votes": 0
+    },
+    {
+        "id": 1576,
+        "name": "Mega Mosaic",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1577,
+        "name": "Jajamaru Gekimaden: Maboroshi no Kinmajou",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1578,
+        "name": "Petz: Catz 2",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1579,
+        "name": "Pac-Pix",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1580,
+        "name": "Animal Boxing",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1581,
+        "name": "The Raiden Project",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1582,
+        "name": "Puyo Pop",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1583,
+        "name": "Batman: The Movie",
+        "platform": "Amstrad CPC",
+        "votes": 0
+    },
+    {
+        "id": 1584,
+        "name": "Shadow of Destiny | Shadow of Memories",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1585,
+        "name": "Initial D: Special Stage",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1586,
+        "name": "Wishing Sarah",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1587,
+        "name": "Angry Birds",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1588,
+        "name": "Magi Nation",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1589,
+        "name": "Final Fantasy V: Whirlwind",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1590,
+        "name": "Gumby vs. the Astrobots",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1591,
+        "name": "Pokemon Vega",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1592,
+        "name": "Namco Museum: 50th Anniversary",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1593,
+        "name": "Laplace no Ma | Demon of Laplace",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1594,
+        "name": "Greendog: The Beached Surfer Dude!",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1595,
+        "name": "Ketsui: Kizuna Jigoku Tachi",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1596,
+        "name": "The Mayor of Sanctuary",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1597,
+        "name": "B.L.U.E.: Legend of Water",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1598,
+        "name": "Wonder Boy",
+        "platform": "SG-1000",
+        "votes": 0
     }
 ]
