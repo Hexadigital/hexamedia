@@ -6,16 +6,16 @@ var jsonArray = [
         "votes": 0
     },
     {
+        "id": 1576,
+        "name": "Mega Mosaic",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
         "id": 186,
         "name": "Bahamut Lagoon",
         "platform": "SNES",
         "votes": 8
-    },
-    {
-        "id": 1492,
-        "name": "Darkwing Duck",
-        "platform": "Game Boy",
-        "votes": 1
     },
     {
         "id": 1500,

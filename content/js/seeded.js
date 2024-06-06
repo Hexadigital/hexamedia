@@ -7980,6 +7980,12 @@ var jsonArray = [
         "votes": 1
     },
     {
+        "id": 1492,
+        "name": "Darkwing Duck",
+        "platform": "Game Boy",
+        "votes": 1
+    },
+    {
         "id": 1493,
         "name": "Romancing SaGa: Minstrel Song",
         "platform": "PlayStation 2",
@@ -8472,12 +8478,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1576,
-        "name": "Mega Mosaic",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 1577,
         "name": "Jajamaru Gekimaden: Maboroshi no Kinmajou",
         "platform": "NES",
@@ -8583,7 +8583,7 @@ var jsonArray = [
         "id": 1594,
         "name": "Greendog: The Beached Surfer Dude!",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1595,
