@@ -8595,13 +8595,13 @@ var jsonArray = [
         "id": 1596,
         "name": "The Mayor of Sanctuary",
         "platform": "Game Boy Color",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1597,
         "name": "B.L.U.E.: Legend of Water",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1598,
