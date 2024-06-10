@@ -8577,7 +8577,7 @@ var jsonArray = [
         "id": 1593,
         "name": "Laplace no Ma | Demon of Laplace",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1594,
@@ -8589,7 +8589,7 @@ var jsonArray = [
         "id": 1595,
         "name": "Ketsui: Kizuna Jigoku Tachi",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1596,
