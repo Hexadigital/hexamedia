@@ -5202,12 +5202,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1014,
-        "name": "Virtual Boy: Wario Land",
-        "platform": "Virtual Boy",
-        "votes": 10
-    },
-    {
         "id": 1015,
         "name": "A Plumber For All Seasons",
         "platform": "SNES",
