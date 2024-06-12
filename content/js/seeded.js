@@ -8565,7 +8565,7 @@ var jsonArray = [
         "id": 1592,
         "name": "Namco Museum: 50th Anniversary",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1593,
