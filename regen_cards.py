@@ -5,16 +5,19 @@ from decimal import Decimal
 from cards import *
 
 with open('database.json') as db_file:
-	db = json.load(db_file)
-	users = db['id_to_username'].copy()
+    db = json.load(db_file)
+    users = db['id_to_username'].copy()
 
 # Handle new cards
 files = os.listdir('../twitch/redeems/cardgacha/')
 for file in files:
     with open('../twitch/redeems/cardgacha/' + file, 'r') as in_file:
         jdata = json.load(in_file)
+    db["id_to_username"][jdata['User']] = jdata['Username']
     if jdata['User'] not in db['cards'].keys():
         db['cards'][jdata['User']] = {'collection':{}}
+        db['ranks'][jdata['User']] = 0
+        db['points'][jdata['User']] = 0
     card_id = jdata['Card']['ID']
     if card_id in db['cards'][jdata['User']]['collection'].keys():
         db['cards'][jdata['User']]['collection'][card_id] += 1
@@ -165,4 +168,4 @@ for user_id in users.keys():
 
 text_db = json.dumps(db, indent=4)
 with open('database.json', 'w') as out_file:
-	out_file.write(text_db)
+    out_file.write(text_db)

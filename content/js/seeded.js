@@ -8541,7 +8541,7 @@ var jsonArray = [
         "id": 1588,
         "name": "Magi Nation",
         "platform": "Game Boy Color",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1589,

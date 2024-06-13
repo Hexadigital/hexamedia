@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 27/154 users (17.53%)
+Collected by 27/155 users (17.42%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -23,7 +23,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
   <tbody>
     <tr>
       <td>1</td>
-      <td><a href="https://www.twitch.tv/wishengrad">Wishengrad</a></td>
+      <td><a href="https://www.twitch.tv/wishengrad">wishengrad</a></td>
       <td>8</td>
       </tr>
     <tr>
@@ -38,7 +38,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://www.twitch.tv/sirryu">SirRyu</a></td>
+      <td><a href="https://www.twitch.tv/sirryu">sirryu</a></td>
       <td>5</td>
       </tr>
     <tr>
@@ -53,12 +53,12 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>5</td>
-      <td><a href="https://www.twitch.tv/jekkzerozero">JekkZeroZero</a></td>
+      <td><a href="https://www.twitch.tv/jekkzerozero">jekkzerozero</a></td>
       <td>4</td>
       </tr>
     <tr>
       <td>6</td>
-      <td><a href="https://www.twitch.tv/lcolonq">LCOLONQ</a></td>
+      <td><a href="https://www.twitch.tv/lcolonq">lcolonq</a></td>
       <td>3</td>
       </tr>
     <tr>
@@ -108,11 +108,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>8</td>
-      <td><a href="https://www.twitch.tv/hexadigital">Hexadigital</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>8</td>
       <td><a href="https://www.twitch.tv/khemiamistwalker">KhemiaMistwalker</a></td>
       <td>1</td>
       </tr>
@@ -123,7 +118,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>8</td>
-      <td><a href="https://www.twitch.tv/lurilurilu">Lurilurilu</a></td>
+      <td><a href="https://www.twitch.tv/lurilurilu">lurilurilu</a></td>
       <td>1</td>
       </tr>
     <tr>
@@ -134,6 +129,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>8</td>
       <td><a href="https://www.twitch.tv/rahnmu">rahnMU</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>8</td>
+      <td><a href="https://www.twitch.tv/reddyslab">ReddysLab</a></td>
       <td>1</td>
       </tr>
     <tr>

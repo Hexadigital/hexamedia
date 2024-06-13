@@ -9,7 +9,7 @@ for file in files:
 	#print(file)
 	with open('../twitch/redeems/checkin/' + file, 'r') as in_file:
 		jdata = json.load(in_file)
-	un = jdata['data']['redemption']['user']['display_name']
+	un = jdata['data']['redemption']['user']['login']
 	uid = str(jdata['data']['redemption']['user']['id'])
 	print(uid, un)
 	lb["id_to_username"][uid] = un
