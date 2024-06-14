@@ -3069,7 +3069,7 @@ var jsonArray = [
         "id": 649,
         "name": "For the Frog the Bell Tolls",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 650,
@@ -3711,7 +3711,7 @@ var jsonArray = [
         "id": 758,
         "name": "Brain Lord",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 759,
@@ -6675,7 +6675,7 @@ var jsonArray = [
         "id": 1266,
         "name": "The Final Fantasy Legend | Makai Toushi SaGa",
         "platform": "Game Boy",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1267,
@@ -8505,7 +8505,7 @@ var jsonArray = [
         "id": 1582,
         "name": "Puyo Pop",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1583,
@@ -8523,7 +8523,7 @@ var jsonArray = [
         "id": 1585,
         "name": "Initial D: Special Stage",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1586,
@@ -8602,5 +8602,11 @@ var jsonArray = [
         "name": "Wonder Boy",
         "platform": "SG-1000",
         "votes": 0
+    },
+    {
+        "id": 1599,
+        "name": "Tunic",
+        "platform": "PC",
+        "votes": 1
     }
 ]

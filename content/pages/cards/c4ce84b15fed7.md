@@ -133,12 +133,12 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>8</td>
-      <td><a href="https://www.twitch.tv/reddyslab">ReddysLab</a></td>
+      <td><a href="https://www.twitch.tv/reddyslab">reddyslab</a></td>
       <td>1</td>
       </tr>
     <tr>
       <td>8</td>
-      <td><a href="https://www.twitch.tv/snackoracko">SnackoRacko</a></td>
+      <td><a href="https://www.twitch.tv/snackoracko">snackoracko</a></td>
       <td>1</td>
       </tr>
     <tr>
