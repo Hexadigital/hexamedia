@@ -63,7 +63,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>6</td>
-      <td><a href="https://www.twitch.tv/murdervt">MurderVT</a></td>
+      <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
       <td>3</td>
       </tr>
     <tr>
@@ -78,7 +78,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>7</td>
-      <td><a href="https://www.twitch.tv/edwardurahara">EdwardUrahara</a></td>
+      <td><a href="https://www.twitch.tv/edwardurahara">edwardurahara</a></td>
       <td>2</td>
       </tr>
     <tr>
