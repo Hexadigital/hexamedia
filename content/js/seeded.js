@@ -8427,7 +8427,7 @@ var jsonArray = [
         "id": 1568,
         "name": "Nobunaga's Ambition",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1569,
@@ -8475,7 +8475,7 @@ var jsonArray = [
         "id": 1577,
         "name": "Jajamaru Gekimaden: Maboroshi no Kinmajou",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1578,
@@ -8493,13 +8493,13 @@ var jsonArray = [
         "id": 1580,
         "name": "Animal Boxing",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1581,
         "name": "The Raiden Project",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1582,
