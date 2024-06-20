@@ -8301,7 +8301,7 @@ var jsonArray = [
         "id": 1547,
         "name": "Travel Epuru",
         "platform": "PC Engine CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1548,
