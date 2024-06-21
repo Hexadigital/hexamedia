@@ -8608,5 +8608,167 @@ var jsonArray = [
         "name": "Tunic",
         "platform": "PC",
         "votes": 1
+    },
+    {
+        "id": 1600,
+        "name": "Kidou Senshi Gundam: Seed Destiny",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1601,
+        "name": "Tomb Raider",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1602,
+        "name": "CrossFire",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1603,
+        "name": "Kirby 64: Whispy's Trials",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 1604,
+        "name": "Mini Lunar Ball",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1605,
+        "name": "Bleach Advance: Kurenai ni Somaru Soul Society [untranslated]",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1606,
+        "name": "Advanced Dungeons & Dragons: Pool of Radiance",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1607,
+        "name": "Mega Man Star Force 2: Zerker X Saurian",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1608,
+        "name": "Planet Puzzle League",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1609,
+        "name": "Hotel Transylvania",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1610,
+        "name": "Uncharted Waters",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1611,
+        "name": "Block Kuzushi",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1612,
+        "name": "Quarth | Block Hole",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1613,
+        "name": "Tonic Trouble",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1614,
+        "name": "Tetris Plus",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1615,
+        "name": "Nervous Brickdown",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1616,
+        "name": "Under the Tower",
+        "platform": "Arduboy",
+        "votes": 0
+    },
+    {
+        "id": 1617,
+        "name": "Scrolls of Fire",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1618,
+        "name": "Pac-Attack",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1619,
+        "name": "Kininkou Maroku Oni | Oni Chronicles: Genesis",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1620,
+        "name": "Magical Chase",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1621,
+        "name": "Xak: The Art of Visual Stage",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1622,
+        "name": "Pachinko Daisakusen [untranslated]",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1623,
+        "name": "Gauntlet Legends",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 1624,
+        "name": "The Flintstones: Bedrock Bowling",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1625,
+        "name": "Luminous Arc",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1626,
+        "name": "Hanii in the Sky",
+        "platform": "PC Engine",
+        "votes": 0
     }
 ]
