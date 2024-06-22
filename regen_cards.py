@@ -13,6 +13,8 @@ files = os.listdir('../twitch/redeems/cardgacha/')
 for file in files:
     with open('../twitch/redeems/cardgacha/' + file, 'r') as in_file:
         jdata = json.load(in_file)
+    if 'Username' not in jdata.keys():
+        jdata['Username'] = db["id_to_username"][jdata['User']]
     db["id_to_username"][jdata['User']] = jdata['Username']
     if jdata['User'] not in db['cards'].keys():
         db['cards'][jdata['User']] = {'collection':{}}

@@ -8769,6 +8769,6 @@ var jsonArray = [
         "id": 1626,
         "name": "Hanii in the Sky",
         "platform": "PC Engine",
-        "votes": 0
+        "votes": 1
     }
 ]

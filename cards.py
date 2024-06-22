@@ -385,6 +385,197 @@ cards = {
             'Source': 'https://twitter.com/yamabiko270/status/1702709699416887590'
         },
     ],
+    'Solar Song Set': [
+        {
+            'ID':'6c0569a38a6b',
+            'Name': 'Whitespace',
+            'Number': '43',
+            'Rarity':'Common',
+            'Artist': 'Unknown',
+            'Artist Link': '#',
+            'Source': '#'
+        },
+        {
+            'ID':'7f1e79265836',
+            'Name': 'StreamCube',
+            'Number': '44',
+            'Rarity':'Common',
+            'Artist': 'm05hinu',
+            'Artist Link': 'https://twitter.com/m05hinu',
+            'Source': 'https://skeb.jp/@m05hinu/works/3'
+        },
+        {
+            'ID':'bcb50e841577',
+            'Name': 'Boxed In',
+            'Number': '45',
+            'Rarity':'Common',
+            'Artist': 'Unknown',
+            'Artist Link': '#',
+            'Source': '#'
+        },
+        {
+            'ID':'574baa8ef5d4',
+            'Name': 'Portablu',
+            'Number': '46',
+            'Rarity':'Common',
+            'Artist': 'Unknown',
+            'Artist Link': '#',
+            'Source': '#'
+        },
+        {
+            'ID':'4b517d7ae5d4',
+            'Name': 'Seedling Secret',
+            'Number': '47',
+            'Rarity':'Common',
+            'Artist': 'tomo0111_e',
+            'Artist Link': 'https://twitter.com/tomo0111_e',
+            'Source': 'https://skeb.jp/@tomo0111_e/works/55'
+        },
+        {
+            'ID':'26f8bafaef87',
+            'Name': 'Careful to Carry',
+            'Number': '48',
+            'Rarity':'Common',
+            'Artist': 'Unknown',
+            'Artist Link': '#',
+            'Source': '#'
+        },
+        {
+            'ID':'25204c6a059e',
+            'Name': 'Early Work',
+            'Number': '49',
+            'Rarity':'Common',
+            'Artist': 'Seafood_0324',
+            'Artist Link': 'https://twitter.com/Seafood_0324',
+            'Source': 'https://skeb.jp/@Seafood_0324/works/1'
+        },
+        {
+            'ID':'28c5ba254e54',
+            'Name': 'Floral Twine',
+            'Number': '50',
+            'Rarity':'Common',
+            'Artist': 'zumisa_163',
+            'Artist Link': 'https://twitter.com/zumisa_163',
+            'Source': 'https://skeb.jp/@zumisa_163/works/1'
+        },
+        {
+            'ID':'e8c848f88a97',
+            'Name': 'Star of the Show',
+            'Number': '51',
+            'Rarity':'Common',
+            'Artist': 'DO_wahaHAHA',
+            'Artist Link': 'https://twitter.com/DO_wahaHAHA',
+            'Source': 'https://skeb.jp/@DO_wahaHAHA/works/2'
+        },
+        {
+            'ID':'127f764a7d4f',
+            'Name': 'Monarch Blue',
+            'Number': '52',
+            'Rarity':'Common',
+            'Artist': 'ita_kasu08',
+            'Artist Link': 'https://twitter.com/ita_kasu08',
+            'Source': 'https://skeb.jp/@ita_kasu08/works/2'
+        },
+        {
+            'ID':'534c4c920c48',
+            'Name': 'Golem Mode',
+            'Number': '53',
+            'Rarity':'Uncommon',
+            'Artist': 'nekomame99',
+            'Artist Link': 'https://twitter.com/nekomame99',
+            'Source': 'https://skeb.jp/@nekomame99/works/1'
+        },
+        {
+            'ID':'b8dace78a99f',
+            'Name': 'Squeaking By',
+            'Number': '54',
+            'Rarity':'Uncommon',
+            'Artist': 'u_toki_u',
+            'Artist Link': 'https://twitter.com/u_toki_u',
+            'Source': 'https://skeb.jp/@u_toki_u/works/1'
+        },
+        {
+            'ID':'38ed77372281',
+            'Name': 'Homemade Bread',
+            'Number': '55',
+            'Rarity':'Uncommon',
+            'Artist': 'shishima_ssm',
+            'Artist Link': 'https://twitter.com/shishima_ssm',
+            'Source': 'https://skeb.jp/@shishima_ssm/works/1'
+        },
+        {
+            'ID':'0e67478fb9e5',
+            'Name': 'Feathered Plushies',
+            'Number': '56',
+            'Rarity':'Uncommon',
+            'Artist': 'ann_illi',
+            'Artist Link': 'https://twitter.com/ann_illi',
+            'Source': 'https://skeb.jp/@ann_illi/works/28'
+        },
+        {
+            'ID':'1d2a4e26fb25',
+            'Name': 'Cat Thursday',
+            'Number': '57',
+            'Rarity':'Uncommon',
+            'Artist': 'Unknown',
+            'Artist Link': '#',
+            'Source': '#'
+        },
+        {
+            'ID':'ccc5d4733ba0',
+            'Name': 'Rainy Weather',
+            'Number': '58',
+            'Rarity':'Rare',
+            'Artist': 'kawa_himu',
+            'Artist Link': 'https://twitter.com/kawa_himu',
+            'Source': 'https://skeb.jp/@kawa_himu/works/1'
+        },
+        {
+            'ID':'4d08a2237477',
+            'Name': 'Cafe Chat',
+            'Number': '59',
+            'Rarity':'Rare',
+            'Artist': 'KR03443',
+            'Artist Link': 'https://twitter.com/KR03443',
+            'Source': 'https://skeb.jp/@KR03443/works/63'
+        },
+        {
+            'ID':'7e43526ba582',
+            'Name': 'Gardening Club',
+            'Number': '60',
+            'Rarity':'Rare',
+            'Artist': 'Sabi',
+            'Artist Link': '#',
+            'Source': '#'
+        },
+        {
+            'ID':'0d266637bc8a',
+            'Name': 'Maid Mode',
+            'Number': '61',
+            'Rarity':'Ultra Rare',
+            'Artist': 'uriyumiito',
+            'Artist Link': 'https://twitter.com/uriyumiito',
+            'Source': 'https://skeb.jp/@uriyumiito/works/3'
+        },
+        {
+            'ID':'67316e85e056',
+            'Name': 'Winter Walk',
+            'Number': '62',
+            'Rarity':'Ultra Rare',
+            'Artist': 'RINKi09571422',
+            'Artist Link': 'https://twitter.com/RINKi09571422',
+            'Source': 'https://skeb.jp/@RINKi09571422/works/2'
+        },
+        {
+            'ID':'165499308025',
+            'Name': 'Flytrap Overdrive',
+            'Number': '63',
+            'Rarity':'Secret Rare',
+            'Artist': 'sugarstone_07',
+            'Artist Link': 'https://twitter.com/sugarstone_07',
+            'Source': 'https://skeb.jp/@sugarstone_07/works/14'
+        },
+    ],
 }
 
 event_cards = [
@@ -407,5 +598,15 @@ event_cards = [
         'Artist Link': 'https://twitter.com/ontama634z',
         'Source': 'https://skeb.jp/@ontama634z/works/1',
         'Description': 'Rewarded on check-in from 2023-10-02 to 2023-11-01.'
+    },
+    {
+        'ID':'11ed4acddac8',
+        'Name': 'Two Years',
+        'Number': '3',
+        'Rarity':'Common',
+        'Artist': 'til_Illustrater',
+        'Artist Link': 'https://twitter.com/til_Illustrater',
+        'Source': 'https://skeb.jp/@til_Illustrater/works/1',
+        'Description': 'Rewarded on check-in from 2024-06-22 to 2024-06-30.'
     }
 ]
