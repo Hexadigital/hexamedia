@@ -8,7 +8,7 @@ Status: Hidden
 
 Rewarded on check-in from 2024-06-22 to 2024-06-30.
 
-Collected by 13/158 users (8.23%)
+Collected by 28/161 users (17.39%)
 
 Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></center>
 
@@ -23,12 +23,32 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
   <tbody>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/6horntaurus">6horntaurus</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/alllenski">alllenski</a></td>
       <td>1</td>
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/aokislime">aokislime</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/azuradotexe">azuradotexe</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/bezelea">bezelea</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/hopsco21">hopsco21</a></td>
       <td>1</td>
       </tr>
     <tr>
@@ -53,6 +73,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/manpopsicle">manpopsicle</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/menaxi">menaxi</a></td>
       <td>1</td>
       </tr>
@@ -63,12 +88,57 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/namae33">namae33</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/nanodan_">nanodan_</a></td>
       <td>1</td>
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/needoriginalname">needoriginalname</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/pyco__">pyco__</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/sirryu">sirryu</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/snekrowave">snekrowave</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/sperbus">sperbus</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/swarm_of_weasels">swarm_of_weasels</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/thatguyfromsomewhere">thatguyfromsomewhere</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/thegeniea1">thegeniea1</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/totallynotafakeuser">totallynotafakeuser</a></td>
       <td>1</td>
       </tr>
     <tr>
@@ -84,6 +154,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/wishengrad">wishengrad</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/yastenu">yastenu</a></td>
       <td>1</td>
       </tr>
   </tbody>
