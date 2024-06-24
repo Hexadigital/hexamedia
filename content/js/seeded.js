@@ -8763,7 +8763,7 @@ var jsonArray = [
         "id": 1625,
         "name": "Luminous Arc",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1626,
