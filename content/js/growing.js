@@ -1,21 +1,9 @@
 var jsonArray = [
     {
-        "id": 1434,
-        "name": "Final Fantasy V",
-        "platform": "SNES",
-        "votes": 0
-    },
-    {
         "id": 1576,
         "name": "Mega Mosaic",
         "platform": "PC",
         "votes": 0
-    },
-    {
-        "id": 1014,
-        "name": "Virtual Boy: Wario Land",
-        "platform": "Virtual Boy",
-        "votes": 10
     },
     {
         "id": 186,
@@ -24,9 +12,15 @@ var jsonArray = [
         "votes": 8
     },
     {
-        "id": 1500,
-        "name": "Pokemon Grape Version",
+        "id": 649,
+        "name": "For the Frog the Bell Tolls",
         "platform": "Game Boy",
+        "votes": 1
+    },
+    {
+        "id": 68,
+        "name": "Doors: Paradox",
+        "platform": "PC",
         "votes": 0
     }
 ]

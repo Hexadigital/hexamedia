@@ -42,12 +42,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 68,
-        "name": "Doors: Paradox",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 72,
         "name": "E.V.O.: Search for Eden",
         "platform": "SNES",
@@ -3064,12 +3058,6 @@ var jsonArray = [
         "name": "Chao Bandstand",
         "platform": "Nintendo 64",
         "votes": 0
-    },
-    {
-        "id": 649,
-        "name": "For the Frog the Bell Tolls",
-        "platform": "Game Boy",
-        "votes": 1
     },
     {
         "id": 650,
