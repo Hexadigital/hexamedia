@@ -8758,5 +8758,11 @@ var jsonArray = [
         "name": "Hanii in the Sky",
         "platform": "PC Engine",
         "votes": 1
+    },
+    {
+        "id": 1627,
+        "name": "Super Stardust Portable",
+        "platform": "PlayStation Portable",
+        "votes": 0
     }
 ]
