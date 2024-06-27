@@ -8764,5 +8764,17 @@ var jsonArray = [
         "name": "Super Stardust Portable",
         "platform": "PlayStation Portable",
         "votes": 0
+    },
+    {
+        "id": 1628,
+        "name": "Final Fantasy Crystal Chronicles: Echoes of Time",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 1629,
+        "name": "Mighty! Pang",
+        "platform": "Arcade",
+        "votes": 0
     }
 ]

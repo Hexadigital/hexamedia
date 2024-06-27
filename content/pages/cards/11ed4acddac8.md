@@ -8,7 +8,7 @@ Status: Hidden
 
 Rewarded on check-in from 2024-06-22 to 2024-06-30.
 
-Collected by 33/162 users (20.37%)
+Collected by 39/164 users (23.78%)
 
 Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></center>
 
@@ -48,6 +48,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/ctrl_o">ctrl_o</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/dj_zmx">dj_zmx</a></td>
       <td>1</td>
       </tr>
@@ -68,6 +73,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/irihi1987">irihi1987</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/itom33ro">itom33ro</a></td>
       <td>1</td>
       </tr>
@@ -78,7 +88,22 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/jekkzerozero">jekkzerozero</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/jimmy_mapp">jimmy_mapp</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/lady_lumina">lady_lumina</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/lcolonq">lcolonq</a></td>
       <td>1</td>
       </tr>
     <tr>
@@ -119,6 +144,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/needoriginalname">needoriginalname</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/pleasantfinn_">pleasantfinn_</a></td>
       <td>1</td>
       </tr>
     <tr>

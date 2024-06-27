@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 1/162 users (0.62%)
+Collected by 2/164 users (1.22%)
 
 Drawn by <a href='#'>Unknown</a></center>
 
@@ -21,6 +21,11 @@ Drawn by <a href='#'>Unknown</a></center>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/bezelea">bezelea</a></td>
+      <td>1</td>
+      </tr>
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/wishengrad">wishengrad</a></td>
