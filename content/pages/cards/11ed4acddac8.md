@@ -8,7 +8,7 @@ Status: Hidden
 
 Rewarded on check-in from 2024-06-22 to 2024-06-30.
 
-Collected by 39/164 users (23.78%)
+Collected by 42/165 users (25.45%)
 
 Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></center>
 
@@ -53,6 +53,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/darkmetrick">darkmetrick</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/dj_zmx">dj_zmx</a></td>
       <td>1</td>
       </tr>
@@ -63,12 +68,22 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/gendude">gendude</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/herefortheraccoon">herefortheraccoon</a></td>
       <td>1</td>
       </tr>
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/hopsco21">hopsco21</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/iampanis">iampanis</a></td>
       <td>1</td>
       </tr>
     <tr>

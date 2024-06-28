@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 28/164 users (17.07%)
+Collected by 28/165 users (16.97%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -108,7 +108,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>8</td>
-      <td><a href="https://www.twitch.tv/gendude">GenDude</a></td>
+      <td><a href="https://www.twitch.tv/gendude">gendude</a></td>
       <td>1</td>
       </tr>
     <tr>

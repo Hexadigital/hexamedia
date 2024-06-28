@@ -8775,6 +8775,12 @@ var jsonArray = [
         "id": 1629,
         "name": "Mighty! Pang",
         "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 1630,
+        "name": "Dragon Quest & Final Fantasy in Itadaki Street Portable",
+        "platform": "PlayStation Portable",
         "votes": 0
     }
 ]
