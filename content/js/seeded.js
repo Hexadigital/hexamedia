@@ -1899,7 +1899,7 @@ var jsonArray = [
         "id": 448,
         "name": "Hotel Dusk: Room 215",
         "platform": "Nintendo DS",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 449,
@@ -8781,6 +8781,6 @@ var jsonArray = [
         "id": 1630,
         "name": "Dragon Quest & Final Fantasy in Itadaki Street Portable",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     }
 ]
