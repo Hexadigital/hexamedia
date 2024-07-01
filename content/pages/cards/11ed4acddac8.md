@@ -8,7 +8,7 @@ Status: Hidden
 
 Rewarded on check-in from 2024-06-22 to 2024-06-30.
 
-Collected by 42/165 users (25.45%)
+Collected by 44/166 users (26.51%)
 
 Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></center>
 
@@ -64,6 +64,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/dullaxon">dullaxon</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/fistofthenorthstarstate">fistofthenorthstarstate</a></td>
       <td>1</td>
       </tr>
     <tr>
@@ -204,6 +209,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/totallynotafakeuser">totallynotafakeuser</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/tyumici">tyumici</a></td>
       <td>1</td>
       </tr>
     <tr>

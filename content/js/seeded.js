@@ -8739,7 +8739,7 @@ var jsonArray = [
         "id": 1623,
         "name": "Gauntlet Legends",
         "platform": "Dreamcast",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1624,
@@ -8763,7 +8763,7 @@ var jsonArray = [
         "id": 1627,
         "name": "Super Stardust Portable",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1628,
