@@ -7077,7 +7077,7 @@ var jsonArray = [
         "id": 1337,
         "name": "Radiant Silvergun",
         "platform": "Saturn",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1338,
@@ -8703,7 +8703,7 @@ var jsonArray = [
         "id": 1617,
         "name": "Scrolls of Fire",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1618,
@@ -8721,13 +8721,13 @@ var jsonArray = [
         "id": 1620,
         "name": "Magical Chase",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1621,
         "name": "Xak: The Art of Visual Stage",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1622,

@@ -8,7 +8,7 @@ Status: Hidden
 
 Rewarded on check-in from 2024-06-22 to 2024-06-30.
 
-Collected by 44/166 users (26.51%)
+Collected by 46/167 users (27.54%)
 
 Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></center>
 
@@ -173,6 +173,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/prodzpod">prodzpod</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/pyco__">pyco__</a></td>
       <td>1</td>
       </tr>
@@ -229,6 +234,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/wishengrad">wishengrad</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="https://www.twitch.tv/wongtonz">wongtonz</a></td>
       <td>1</td>
       </tr>
     <tr>
