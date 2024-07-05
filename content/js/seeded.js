@@ -1407,7 +1407,7 @@ var jsonArray = [
         "id": 364,
         "name": "Deus Ex: Mankind Divided",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 365,
@@ -4437,7 +4437,7 @@ var jsonArray = [
         "id": 886,
         "name": "God Hand",
         "platform": "PlayStation 2",
-        "votes": 4
+        "votes": 5
     },
     {
         "id": 887,
@@ -4641,7 +4641,7 @@ var jsonArray = [
         "id": 920,
         "name": "46 Okunen Monogatari: The Shinkaron",
         "platform": "PC-98",
-        "votes": 4
+        "votes": 5
     },
     {
         "id": 921,
@@ -8715,7 +8715,7 @@ var jsonArray = [
         "id": 1619,
         "name": "Kininkou Maroku Oni | Oni Chronicles: Genesis",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1620,
@@ -8782,5 +8782,53 @@ var jsonArray = [
         "name": "Dragon Quest & Final Fantasy in Itadaki Street Portable",
         "platform": "PlayStation Portable",
         "votes": 1
+    },
+    {
+        "id": 1631,
+        "name": "Mega Man Star Force 3: Black Ace",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1632,
+        "name": "Yakuza 5 Remastered",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1633,
+        "name": "Pokemon Emerald Rogue V2",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1634,
+        "name": "MapleStory DS",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1635,
+        "name": "Jurassic Park",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1636,
+        "name": "Retro Game Challenge",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1637,
+        "name": "Cosmo Gang: The Video [untranslated]",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1638,
+        "name": "Yakuza",
+        "platform": "PlayStation 2",
+        "votes": 0
     }
 ]
