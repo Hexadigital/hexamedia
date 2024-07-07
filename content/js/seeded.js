@@ -8811,13 +8811,13 @@ var jsonArray = [
         "id": 1635,
         "name": "Jurassic Park",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1636,
         "name": "Retro Game Challenge",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1637,

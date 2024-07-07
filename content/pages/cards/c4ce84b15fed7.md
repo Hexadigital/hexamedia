@@ -57,6 +57,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       <td>4</td>
       </tr>
     <tr>
+      <td>5</td>
+      <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
+      <td>4</td>
+      </tr>
+    <tr>
       <td>6</td>
       <td><a href="https://www.twitch.tv/bezelea">bezelea</a></td>
       <td>3</td>
@@ -64,11 +69,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>6</td>
       <td><a href="https://www.twitch.tv/lcolonq">lcolonq</a></td>
-      <td>3</td>
-      </tr>
-    <tr>
-      <td>6</td>
-      <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
       <td>3</td>
       </tr>
     <tr>
