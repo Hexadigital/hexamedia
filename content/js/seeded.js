@@ -1407,7 +1407,7 @@ var jsonArray = [
         "id": 364,
         "name": "Deus Ex: Mankind Divided",
         "platform": "PC",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 365,
