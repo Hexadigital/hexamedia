@@ -8661,7 +8661,7 @@ var jsonArray = [
         "id": 1610,
         "name": "Uncharted Waters",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1611,
