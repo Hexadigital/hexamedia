@@ -7092,12 +7092,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 97,
-        "name": "Kuru Kuru Kururin",
-        "platform": "Game Boy Advance",
-        "votes": 0
-    },
-    {
         "id": 1340,
         "name": "Cubix - Robots for Everyone: Clash 'n Bash",
         "platform": "Game Boy Advance",
@@ -8829,6 +8823,48 @@ var jsonArray = [
         "id": 1638,
         "name": "Yakuza",
         "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1639,
+        "name": "Metal Gear Acid 2",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1640,
+        "name": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1641,
+        "name": "Pokemon: Pit of 100 Trials",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1642,
+        "name": "Shanghai II",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1643,
+        "name": "Ashita no Joe",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1644,
+        "name": "The Legend of Zelda: Allhallows Eve",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1645,
+        "name": "20 Challenges: Episode 1 - A feard enemy",
+        "platform": "SNES",
         "votes": 0
     }
 ]

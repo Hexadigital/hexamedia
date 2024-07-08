@@ -22,5 +22,11 @@ var jsonArray = [
         "name": "Doors: Paradox",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 97,
+        "name": "Kuru Kuru Kururin",
+        "platform": "Game Boy Advance",
+        "votes": 0
     }
 ]
