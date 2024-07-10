@@ -4449,7 +4449,7 @@ var jsonArray = [
         "id": 888,
         "name": "Dark Cloud",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 4
     },
     {
         "id": 889,
