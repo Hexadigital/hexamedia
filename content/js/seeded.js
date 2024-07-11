@@ -1407,7 +1407,7 @@ var jsonArray = [
         "id": 364,
         "name": "Deus Ex: Mankind Divided",
         "platform": "PC",
-        "votes": 4
+        "votes": 5
     },
     {
         "id": 365,
@@ -8211,19 +8211,13 @@ var jsonArray = [
         "id": 1535,
         "name": "Kyuukyoku Tiger | Twin Cobra",
         "platform": "PC Engine",
-        "votes": 0
-    },
-    {
-        "id": 1536,
-        "name": "Wonder Momo",
-        "platform": "PC Engine",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1537,
         "name": "Samurai Ghost | Genpei Toumaden - Kan no Ni",
         "platform": "PC Engine",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1538,
