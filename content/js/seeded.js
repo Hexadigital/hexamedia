@@ -1407,7 +1407,7 @@ var jsonArray = [
         "id": 364,
         "name": "Deus Ex: Mankind Divided",
         "platform": "PC",
-        "votes": 5
+        "votes": 6
     },
     {
         "id": 365,
@@ -8145,7 +8145,7 @@ var jsonArray = [
         "id": 1524,
         "name": "Tengai Makyou: Ziria",
         "platform": "PC Engine CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1525,
@@ -8181,7 +8181,7 @@ var jsonArray = [
         "id": 1530,
         "name": "R-Type Complete",
         "platform": "PC Engine CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1531,

@@ -24,7 +24,7 @@ Drawn by <a href='#'>Unknown</a></center>
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/bezelea">bezelea</a></td>
-      <td>2</td>
+      <td>3</td>
       </tr>
     <tr>
       <td>2</td>
