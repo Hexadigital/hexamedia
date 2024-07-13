@@ -454,5 +454,11 @@ var jsonArray = [
         "name": "For the Frog the Bell Tolls",
         "platform": "Game Boy",
         "votes": 1
+    },
+    {
+        "id": 97,
+        "name": "Kuru Kuru Kururin",
+        "platform": "Game Boy Advance",
+        "votes": 0
     }
 ]

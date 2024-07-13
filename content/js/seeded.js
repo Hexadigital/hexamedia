@@ -1407,7 +1407,7 @@ var jsonArray = [
         "id": 364,
         "name": "Deus Ex: Mankind Divided",
         "platform": "PC",
-        "votes": 6
+        "votes": 7
     },
     {
         "id": 365,
@@ -8151,13 +8151,13 @@ var jsonArray = [
         "id": 1525,
         "name": "Dragon Slayer: The Legend of Heroes",
         "platform": "PC Engine CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1526,
         "name": "1941: Counter Attack",
         "platform": "PC Engine",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1527,
@@ -8169,7 +8169,7 @@ var jsonArray = [
         "id": 1528,
         "name": "1943 Kai",
         "platform": "PC Engine",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1529,
