@@ -1407,7 +1407,7 @@ var jsonArray = [
         "id": 364,
         "name": "Deus Ex: Mankind Divided",
         "platform": "PC",
-        "votes": 7
+        "votes": 8
     },
     {
         "id": 365,
@@ -3052,12 +3052,6 @@ var jsonArray = [
         "name": "Vandal Hearts",
         "platform": "PlayStation",
         "votes": 1
-    },
-    {
-        "id": 648,
-        "name": "Chao Bandstand",
-        "platform": "Nintendo 64",
-        "votes": 0
     },
     {
         "id": 650,
@@ -7929,7 +7923,7 @@ var jsonArray = [
         "id": 1487,
         "name": "Second Samurai",
         "platform": "Mega Drive",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1488,

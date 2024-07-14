@@ -10,11 +10,5 @@ var jsonArray = [
         "name": "Bahamut Lagoon",
         "platform": "SNES",
         "votes": 8
-    },
-    {
-        "id": 68,
-        "name": "Doors: Paradox",
-        "platform": "PC",
-        "votes": 0
     }
 ]
