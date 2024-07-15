@@ -1407,7 +1407,7 @@ var jsonArray = [
         "id": 364,
         "name": "Deus Ex: Mankind Divided",
         "platform": "PC",
-        "votes": 8
+        "votes": 9
     },
     {
         "id": 365,
@@ -7707,7 +7707,7 @@ var jsonArray = [
         "id": 1450,
         "name": "Gradius",
         "platform": "PC Engine",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1451,
@@ -7845,7 +7845,7 @@ var jsonArray = [
         "id": 1474,
         "name": "Namco Museum Volume 1",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1475,
@@ -8852,6 +8852,54 @@ var jsonArray = [
     {
         "id": 1645,
         "name": "20 Challenges: Episode 1 - A feard enemy",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1646,
+        "name": "Fire Shark",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1647,
+        "name": "Tetsuya Komuro: Gaball Screen [untranslated]",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1648,
+        "name": "Final Fantasy Fables: Chocobo Tales",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1649,
+        "name": "Keio Flying Squadron 2",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1650,
+        "name": "Super Mario World Central Production 2",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1651,
+        "name": "Jungle no Ouja Tar-chan: Sekai Manyuu Dai Kakutou no Maki [untranslated]",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1652,
+        "name": "Chikyuu Kaihou Gun ZAS",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1653,
+        "name": "Makeruna! Makendou 2: Kimero! Youkai Souri Daijin [untranslated]",
         "platform": "SNES",
         "votes": 0
     }
