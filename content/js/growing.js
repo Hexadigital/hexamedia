@@ -10,5 +10,17 @@ var jsonArray = [
         "name": "Bahamut Lagoon",
         "platform": "SNES",
         "votes": 8
+    },
+    {
+        "id": 1632,
+        "name": "Yakuza 5 Remastered",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 573,
+        "name": "Persona 4 Golden",
+        "platform": "PC",
+        "votes": 0
     }
 ]

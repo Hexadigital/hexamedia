@@ -1407,7 +1407,7 @@ var jsonArray = [
         "id": 364,
         "name": "Deus Ex: Mankind Divided",
         "platform": "PC",
-        "votes": 9
+        "votes": 11
     },
     {
         "id": 365,
@@ -2622,12 +2622,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 573,
-        "name": "Persona 4 Golden",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 574,
         "name": "Shining Soul",
         "platform": "Game Boy Advance",
@@ -3482,12 +3476,6 @@ var jsonArray = [
     {
         "id": 723,
         "name": "The Tower of Turmoil",
-        "platform": "NES",
-        "votes": 0
-    },
-    {
-        "id": 724,
-        "name": "Megaman 1: The New Lands",
         "platform": "NES",
         "votes": 0
     },
@@ -6669,7 +6657,7 @@ var jsonArray = [
         "id": 1268,
         "name": "BlazBlue: Calamity Trigger",
         "platform": "PlayStation Portable",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1269,
@@ -6969,13 +6957,13 @@ var jsonArray = [
         "id": 1320,
         "name": "Robbit mon Dieu | Jumping Flash! 3",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1321,
         "name": "Star Soldier: Vanishing Earth",
         "platform": "Nintendo 64",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1322,
@@ -7281,7 +7269,7 @@ var jsonArray = [
         "id": 1373,
         "name": "Dolphin Blue",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1374,
@@ -7359,7 +7347,7 @@ var jsonArray = [
         "id": 1388,
         "name": "Plants vs. Zombies",
         "platform": "Nintendo DSi",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1389,
@@ -8583,7 +8571,7 @@ var jsonArray = [
         "id": 1600,
         "name": "Kidou Senshi Gundam: Seed Destiny",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1601,
@@ -8772,12 +8760,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1632,
-        "name": "Yakuza 5 Remastered",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 1633,
         "name": "Pokemon Emerald Rogue V2",
         "platform": "Game Boy Advance",
@@ -8859,7 +8841,7 @@ var jsonArray = [
         "id": 1646,
         "name": "Fire Shark",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1647,
@@ -8871,13 +8853,13 @@ var jsonArray = [
         "id": 1648,
         "name": "Final Fantasy Fables: Chocobo Tales",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1649,
         "name": "Keio Flying Squadron 2",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1650,
@@ -8889,18 +8871,252 @@ var jsonArray = [
         "id": 1651,
         "name": "Jungle no Ouja Tar-chan: Sekai Manyuu Dai Kakutou no Maki [untranslated]",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1652,
         "name": "Chikyuu Kaihou Gun ZAS",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1653,
         "name": "Makeruna! Makendou 2: Kimero! Youkai Souri Daijin [untranslated]",
         "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 1654,
+        "name": "Standstill Girl",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1655,
+        "name": "Capella's Promise",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1656,
+        "name": "Faraway Story",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1657,
+        "name": "Naruto: Clash of Ninja",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1658,
+        "name": "Metroid Prime",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1659,
+        "name": "Naruto: Clash of Ninja 2",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1660,
+        "name": "WarioWare, Inc.: Mega Party Games!",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1661,
+        "name": "Harvest Moon: A Wonderful Life",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1662,
+        "name": "Doshin the Giant",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1663,
+        "name": "Mario Golf: Toadstool Tour",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1664,
+        "name": "Bloody Roar: Primal Fury",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1665,
+        "name": "Wario World",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1666,
+        "name": "Billy Hatcher and the Giant Egg",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1667,
+        "name": "P.N.03",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1668,
+        "name": "Bomberman Jetters",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1669,
+        "name": "Kirby Air Ride",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1670,
+        "name": "Pokemon Colosseum [challenge run]",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1671,
+        "name": "Radirgy GeneriC",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1672,
+        "name": "Mega Man Network Transmission",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1673,
+        "name": "Lost Kingdoms",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1674,
+        "name": "Final Fantasy Crystal Chronicles",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1675,
+        "name": "Phantasy Star Online Episode I & II Plus",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1676,
+        "name": "Darkened Skye",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1677,
+        "name": "Mario Party 5",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1678,
+        "name": "Kururin Squash!",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1679,
+        "name": "Beyblade: Super Tournament Battle",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1680,
+        "name": "Fire Emblem: Path of Radiance",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1681,
+        "name": "Tales of Symphonia",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1682,
+        "name": "Bomberman Generation",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1683,
+        "name": "Bassin's Black Bass | Super Black Bass 2",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1684,
+        "name": "Harvest Moon: Magical Melody",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1685,
+        "name": "Baten Kaitos Origins",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1686,
+        "name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1687,
+        "name": "Mario Party 6",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1688,
+        "name": "Mario Kart: Double Dash!!",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1689,
+        "name": "Mario Party 4",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1690,
+        "name": "Energy Breaker",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1691,
+        "name": "Vandal Hearts: Ushinawareta Kodai Bunmei",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1692,
+        "name": "Notenogram",
+        "platform": "Game Boy Advance",
         "votes": 0
     }
 ]

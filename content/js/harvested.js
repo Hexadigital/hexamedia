@@ -466,5 +466,11 @@ var jsonArray = [
         "name": "Doors: Paradox",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 724,
+        "name": "Megaman 1: The New Lands",
+        "platform": "NES",
+        "votes": 0
     }
 ]
