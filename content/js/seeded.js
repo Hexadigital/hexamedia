@@ -7683,7 +7683,7 @@ var jsonArray = [
         "id": 1448,
         "name": "Shotgun Mario 64",
         "platform": "Nintendo 64",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1449,
