@@ -22,5 +22,11 @@ var jsonArray = [
         "name": "Persona 4 Golden",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 1693,
+        "name": "Final Fantasy VI",
+        "platform": "SNES",
+        "votes": 0
     }
 ]

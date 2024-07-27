@@ -4419,7 +4419,7 @@ var jsonArray = [
         "id": 886,
         "name": "God Hand",
         "platform": "PlayStation 2",
-        "votes": 5
+        "votes": 6
     },
     {
         "id": 887,
@@ -7071,7 +7071,7 @@ var jsonArray = [
         "id": 1339,
         "name": "Virtual-On: Cyber Troopers",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1340,
@@ -7113,7 +7113,7 @@ var jsonArray = [
         "id": 1346,
         "name": "Hidden Mysteries: Vampire Secrets",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1347,
@@ -7251,7 +7251,7 @@ var jsonArray = [
         "id": 1370,
         "name": "SD Gundam Gaiden: Knight Gundam Monogatari",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1371,
@@ -9117,6 +9117,24 @@ var jsonArray = [
         "id": 1692,
         "name": "Notenogram",
         "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1694,
+        "name": "Manall's FF1",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1695,
+        "name": "Qix",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1696,
+        "name": "Animal Crossing",
+        "platform": "GameCube",
         "votes": 0
     }
 ]
