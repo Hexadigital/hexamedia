@@ -4101,7 +4101,7 @@ var jsonArray = [
         "id": 831,
         "name": "Izuna: Legend of the Unemployed Ninja",
         "platform": "Nintendo DS",
-        "votes": 3
+        "votes": 4
     },
     {
         "id": 832,
