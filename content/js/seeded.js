@@ -1065,7 +1065,7 @@ var jsonArray = [
         "id": 305,
         "name": "BioShock 2",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 306,
@@ -4101,7 +4101,7 @@ var jsonArray = [
         "id": 831,
         "name": "Izuna: Legend of the Unemployed Ninja",
         "platform": "Nintendo DS",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 832,
@@ -9111,7 +9111,7 @@ var jsonArray = [
         "id": 1691,
         "name": "Vandal Hearts: Ushinawareta Kodai Bunmei",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1692,
@@ -9129,7 +9129,7 @@ var jsonArray = [
         "id": 1695,
         "name": "Qix",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1696,
