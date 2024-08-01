@@ -4101,7 +4101,7 @@ var jsonArray = [
         "id": 831,
         "name": "Izuna: Legend of the Unemployed Ninja",
         "platform": "Nintendo DS",
-        "votes": 4
+        "votes": 6
     },
     {
         "id": 832,
@@ -9105,7 +9105,7 @@ var jsonArray = [
         "id": 1690,
         "name": "Energy Breaker",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1691,

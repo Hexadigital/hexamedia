@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 3/174 users (1.72%)
+Collected by 3/175 users (1.71%)
 
 Drawn by <a href='#'>Unknown</a></center>
 
