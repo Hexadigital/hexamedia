@@ -9136,5 +9136,29 @@ var jsonArray = [
         "name": "Animal Crossing",
         "platform": "GameCube",
         "votes": 0
+    },
+    {
+        "id": 1697,
+        "name": "Poison Control",
+        "platform": "Nintendo Switch",
+        "votes": 0
+    },
+    {
+        "id": 1698,
+        "name": "The Legend of Zelda: Four Swords Adventures",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1699,
+        "name": "Mega Man X: Command Mission",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1700,
+        "name": "Virus LQP-79",
+        "platform": "Arduboy",
+        "votes": 0
     }
 ]
