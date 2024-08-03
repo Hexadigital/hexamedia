@@ -9075,7 +9075,7 @@ var jsonArray = [
         "id": 1685,
         "name": "Baten Kaitos Origins",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1686,
