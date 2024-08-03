@@ -9081,7 +9081,7 @@ var jsonArray = [
         "id": 1686,
         "name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1687,
@@ -9153,7 +9153,7 @@ var jsonArray = [
         "id": 1699,
         "name": "Mega Man X: Command Mission",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1700,
