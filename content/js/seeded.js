@@ -8967,7 +8967,7 @@ var jsonArray = [
         "id": 1667,
         "name": "P.N.03",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1668,
@@ -9003,7 +9003,7 @@ var jsonArray = [
         "id": 1673,
         "name": "Lost Kingdoms",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1674,
