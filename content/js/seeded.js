@@ -4623,7 +4623,7 @@ var jsonArray = [
         "id": 920,
         "name": "46 Okunen Monogatari: The Shinkaron",
         "platform": "PC-98",
-        "votes": 5
+        "votes": 6
     },
     {
         "id": 921,
@@ -6999,7 +6999,7 @@ var jsonArray = [
         "id": 1327,
         "name": "Dragon Force",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1328,
@@ -7023,7 +7023,7 @@ var jsonArray = [
         "id": 1331,
         "name": "The Mansion of Hidden Souls",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1332,
@@ -8913,7 +8913,7 @@ var jsonArray = [
         "id": 1658,
         "name": "Metroid Prime",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1659,
