@@ -9160,5 +9160,47 @@ var jsonArray = [
         "name": "Virus LQP-79",
         "platform": "Arduboy",
         "votes": 0
+    },
+    {
+        "id": 1701,
+        "name": "Songbird Symphony",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1702,
+        "name": "Witch and Lilies",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1703,
+        "name": "Rune Master II",
+        "platform": "MSX",
+        "votes": 0
+    },
+    {
+        "id": 1704,
+        "name": "Monopoly",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1705,
+        "name": "Karateka",
+        "platform": "Apple II",
+        "votes": 0
+    },
+    {
+        "id": 1706,
+        "name": "Everyday Shooter",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1707,
+        "name": "Monochrome Racing",
+        "platform": "PlayStation Portable",
+        "votes": 0
     }
 ]
