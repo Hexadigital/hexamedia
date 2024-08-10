@@ -9189,7 +9189,7 @@ var jsonArray = [
         "id": 1705,
         "name": "Karateka",
         "platform": "Apple II",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1706,
