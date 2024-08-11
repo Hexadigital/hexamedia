@@ -1,0 +1,9 @@
+Title: Mega Man ZX Advent (2007) | Versus Giganto Bowl [Part 12]
+Date: 2024-08-11 20:16
+Category: Gameplay
+Slug: mwga-man-zx-advent-2007-p12
+Author: Hexadigital
+
+<center><iframe src="https://www.youtube.com/embed/H3M_aYmCiu8?feature=oembed" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" width="640" height="360" frameborder="0"></iframe>
+
+Check out Mega Man ZX Advent on [Remember.Games](https://remember.games/game/2294/mega-man-zx-advent/)!</center>
