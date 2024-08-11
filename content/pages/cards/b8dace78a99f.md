@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Uncommon
 
-Collected by 7/175 users (4.00%)
+Collected by 7/176 users (3.98%)
 
 Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
 
@@ -32,9 +32,9 @@ Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
       <td>2</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
-      <td>1</td>
+      <td>2</td>
       </tr>
     <tr>
       <td>3</td>
