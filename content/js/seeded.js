@@ -9147,7 +9147,7 @@ var jsonArray = [
         "id": 1698,
         "name": "The Legend of Zelda: Four Swords Adventures",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1699,
@@ -9159,7 +9159,7 @@ var jsonArray = [
         "id": 1700,
         "name": "Virus LQP-79",
         "platform": "Arduboy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1701,
