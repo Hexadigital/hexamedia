@@ -6549,7 +6549,7 @@ var jsonArray = [
         "id": 1250,
         "name": "Valkyrie Profile 2: Silmeria",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1251,
@@ -6651,7 +6651,7 @@ var jsonArray = [
         "id": 1267,
         "name": "Blaster Master",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1268,
@@ -6795,7 +6795,7 @@ var jsonArray = [
         "id": 1292,
         "name": "Vapor Trail",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1293,
