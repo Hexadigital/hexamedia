@@ -1041,7 +1041,7 @@ var jsonArray = [
         "id": 301,
         "name": "Baba Is You",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 302,
@@ -6483,7 +6483,7 @@ var jsonArray = [
         "id": 1238,
         "name": "Life Force",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1239,
@@ -6501,7 +6501,7 @@ var jsonArray = [
         "id": 1241,
         "name": "Grandia: Parallel Trippers",
         "platform": "Game Boy Color",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1242,
@@ -7413,7 +7413,7 @@ var jsonArray = [
         "id": 1400,
         "name": "Cleopatra Fortune",
         "platform": "Saturn",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 1401,
