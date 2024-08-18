@@ -6405,7 +6405,7 @@ var jsonArray = [
         "id": 1224,
         "name": "Bang\u00b2 Busters",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1225,
@@ -6417,13 +6417,13 @@ var jsonArray = [
         "id": 1226,
         "name": "Crossed Swords",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1227,
         "name": "Crossed Swords II",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1228,
