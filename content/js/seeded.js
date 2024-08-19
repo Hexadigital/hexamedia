@@ -6399,7 +6399,7 @@ var jsonArray = [
         "id": 1223,
         "name": "Twinkle Star Sprites",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1224,
@@ -9201,6 +9201,54 @@ var jsonArray = [
         "id": 1707,
         "name": "Monochrome Racing",
         "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1708,
+        "name": "Takkoman -Kouzatsu World-",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1709,
+        "name": "Shapez 2",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1710,
+        "name": "Gourdlets",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1711,
+        "name": "Xenosaga Episode I: Der Wille zur Macht",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1712,
+        "name": "Olympic Gold: Barcelona '92",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1713,
+        "name": "Breakout",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1714,
+        "name": "Discrete Orange",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1715,
+        "name": "Dark Savior",
+        "platform": "Saturn",
         "votes": 0
     }
 ]
