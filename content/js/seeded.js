@@ -1041,13 +1041,13 @@ var jsonArray = [
         "id": 301,
         "name": "Baba Is You",
         "platform": "PC",
-        "votes": 1
+        "votes": 10
     },
     {
         "id": 302,
         "name": "Bastion",
         "platform": "PC",
-        "votes": 1
+        "votes": 7
     },
     {
         "id": 303,
@@ -2379,7 +2379,7 @@ var jsonArray = [
         "id": 530,
         "name": "Outer Wilds",
         "platform": "PC",
-        "votes": 3
+        "votes": 15
     },
     {
         "id": 531,
@@ -3135,7 +3135,7 @@ var jsonArray = [
         "id": 664,
         "name": "Mario & Luigi: Superstar Saga",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 7
     },
     {
         "id": 665,
@@ -9249,6 +9249,18 @@ var jsonArray = [
         "id": 1715,
         "name": "Dark Savior",
         "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1716,
+        "name": "Nova Drift",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1717,
+        "name": "Just Crow Things",
+        "platform": "PC",
         "votes": 0
     }
 ]
