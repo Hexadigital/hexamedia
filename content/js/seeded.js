@@ -9262,5 +9262,17 @@ var jsonArray = [
         "name": "Just Crow Things",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 1718,
+        "name": "Veiled Skies",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1719,
+        "name": "Suzukuri Dungeon: Karin in the Mountain",
+        "platform": "PC",
+        "votes": 0
     }
 ]
