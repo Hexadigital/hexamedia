@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 5/177 users (2.82%)
+Collected by 5/178 users (2.81%)
 
 Drawn by <a href='#'>Unknown</a></center>
 
@@ -28,21 +28,21 @@ Drawn by <a href='#'>Unknown</a></center>
       </tr>
     <tr>
       <td>2</td>
+      <td><a href="https://www.twitch.tv/sperbus">sperbus</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/snekrowave">snekrowave</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>2</td>
-      <td><a href="https://www.twitch.tv/sperbus">sperbus</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/wishengrad">wishengrad</a></td>
       <td>1</td>
       </tr>

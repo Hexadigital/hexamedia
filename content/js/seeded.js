@@ -2751,7 +2751,7 @@ var jsonArray = [
         "id": 595,
         "name": "Summon Night: Swordcraft Story",
         "platform": "Game Boy Advance",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 596,
@@ -4419,7 +4419,7 @@ var jsonArray = [
         "id": 886,
         "name": "God Hand",
         "platform": "PlayStation 2",
-        "votes": 6
+        "votes": 7
     },
     {
         "id": 887,
@@ -7413,7 +7413,7 @@ var jsonArray = [
         "id": 1400,
         "name": "Cleopatra Fortune",
         "platform": "Saturn",
-        "votes": 3
+        "votes": 4
     },
     {
         "id": 1401,
@@ -9272,6 +9272,30 @@ var jsonArray = [
     {
         "id": 1719,
         "name": "Suzukuri Dungeon: Karin in the Mountain",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1720,
+        "name": "Starfield",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1721,
+        "name": "Rioo",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1722,
+        "name": "Ova Magica",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1723,
+        "name": "Dream Tactics",
         "platform": "PC",
         "votes": 0
     }
