@@ -9225,7 +9225,7 @@ var jsonArray = [
         "id": 1711,
         "name": "Xenosaga Episode I: Der Wille zur Macht",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1712,
@@ -9237,13 +9237,13 @@ var jsonArray = [
         "id": 1713,
         "name": "Breakout",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1714,
         "name": "Discrete Orange",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1715,
