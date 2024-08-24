@@ -6885,13 +6885,13 @@ var jsonArray = [
         "id": 1308,
         "name": "Progear | Progear no Arashi",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1309,
         "name": "Yeti Sports: Pingu Throw",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1310,
@@ -6951,7 +6951,7 @@ var jsonArray = [
         "id": 1319,
         "name": "First Samurai",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1320,
