@@ -6879,7 +6879,7 @@ var jsonArray = [
         "id": 1307,
         "name": "Squishy Tank",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1308,
