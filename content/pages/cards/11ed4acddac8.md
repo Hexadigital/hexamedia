@@ -48,6 +48,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/bubbledoricc">bubbledoricc</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/ctrl_o">ctrl_o</a></td>
       <td>1</td>
       </tr>
@@ -74,11 +79,6 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/gendude">gendude</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>1</td>
-      <td><a href="https://www.twitch.tv/herefortheraccoon">herefortheraccoon</a></td>
       <td>1</td>
       </tr>
     <tr>
