@@ -8538,12 +8538,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 1595,
-        "name": "Ketsui: Kizuna Jigoku Tachi",
-        "platform": "Arcade",
-        "votes": 1
-    },
-    {
         "id": 1596,
         "name": "The Mayor of Sanctuary",
         "platform": "Game Boy Color",
@@ -8668,12 +8662,6 @@ var jsonArray = [
         "name": "Under the Tower",
         "platform": "Arduboy",
         "votes": 0
-    },
-    {
-        "id": 1617,
-        "name": "Scrolls of Fire",
-        "platform": "Game Boy Advance",
-        "votes": 1
     },
     {
         "id": 1618,

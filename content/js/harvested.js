@@ -472,5 +472,11 @@ var jsonArray = [
         "name": "Megaman 1: The New Lands",
         "platform": "NES",
         "votes": 0
+    },
+    {
+        "id": 186,
+        "name": "Bahamut Lagoon",
+        "platform": "SNES",
+        "votes": 8
     }
 ]
