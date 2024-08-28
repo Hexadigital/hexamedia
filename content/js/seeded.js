@@ -9286,5 +9286,71 @@ var jsonArray = [
         "name": "Dream Tactics",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 1724,
+        "name": "Vib-Ribbon",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1725,
+        "name": "Burai Fighter",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1726,
+        "name": "Moon Ball Magic (FDS)",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1727,
+        "name": "Naruto Shippuden: Ultimate Ninja Impact",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1728,
+        "name": "Magi Nation",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1729,
+        "name": "Super Adventure Rockman",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1730,
+        "name": "Double Moon Densetsu",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1731,
+        "name": "Rollcage",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1732,
+        "name": "Moomin's Tale",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1733,
+        "name": "Magnet World Final",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1734,
+        "name": "Tryrush Deppy",
+        "platform": "Saturn",
+        "votes": 0
     }
 ]
