@@ -9261,7 +9261,7 @@ var jsonArray = [
         "id": 1719,
         "name": "Suzukuri Dungeon: Karin in the Mountain",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1720,
@@ -9285,7 +9285,7 @@ var jsonArray = [
         "id": 1723,
         "name": "Dream Tactics",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1724,
