@@ -9345,12 +9345,12 @@ var jsonArray = [
         "id": 1733,
         "name": "Magnet World Final",
         "platform": "PC-88",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1734,
         "name": "Tryrush Deppy",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     }
 ]
