@@ -9297,7 +9297,7 @@ var jsonArray = [
         "id": 1725,
         "name": "Burai Fighter",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1726,

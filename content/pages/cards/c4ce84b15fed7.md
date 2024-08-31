@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 29/179 users (16.20%)
+Collected by 29/180 users (16.11%)
 
 Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
 
@@ -158,7 +158,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>8</td>
-      <td><a href="https://www.twitch.tv/tv_hayden2">tv_Hayden2</a></td>
+      <td><a href="https://www.twitch.tv/tv_hayden2">tv_hayden2</a></td>
       <td>1</td>
       </tr>
     <tr>
