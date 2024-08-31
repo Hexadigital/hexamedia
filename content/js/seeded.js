@@ -9315,13 +9315,13 @@ var jsonArray = [
         "id": 1728,
         "name": "Magi Nation",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1729,
         "name": "Super Adventure Rockman",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1730,
