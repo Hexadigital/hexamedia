@@ -6831,7 +6831,7 @@ var jsonArray = [
         "id": 1299,
         "name": "Evolution: The World of Sacred Device",
         "platform": "Dreamcast",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1300,
