@@ -9352,5 +9352,293 @@ var jsonArray = [
         "name": "Tryrush Deppy",
         "platform": "Saturn",
         "votes": 1
+    },
+    {
+        "id": 1736,
+        "name": "Fighter on the Path of Glory",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1737,
+        "name": "Custom Robo",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1738,
+        "name": "Bomb Kick",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1739,
+        "name": "Red Earth",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1740,
+        "name": "Mappy",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1741,
+        "name": "Athena",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1742,
+        "name": "Logic Pro | Croquis",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1743,
+        "name": "1941: Counter Attack",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1744,
+        "name": "Metal Saver",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1745,
+        "name": "Dark Seal | Gate of Doom",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1746,
+        "name": "Ninja Gaiden | Shadow Warriors",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1747,
+        "name": "Air Buster: Trouble Specialty Raid Unit",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1748,
+        "name": "Magical Drop III",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1749,
+        "name": "Money Puzzle Exchanger | Money Idol Exchanger",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1750,
+        "name": "Azumanga Daioh: Puzzle Bobble",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1751,
+        "name": "Deathsmiles: Mega Black Label",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1752,
+        "name": "Raiden",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1753,
+        "name": "Raiden II",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1754,
+        "name": "In the Hunt",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1755,
+        "name": "Ghost Pilots",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1756,
+        "name": "Bad Lands",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1757,
+        "name": "Qix",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1758,
+        "name": "Avenging Spirit",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1759,
+        "name": "Return of the Jedi",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1760,
+        "name": "Guilty Gear X ver 1.5",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1761,
+        "name": "Led Storm Rally 2011",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1762,
+        "name": "Black Widow",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1763,
+        "name": "Snapper",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1764,
+        "name": "Sokonuke Taisen Game",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1765,
+        "name": "Blomby Car",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1766,
+        "name": "Initial D: Arcade Stage Ver. 3",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1767,
+        "name": "Magic Sword: Heroic Fantasy",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1768,
+        "name": "Wild Riders",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1769,
+        "name": "Dig Dug II",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1770,
+        "name": "Gladiator",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1771,
+        "name": "Prehistoric Isle 2",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1772,
+        "name": "Zippy Bug | Noboranka",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1773,
+        "name": "Oishii Puzzle Ha Irimasen Ka | Triple Fun",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1774,
+        "name": "Wizard Fire | Dark Seal II",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1775,
+        "name": "Snow Bros.: Nick & Tom | The Winter Bobble",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1776,
+        "name": "Big Karnak",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1777,
+        "name": "Andro Dunos",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1778,
+        "name": "Pang! 3",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1779,
+        "name": "Alien Sector | Baraduke",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1780,
+        "name": "Big Bang Mini",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1781,
+        "name": "Blaster",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1782,
+        "name": "Champions of Norrath",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1783,
+        "name": "Psi-Ops: The Mindgate Conspiracy",
+        "platform": "PlayStation 2",
+        "votes": 0
     }
 ]
