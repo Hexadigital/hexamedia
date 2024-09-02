@@ -6693,7 +6693,7 @@ var jsonArray = [
         "id": 1274,
         "name": "GG Aleste 3",
         "platform": "Game Gear",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1275,
@@ -6711,7 +6711,7 @@ var jsonArray = [
         "id": 1278,
         "name": "Pokemon Adventure: Red Chapter",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1279,

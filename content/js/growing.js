@@ -22,17 +22,5 @@ var jsonArray = [
         "name": "Final Fantasy VI",
         "platform": "SNES",
         "votes": 0
-    },
-    {
-        "id": 1595,
-        "name": "Ketsui: Kizuna Jigoku Tachi",
-        "platform": "Arcade",
-        "votes": 1
-    },
-    {
-        "id": 1617,
-        "name": "Scrolls of Fire",
-        "platform": "Game Boy Advance",
-        "votes": 1
     }
 ]
