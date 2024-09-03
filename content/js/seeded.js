@@ -2607,13 +2607,13 @@ var jsonArray = [
         "id": 569,
         "name": "Shenmue",
         "platform": "Dreamcast",
-        "votes": 0
+        "votes": 19
     },
     {
         "id": 570,
         "name": "Shenmue II",
         "platform": "Dreamcast",
-        "votes": 0
+        "votes": 23
     },
     {
         "id": 571,
