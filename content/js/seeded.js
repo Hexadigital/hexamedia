@@ -2607,7 +2607,7 @@ var jsonArray = [
         "id": 569,
         "name": "Shenmue",
         "platform": "Dreamcast",
-        "votes": 19
+        "votes": 20
     },
     {
         "id": 570,
@@ -9633,7 +9633,7 @@ var jsonArray = [
         "id": 1782,
         "name": "Champions of Norrath",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1783,
