@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Uncommon
 
-Collected by 8/181 users (4.42%)
+Collected by 9/181 users (4.97%)
 
 Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
 
@@ -59,6 +59,11 @@ Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
     <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/tzaro_ch">tzaro_ch</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://www.twitch.tv/xa44">xa44</a></td>
       <td>1</td>
       </tr>
   </tbody>
