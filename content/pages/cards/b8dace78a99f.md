@@ -37,6 +37,11 @@ Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
       <td>2</td>
       </tr>
     <tr>
+      <td>2</td>
+      <td><a href="https://www.twitch.tv/prodzpod">prodzpod</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/azuradotexe">azuradotexe</a></td>
       <td>1</td>
@@ -44,11 +49,6 @@ Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
     <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/novapantsu">novapantsu</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>3</td>
-      <td><a href="https://www.twitch.tv/prodzpod">prodzpod</a></td>
       <td>1</td>
       </tr>
     <tr>

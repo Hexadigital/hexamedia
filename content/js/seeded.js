@@ -9615,7 +9615,7 @@ var jsonArray = [
         "id": 1779,
         "name": "Alien Sector | Baraduke",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1780,
