@@ -729,7 +729,7 @@ var jsonArray = [
         "id": 249,
         "name": "Pokemon Brown Version",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 250,
@@ -4227,7 +4227,7 @@ var jsonArray = [
         "id": 853,
         "name": "Kirby 64: The Crystal Shards",
         "platform": "Nintendo 64",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 854,
@@ -9591,7 +9591,7 @@ var jsonArray = [
         "id": 1775,
         "name": "Snow Bros.: Nick & Tom | The Winter Bobble",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1776,
@@ -9603,7 +9603,7 @@ var jsonArray = [
         "id": 1777,
         "name": "Andro Dunos",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1778,
