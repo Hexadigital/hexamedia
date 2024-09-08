@@ -37,9 +37,9 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       <td>6</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/sirryu">sirryu</a></td>
-      <td>5</td>
+      <td>6</td>
       </tr>
     <tr>
       <td>4</td>
