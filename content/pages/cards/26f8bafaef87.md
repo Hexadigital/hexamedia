@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 7/181 users (3.87%)
+Collected by 8/181 users (4.42%)
 
 Drawn by <a href='#'>Unknown</a></center>
 
@@ -39,6 +39,11 @@ Drawn by <a href='#'>Unknown</a></center>
     <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://www.twitch.tv/rahnmu">rahnmu</a></td>
       <td>1</td>
       </tr>
     <tr>
