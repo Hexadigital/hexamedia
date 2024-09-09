@@ -22,11 +22,5 @@ var jsonArray = [
         "name": "Final Fantasy VI",
         "platform": "SNES",
         "votes": 0
-    },
-    {
-        "id": 1735,
-        "name": "Duck Detective: The Secret Salami",
-        "platform": "PC",
-        "votes": 0
     }
 ]

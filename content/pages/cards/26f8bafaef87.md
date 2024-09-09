@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 8/181 users (4.42%)
+Collected by 9/181 users (4.97%)
 
 Drawn by <a href='#'>Unknown</a></center>
 
@@ -34,6 +34,11 @@ Drawn by <a href='#'>Unknown</a></center>
     <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/6horntaurus">6horntaurus</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://www.twitch.tv/keiiplays">keiiplays</a></td>
       <td>1</td>
       </tr>
     <tr>

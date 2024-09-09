@@ -9579,13 +9579,13 @@ var jsonArray = [
         "id": 1773,
         "name": "Oishii Puzzle Ha Irimasen Ka | Triple Fun",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1774,
         "name": "Wizard Fire | Dark Seal II",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1775,
@@ -9638,6 +9638,78 @@ var jsonArray = [
     {
         "id": 1783,
         "name": "Psi-Ops: The Mindgate Conspiracy",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1784,
+        "name": "Monster Rancher | Monster Farm",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1785,
+        "name": "Naruto RPG 2: Chidori vs Rasengan",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1786,
+        "name": "Jigsaw World",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1787,
+        "name": "Rolling Thunder",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1788,
+        "name": "Secret Agent Clank",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1789,
+        "name": "Kouryuu Densetsu Villgust: Kieta Shoujo",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1790,
+        "name": "Saint Seiya: The Hades",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1791,
+        "name": "Yu-Gi-Oh! Capsule Monster Coliseum",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1792,
+        "name": "MegaMari",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1793,
+        "name": "Aero Fighters 2",
+        "platform": "Neo Geo CD",
+        "votes": 0
+    },
+    {
+        "id": 1794,
+        "name": "Lunar: Silver Star Harmony",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1795,
+        "name": "Chaos Legion",
         "platform": "PlayStation 2",
         "votes": 0
     }

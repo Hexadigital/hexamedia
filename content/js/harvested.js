@@ -490,5 +490,11 @@ var jsonArray = [
         "name": "Scrolls of Fire",
         "platform": "Game Boy Advance",
         "votes": 1
+    },
+    {
+        "id": 1735,
+        "name": "Duck Detective: The Secret Salami",
+        "platform": "PC",
+        "votes": 0
     }
 ]
