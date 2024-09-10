@@ -72,12 +72,6 @@ var jsonArray = [
         "votes": 3
     },
     {
-        "id": 120,
-        "name": "PulseMan",
-        "platform": "Mega Drive",
-        "votes": 2
-    },
-    {
         "id": 122,
         "name": "Rhythm Sprout: Sick Beats & Bad Sweets",
         "platform": "PC",
@@ -9225,12 +9219,6 @@ var jsonArray = [
         "id": 1713,
         "name": "Breakout",
         "platform": "PlayStation",
-        "votes": 1
-    },
-    {
-        "id": 1714,
-        "name": "Discrete Orange",
-        "platform": "Game Boy Advance",
         "votes": 1
     },
     {
