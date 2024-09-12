@@ -9687,13 +9687,13 @@ var jsonArray = [
         "id": 1793,
         "name": "Aero Fighters 2",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1794,
         "name": "Lunar: Silver Star Harmony",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1795,
