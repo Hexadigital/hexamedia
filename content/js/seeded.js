@@ -4425,7 +4425,7 @@ var jsonArray = [
         "id": 888,
         "name": "Dark Cloud",
         "platform": "PlayStation 2",
-        "votes": 4
+        "votes": 5
     },
     {
         "id": 889,
@@ -9651,7 +9651,7 @@ var jsonArray = [
         "id": 1787,
         "name": "Rolling Thunder",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1788,

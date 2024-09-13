@@ -32,6 +32,11 @@ Drawn by <a href='#'>Unknown</a></center>
       <td>2</td>
       </tr>
     <tr>
+      <td>2</td>
+      <td><a href="https://www.twitch.tv/zamielpayne">zamielpayne</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/6horntaurus">6horntaurus</a></td>
       <td>1</td>
@@ -59,11 +64,6 @@ Drawn by <a href='#'>Unknown</a></center>
     <tr>
       <td>3</td>
       <td><a href="https://www.twitch.tv/wishengrad">wishengrad</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>3</td>
-      <td><a href="https://www.twitch.tv/zamielpayne">zamielpayne</a></td>
       <td>1</td>
       </tr>
   </tbody>

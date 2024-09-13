@@ -73,6 +73,11 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>6</td>
+      <td><a href="https://www.twitch.tv/lurilurilu">lurilurilu</a></td>
+      <td>3</td>
+      </tr>
+    <tr>
+      <td>6</td>
       <td><a href="https://www.twitch.tv/tzaro_ch">tzaro_ch</a></td>
       <td>3</td>
       </tr>
@@ -89,11 +94,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>7</td>
       <td><a href="https://www.twitch.tv/karin_ch">karin_ch</a></td>
-      <td>2</td>
-      </tr>
-    <tr>
-      <td>7</td>
-      <td><a href="https://www.twitch.tv/lurilurilu">lurilurilu</a></td>
       <td>2</td>
       </tr>
     <tr>
