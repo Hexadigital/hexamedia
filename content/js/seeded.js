@@ -2601,7 +2601,7 @@ var jsonArray = [
         "id": 569,
         "name": "Shenmue",
         "platform": "Dreamcast",
-        "votes": 20
+        "votes": 22
     },
     {
         "id": 570,
