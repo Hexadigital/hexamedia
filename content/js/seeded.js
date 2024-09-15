@@ -9555,13 +9555,13 @@ var jsonArray = [
         "id": 1771,
         "name": "Prehistoric Isle 2",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1772,
         "name": "Zippy Bug | Noboranka",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1773,
@@ -9663,7 +9663,7 @@ var jsonArray = [
         "id": 1789,
         "name": "Kouryuu Densetsu Villgust: Kieta Shoujo",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1790,
