@@ -133,7 +133,7 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       </tr>
     <tr>
       <td>7</td>
-      <td><a href="https://www.twitch.tv/pentarta">PentaRTA</a></td>
+      <td><a href="https://www.twitch.tv/pentarta">pentarta</a></td>
       <td>1</td>
       </tr>
     <tr>
