@@ -97,8 +97,13 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
       <td>2</td>
       </tr>
     <tr>
+      <td>6</td>
+      <td><a href="https://www.twitch.tv/reddyslab">reddyslab</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
       <td>7</td>
-      <td><a href="https://www.twitch.tv/colekus">Colekus</a></td>
+      <td><a href="https://www.twitch.tv/colekus">colekus</a></td>
       <td>1</td>
       </tr>
     <tr>
@@ -144,11 +149,6 @@ Drawn by <a href='https://twitter.com/PngO80'>PngO80</a></center>
     <tr>
       <td>7</td>
       <td><a href="https://www.twitch.tv/rahnmu">rahnmu</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>7</td>
-      <td><a href="https://www.twitch.tv/reddyslab">reddyslab</a></td>
       <td>1</td>
       </tr>
     <tr>

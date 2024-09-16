@@ -471,7 +471,7 @@ var jsonArray = [
         "id": 206,
         "name": "GG Aleste",
         "platform": "Game Gear",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 207,
@@ -9549,7 +9549,7 @@ var jsonArray = [
         "id": 1770,
         "name": "Gladiator",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1771,
