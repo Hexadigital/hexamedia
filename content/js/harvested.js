@@ -496,5 +496,11 @@ var jsonArray = [
         "name": "Duck Detective: The Secret Salami",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 120,
+        "name": "PulseMan",
+        "platform": "Mega Drive",
+        "votes": 2
     }
 ]

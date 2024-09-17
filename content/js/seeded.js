@@ -9546,12 +9546,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1770,
-        "name": "Gladiator",
-        "platform": "Arcade",
-        "votes": 1
-    },
-    {
         "id": 1771,
         "name": "Prehistoric Isle 2",
         "platform": "Arcade",
