@@ -73,6 +73,11 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
       </tr>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/finnvt">finnvt</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>1</td>
       <td><a href="https://www.twitch.tv/fistofthenorthstarstate">fistofthenorthstarstate</a></td>
       <td>1</td>
       </tr>
@@ -164,11 +169,6 @@ Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></cent
     <tr>
       <td>1</td>
       <td><a href="https://www.twitch.tv/needoriginalname">needoriginalname</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>1</td>
-      <td><a href="https://www.twitch.tv/pleasantfinn_">pleasantfinn_</a></td>
       <td>1</td>
       </tr>
     <tr>

@@ -4467,7 +4467,7 @@ var jsonArray = [
         "id": 895,
         "name": "Shadow Hearts",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 896,
@@ -9513,7 +9513,7 @@ var jsonArray = [
         "id": 1764,
         "name": "Sokonuke Taisen Game",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1765,
@@ -9531,7 +9531,7 @@ var jsonArray = [
         "id": 1767,
         "name": "Magic Sword: Heroic Fantasy",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1768,
