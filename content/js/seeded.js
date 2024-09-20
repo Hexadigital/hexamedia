@@ -9483,13 +9483,13 @@ var jsonArray = [
         "id": 1759,
         "name": "Return of the Jedi",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1760,
         "name": "Guilty Gear X ver 1.5",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1761,
