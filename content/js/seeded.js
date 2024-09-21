@@ -9465,7 +9465,7 @@ var jsonArray = [
         "id": 1756,
         "name": "Bad Lands",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1757,
@@ -9477,7 +9477,7 @@ var jsonArray = [
         "id": 1758,
         "name": "Avenging Spirit",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1759,
