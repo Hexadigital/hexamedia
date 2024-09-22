@@ -9459,7 +9459,7 @@ var jsonArray = [
         "id": 1755,
         "name": "Ghost Pilots",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1756,
@@ -9693,6 +9693,186 @@ var jsonArray = [
         "id": 1795,
         "name": "Chaos Legion",
         "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1796,
+        "name": "Sonic 3D Blast | Sonic 3D: Flickies' Island",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1797,
+        "name": "Final Fantasy VI: Divergent Paths",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1798,
+        "name": "Puzzle - Echter Puzzlespass f\u00fcr Unterwegs: Blumen & Muster",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1799,
+        "name": "Rygar: The Legendary Adventure",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1800,
+        "name": "Rockman 3: Dr. Wily no Saigo!?",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1801,
+        "name": "Dragon Ball Z: Super Gokuuden Totsugeki Hen",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1802,
+        "name": "Gemfire",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1803,
+        "name": "Knight Owls",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1804,
+        "name": "Puzzle Uo Poko",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1805,
+        "name": "Eco Fighters | Ultimate Ecology",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1806,
+        "name": "Digimon Adventure",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1807,
+        "name": "ArduRogue",
+        "platform": "Arduboy",
+        "votes": 0
+    },
+    {
+        "id": 1808,
+        "name": "Puzzle - Echter Puzzlespass f\u00fcr Unterwegs: GEO - Wunder Natur",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1809,
+        "name": "Magi-Nation: Keeper's Quest [prototype]",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1810,
+        "name": "Prisoner of Ice",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1811,
+        "name": "Assassin's Creed: Altair's Chronicles",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1812,
+        "name": "Puzzle - Echter Puzzlespass f\u00fcr Unterwegs: Prinzessin Lillifee",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1813,
+        "name": "Final Fantasy X1: Dark Chapter",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1814,
+        "name": "Final Fantasy X2: Light Chapter",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1815,
+        "name": "Final Fantasy X3: Final Chapter",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1816,
+        "name": "Hot Wheels: Velocity X",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1817,
+        "name": "Batman Returns",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 1818,
+        "name": "Bonanza Bros.",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1819,
+        "name": "Metro-Cross",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1820,
+        "name": "WeaponLord",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1821,
+        "name": "Puzzle - Echter Puzzlespass f\u00fcr Unterwegs: art - Das Kunstmagazin",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1822,
+        "name": "Puzzle - Echter Puzzlespass f\u00fcr Unterwegs: Pferdefreunde",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1823,
+        "name": "Puzzle - Echter Puzzlespass f\u00fcr Unterwegs: Sightseeing",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1824,
+        "name": "Harvest Moon: Hero of Leaf Valley",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1825,
+        "name": "Magna Braban: Henreki no Yuusha",
+        "platform": "SNES",
         "votes": 0
     }
 ]
