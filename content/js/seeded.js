@@ -9873,6 +9873,6 @@ var jsonArray = [
         "id": 1825,
         "name": "Magna Braban: Henreki no Yuusha",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     }
 ]
