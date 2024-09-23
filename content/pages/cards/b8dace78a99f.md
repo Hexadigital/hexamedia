@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Uncommon
 
-Collected by 10/183 users (5.46%)
+Collected by 10/184 users (5.43%)
 
 Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
 

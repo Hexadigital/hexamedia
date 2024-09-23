@@ -4221,7 +4221,7 @@ var jsonArray = [
         "id": 853,
         "name": "Kirby 64: The Crystal Shards",
         "platform": "Nintendo 64",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 854,
@@ -9831,7 +9831,7 @@ var jsonArray = [
         "id": 1818,
         "name": "Bonanza Bros.",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1819,

@@ -466,5 +466,11 @@ var jsonArray = [
         "name": "Chao Bandstand",
         "platform": "Nintendo 64",
         "votes": 0
+    },
+    {
+        "id": 1714,
+        "name": "Discrete Orange",
+        "platform": "Game Boy Advance",
+        "votes": 1
     }
 ]

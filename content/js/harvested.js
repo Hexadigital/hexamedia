@@ -502,5 +502,11 @@ var jsonArray = [
         "name": "PulseMan",
         "platform": "Mega Drive",
         "votes": 2
+    },
+    {
+        "id": 1770,
+        "name": "Gladiator",
+        "platform": "Arcade",
+        "votes": 1
     }
 ]

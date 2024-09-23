@@ -8,7 +8,7 @@ Status: Hidden
 
 Rewarded on check-in from 2024-06-22 to 2024-06-30.
 
-Collected by 46/183 users (25.14%)
+Collected by 46/184 users (25.00%)
 
 Drawn by <a href='https://twitter.com/til_Illustrater'>til_Illustrater</a></center>
 
