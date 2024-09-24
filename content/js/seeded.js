@@ -1056,12 +1056,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 305,
-        "name": "BioShock 2",
-        "platform": "PC",
-        "votes": 1
-    },
-    {
         "id": 306,
         "name": "BioShock Infinite",
         "platform": "PC",

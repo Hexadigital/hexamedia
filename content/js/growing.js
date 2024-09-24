@@ -22,5 +22,11 @@ var jsonArray = [
         "name": "Final Fantasy VI",
         "platform": "SNES",
         "votes": 0
+    },
+    {
+        "id": 305,
+        "name": "BioShock 2",
+        "platform": "PC",
+        "votes": 1
     }
 ]
