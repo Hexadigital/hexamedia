@@ -9868,5 +9868,11 @@ var jsonArray = [
         "name": "Magna Braban: Henreki no Yuusha",
         "platform": "SNES",
         "votes": 1
+    },
+    {
+        "id": 1826,
+        "name": "The Little Witch and The Lost Memories",
+        "platform": "PC",
+        "votes": 0
     }
 ]
