@@ -9747,7 +9747,7 @@ var jsonArray = [
         "id": 1805,
         "name": "Eco Fighters | Ultimate Ecology",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1806,
@@ -9819,7 +9819,7 @@ var jsonArray = [
         "id": 1817,
         "name": "Batman Returns",
         "platform": "Master System",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1818,
