@@ -9693,7 +9693,7 @@ var jsonArray = [
         "id": 1796,
         "name": "Sonic 3D Blast | Sonic 3D: Flickies' Island",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1797,
@@ -9729,13 +9729,13 @@ var jsonArray = [
         "id": 1802,
         "name": "Gemfire",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1803,
         "name": "Knight Owls",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1804,
