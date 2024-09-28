@@ -9705,7 +9705,7 @@ var jsonArray = [
         "id": 1798,
         "name": "Puzzle - Echter Puzzlespass f\u00fcr Unterwegs: Blumen & Muster",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1799,
@@ -9717,7 +9717,7 @@ var jsonArray = [
         "id": 1800,
         "name": "Rockman 3: Dr. Wily no Saigo!?",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1801,

@@ -508,5 +508,11 @@ var jsonArray = [
         "name": "Gladiator",
         "platform": "Arcade",
         "votes": 1
+    },
+    {
+        "id": 1576,
+        "name": "Mega Mosaic",
+        "platform": "PC",
+        "votes": 0
     }
 ]

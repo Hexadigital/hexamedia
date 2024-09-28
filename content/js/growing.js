@@ -1,11 +1,5 @@
 var jsonArray = [
     {
-        "id": 1576,
-        "name": "Mega Mosaic",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 1632,
         "name": "Yakuza 5 Remastered",
         "platform": "PC",
