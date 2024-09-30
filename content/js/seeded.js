@@ -2595,7 +2595,7 @@ var jsonArray = [
         "id": 569,
         "name": "Shenmue",
         "platform": "Dreamcast",
-        "votes": 22
+        "votes": 30
     },
     {
         "id": 570,
@@ -5175,12 +5175,6 @@ var jsonArray = [
         "id": 1017,
         "name": "Castlevania: The Adventure",
         "platform": "Game Boy",
-        "votes": 0
-    },
-    {
-        "id": 1018,
-        "name": "Castlevania",
-        "platform": "NES",
         "votes": 0
     },
     {
@@ -9435,13 +9429,13 @@ var jsonArray = [
         "id": 1752,
         "name": "Raiden",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1753,
         "name": "Raiden II",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1754,
@@ -9870,9 +9864,45 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 1826,
-        "name": "The Little Witch and The Lost Memories",
-        "platform": "PC",
+        "id": 1827,
+        "name": "Aquanaut's Holiday",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1828,
+        "name": "Tiny Tank",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1829,
+        "name": "Operation Wolf",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1830,
+        "name": "Escape the Museum",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1831,
+        "name": "The Bouncer",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1832,
+        "name": "Neo Contra",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1833,
+        "name": "Chuck Rock",
+        "platform": "Mega Drive",
         "votes": 0
     }
 ]
