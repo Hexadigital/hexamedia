@@ -9904,5 +9904,17 @@ var jsonArray = [
         "name": "Chuck Rock",
         "platform": "Mega Drive",
         "votes": 0
+    },
+    {
+        "id": 1834,
+        "name": "Sky Oceans: Wings for Hire",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1835,
+        "name": "Kitsune Tails",
+        "platform": "PC",
+        "votes": 0
     }
 ]
