@@ -9897,13 +9897,13 @@ var jsonArray = [
         "id": 1832,
         "name": "Neo Contra",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1833,
         "name": "Chuck Rock",
         "platform": "Mega Drive",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1834,
