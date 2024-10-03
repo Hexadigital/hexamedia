@@ -9867,7 +9867,7 @@ var jsonArray = [
         "id": 1827,
         "name": "Aquanaut's Holiday",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1828,
