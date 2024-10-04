@@ -7932,12 +7932,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 1494,
-        "name": "Dottie Flowers",
-        "platform": "SNES",
-        "votes": 2
-    },
-    {
         "id": 1495,
         "name": "Choro Q Wonderful!",
         "platform": "PlayStation",
@@ -9879,13 +9873,13 @@ var jsonArray = [
         "id": 1829,
         "name": "Operation Wolf",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1830,
         "name": "Escape the Museum",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1831,

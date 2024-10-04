@@ -514,5 +514,17 @@ var jsonArray = [
         "name": "Mega Mosaic",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 1018,
+        "name": "Castlevania",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1494,
+        "name": "Dottie Flowers",
+        "platform": "SNES",
+        "votes": 2
     }
 ]
