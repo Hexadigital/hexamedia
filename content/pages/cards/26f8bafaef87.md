@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 10/186 users (5.38%)
+Collected by 10/187 users (5.35%)
 
 Drawn by <a href='#'>Unknown</a></center>
 
@@ -23,51 +23,51 @@ Drawn by <a href='#'>Unknown</a></center>
   <tbody>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/sperbus">sperbus</a></td>
+      <td>4</td>
+      </tr>
+    <tr>
+      <td>2</td>
       <td><a href="https://www.twitch.tv/bezelea">bezelea</a></td>
       <td>3</td>
       </tr>
     <tr>
-      <td>1</td>
-      <td><a href="https://www.twitch.tv/sperbus">sperbus</a></td>
-      <td>3</td>
-      </tr>
-    <tr>
-      <td>1</td>
+      <td>2</td>
       <td><a href="https://www.twitch.tv/zamielpayne">zamielpayne</a></td>
       <td>3</td>
       </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/reddyslab">reddyslab</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/6horntaurus">6horntaurus</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/keiiplays">keiiplays</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/rahnmu">rahnmu</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/snekrowave">snekrowave</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/wishengrad">wishengrad</a></td>
       <td>1</td>
       </tr>
