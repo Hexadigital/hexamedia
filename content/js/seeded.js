@@ -9657,7 +9657,7 @@ var jsonArray = [
         "id": 1792,
         "name": "MegaMari",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1793,
@@ -9729,7 +9729,7 @@ var jsonArray = [
         "id": 1804,
         "name": "Puzzle Uo Poko",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1805,
