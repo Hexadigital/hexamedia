@@ -9417,7 +9417,7 @@ var jsonArray = [
         "id": 1751,
         "name": "Deathsmiles: Mega Black Label",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1752,
@@ -9525,7 +9525,7 @@ var jsonArray = [
         "id": 1769,
         "name": "Dig Dug II",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1771,

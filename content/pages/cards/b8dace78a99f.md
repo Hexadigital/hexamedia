@@ -28,46 +28,46 @@ Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
       </tr>
     <tr>
       <td>2</td>
+      <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
+      <td>3</td>
+      </tr>
+    <tr>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/jimmy_mapp">jimmy_mapp</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>2</td>
-      <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
-      <td>2</td>
-      </tr>
-    <tr>
-      <td>2</td>
+      <td>3</td>
       <td><a href="https://www.twitch.tv/prodzpod">prodzpod</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/azuradotexe">azuradotexe</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/iampanis">iampanis</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/novapantsu">novapantsu</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/sperbus">sperbus</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/tzaro_ch">tzaro_ch</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/xa44">xa44</a></td>
       <td>1</td>
       </tr>
