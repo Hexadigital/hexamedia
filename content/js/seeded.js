@@ -9910,5 +9910,11 @@ var jsonArray = [
         "name": "Kitsune Tails",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 1837,
+        "name": "Pokemon: Battle Factory",
+        "platform": "Game Boy",
+        "votes": 0
     }
 ]

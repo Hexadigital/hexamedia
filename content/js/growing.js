@@ -28,5 +28,11 @@ var jsonArray = [
         "name": "The Little Witch and The Lost Memories",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 1836,
+        "name": "Vampire Killer",
+        "platform": "MSX",
+        "votes": 0
     }
 ]
