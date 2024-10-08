@@ -9399,7 +9399,7 @@ var jsonArray = [
         "id": 1748,
         "name": "Magical Drop III",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1749,
