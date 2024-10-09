@@ -9393,7 +9393,7 @@ var jsonArray = [
         "id": 1747,
         "name": "Air Buster: Trouble Specialty Raid Unit",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1748,
@@ -9915,6 +9915,12 @@ var jsonArray = [
         "id": 1837,
         "name": "Pokemon: Battle Factory",
         "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1838,
+        "name": "Plok!",
+        "platform": "SNES",
         "votes": 0
     }
 ]
