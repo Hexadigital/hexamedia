@@ -526,5 +526,11 @@ var jsonArray = [
         "name": "Dottie Flowers",
         "platform": "SNES",
         "votes": 2
+    },
+    {
+        "id": 1693,
+        "name": "Final Fantasy VI",
+        "platform": "SNES",
+        "votes": 0
     }
 ]
