@@ -9381,13 +9381,13 @@ var jsonArray = [
         "id": 1745,
         "name": "Dark Seal | Gate of Doom",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1746,
         "name": "Ninja Gaiden | Shadow Warriors",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1747,
