@@ -9369,13 +9369,13 @@ var jsonArray = [
         "id": 1743,
         "name": "1941: Counter Attack",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1744,
         "name": "Metal Saver",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1745,
