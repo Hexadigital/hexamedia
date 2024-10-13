@@ -9333,7 +9333,7 @@ var jsonArray = [
         "id": 1737,
         "name": "Custom Robo",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1738,
@@ -9345,7 +9345,7 @@ var jsonArray = [
         "id": 1739,
         "name": "Red Earth",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1740,
@@ -9357,7 +9357,7 @@ var jsonArray = [
         "id": 1741,
         "name": "Athena",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1742,
