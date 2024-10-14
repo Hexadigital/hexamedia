@@ -9327,7 +9327,7 @@ var jsonArray = [
         "id": 1736,
         "name": "Fighter on the Path of Glory",
         "platform": "Game Boy Color",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1737,
