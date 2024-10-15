@@ -1884,12 +1884,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 448,
-        "name": "Hotel Dusk: Room 215",
-        "platform": "Nintendo DS",
-        "votes": 2
-    },
-    {
         "id": 449,
         "name": "Hyper Light Drifter",
         "platform": "PC",
@@ -8763,12 +8757,6 @@ var jsonArray = [
         "id": 1639,
         "name": "Metal Gear Acid 2",
         "platform": "PlayStation Portable",
-        "votes": 0
-    },
-    {
-        "id": 1640,
-        "name": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
-        "platform": "PC",
         "votes": 0
     },
     {

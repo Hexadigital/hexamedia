@@ -24,9 +24,9 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1836,
-        "name": "Vampire Killer",
-        "platform": "MSX",
+        "id": 1640,
+        "name": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
+        "platform": "PC",
         "votes": 0
     }
 ]

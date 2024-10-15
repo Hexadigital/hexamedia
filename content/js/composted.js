@@ -472,5 +472,17 @@ var jsonArray = [
         "name": "Discrete Orange",
         "platform": "Game Boy Advance",
         "votes": 1
+    },
+    {
+        "id": 1836,
+        "name": "Vampire Killer",
+        "platform": "MSX",
+        "votes": 0
+    },
+    {
+        "id": 448,
+        "name": "Hotel Dusk: Room 215",
+        "platform": "Nintendo DS",
+        "votes": 2
     }
 ]
