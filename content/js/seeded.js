@@ -9015,7 +9015,7 @@ var jsonArray = [
         "id": 1683,
         "name": "Bassin's Black Bass | Super Black Bass 2",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1684,
@@ -9135,7 +9135,7 @@ var jsonArray = [
         "id": 1704,
         "name": "Monopoly",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1705,
