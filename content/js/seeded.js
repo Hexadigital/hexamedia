@@ -9009,7 +9009,7 @@ var jsonArray = [
         "id": 1682,
         "name": "Bomberman Generation",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1683,

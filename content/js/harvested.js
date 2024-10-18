@@ -532,5 +532,11 @@ var jsonArray = [
         "name": "Final Fantasy VI",
         "platform": "SNES",
         "votes": 0
+    },
+    {
+        "id": 1826,
+        "name": "The Little Witch and The Lost Memories",
+        "platform": "PC",
+        "votes": 0
     }
 ]

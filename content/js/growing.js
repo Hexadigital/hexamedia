@@ -18,12 +18,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 1826,
-        "name": "The Little Witch and The Lost Memories",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 1640,
         "name": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
         "platform": "PC",
