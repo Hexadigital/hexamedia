@@ -1035,7 +1035,7 @@ var jsonArray = [
         "id": 301,
         "name": "Baba Is You",
         "platform": "PC",
-        "votes": 10
+        "votes": 11
     },
     {
         "id": 302,
@@ -8955,7 +8955,7 @@ var jsonArray = [
         "id": 1673,
         "name": "Lost Kingdoms",
         "platform": "GameCube",
-        "votes": 1
+        "votes": 3
     },
     {
         "id": 1674,
@@ -8985,7 +8985,7 @@ var jsonArray = [
         "id": 1678,
         "name": "Kururin Squash!",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1679,
