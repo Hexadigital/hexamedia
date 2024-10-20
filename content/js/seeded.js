@@ -8913,7 +8913,7 @@ var jsonArray = [
         "id": 1666,
         "name": "Billy Hatcher and the Giant Egg",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1667,
@@ -9910,5 +9910,11 @@ var jsonArray = [
         "name": "Plok!",
         "platform": "SNES",
         "votes": 1
+    },
+    {
+        "id": 1839,
+        "name": "Lords of Thunder",
+        "platform": "Sega CD",
+        "votes": 0
     }
 ]
