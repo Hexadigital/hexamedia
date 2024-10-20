@@ -9915,6 +9915,6 @@ var jsonArray = [
         "id": 1839,
         "name": "Lords of Thunder",
         "platform": "Sega CD",
-        "votes": 0
+        "votes": 1
     }
 ]
