@@ -22,5 +22,23 @@ var jsonArray = [
         "name": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 1669,
+        "name": "Kirby Air Ride",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1035,
+        "name": "Breaker's",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 1516,
+        "name": "Deathsmiles",
+        "platform": "Arcade",
+        "votes": 2
     }
 ]

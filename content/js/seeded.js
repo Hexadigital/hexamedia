@@ -5268,12 +5268,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1035,
-        "name": "Breaker's",
-        "platform": "Arcade",
-        "votes": 1
-    },
-    {
         "id": 1036,
         "name": "BurgerTime",
         "platform": "Arcade",
@@ -8046,12 +8040,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1516,
-        "name": "Deathsmiles",
-        "platform": "Arcade",
-        "votes": 2
-    },
-    {
         "id": 1517,
         "name": "Rockman Gaiden",
         "platform": "NES",
@@ -8924,12 +8912,6 @@ var jsonArray = [
     {
         "id": 1668,
         "name": "Bomberman Jetters",
-        "platform": "GameCube",
-        "votes": 0
-    },
-    {
-        "id": 1669,
-        "name": "Kirby Air Ride",
         "platform": "GameCube",
         "votes": 0
     },
@@ -9915,6 +9897,222 @@ var jsonArray = [
         "id": 1839,
         "name": "Lords of Thunder",
         "platform": "Sega CD",
-        "votes": 1
+        "votes": 2
+    },
+    {
+        "id": 1840,
+        "name": "Monster Rancher Battle Card GB",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1841,
+        "name": "Lode Runner 3-D",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 1842,
+        "name": "Tactics Ogre: Let Us Cling Together",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1843,
+        "name": "Antinomia: Final Fantasy VI",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1844,
+        "name": "Dragon Crystal",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 1845,
+        "name": "Dottie Dreads Nought",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1846,
+        "name": "Kat's Run: Zennihon K Car Senshuken",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1847,
+        "name": "Sylvanian Melodies: Mori no Nakama to Odori Masho!",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1848,
+        "name": "20 Challenges: Episode 2 - Witchcraft",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1849,
+        "name": "Puzzle Series Vol. 1: Jigsaw Puzzle",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1850,
+        "name": "Yu-Gi-Oh! World Championship 2008",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1851,
+        "name": "Tomb Raider: Curse of the Sword",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1852,
+        "name": "Ms. Pac-Man Maze Madness",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1853,
+        "name": "Ninja Gaiden",
+        "platform": "Atari Lynx",
+        "votes": 0
+    },
+    {
+        "id": 1854,
+        "name": "Ark of Time",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1855,
+        "name": "Digimon Adventure: Cathode Tamer",
+        "platform": "WonderSwan",
+        "votes": 0
+    },
+    {
+        "id": 1856,
+        "name": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1857,
+        "name": "Running Battle",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 1858,
+        "name": "ChuChu Rocket!",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1859,
+        "name": "Silent Hill: Shattered Memories",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1860,
+        "name": "Resident Evil: Director's Cut",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1861,
+        "name": "Dungeons & DoomKnights",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1862,
+        "name": "Pocket Bowling",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1863,
+        "name": "Demolition Man",
+        "platform": "Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 1864,
+        "name": "The Goonies",
+        "platform": "MSX",
+        "votes": 0
+    },
+    {
+        "id": 1865,
+        "name": "WinBack: Covert Operations | Operation Winback",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1866,
+        "name": "Patapon",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1867,
+        "name": "Patapon 2",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1868,
+        "name": "Ronnie O'Sullivan's Snooker",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1869,
+        "name": "One",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1870,
+        "name": "bit Generations: Dotstream",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1871,
+        "name": "Cosmic Avenger",
+        "platform": "ColecoVision",
+        "votes": 0
+    },
+    {
+        "id": 1872,
+        "name": "Golden Axe [untranslated]",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 1873,
+        "name": "Rune Factory 3: A Fantasy Harvest Moon",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1874,
+        "name": "Blast Wind",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 1875,
+        "name": "Geometry Wars Portable",
+        "platform": "PlayStation Portable",
+        "votes": 0
     }
 ]
