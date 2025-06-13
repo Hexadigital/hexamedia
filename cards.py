@@ -608,5 +608,25 @@ event_cards = [
         'Artist Link': 'https://twitter.com/til_Illustrater',
         'Source': 'https://skeb.jp/@til_Illustrater/works/1',
         'Description': 'Rewarded on check-in from 2024-06-22 to 2024-06-30.'
-    }
+    },
+    {
+        'ID':'d8759e29a304',
+        'Name': 'December 2024',
+        'Number': '4',
+        'Rarity':'Common',
+        'Artist': 'Yuikawa_benten',
+        'Artist Link': 'https://twitter.com/Yuikawa_benten',
+        'Source': 'https://skeb.jp/@Yuikawa_benten/works/1',
+        'Description': 'Rewarded on check-in from 2024-12-01 to 2024-12-31.'
+    },
+    {
+        'ID':'a9cadeaf899d',
+        'Name': 'Three Years',
+        'Number': '5',
+        'Rarity':'Common',
+        'Artist': 'akuta_neko',
+        'Artist Link': 'https://twitter.com/akuta_neko',
+        'Source': 'https://skeb.jp/@akuta_neko/works/18',
+        'Description': 'Rewarded on check-in from 2025-06-22 to 2025-06-30.'
+    },
 ]

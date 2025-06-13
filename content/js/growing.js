@@ -1,44 +1,26 @@
 var jsonArray = [
     {
-        "id": 1632,
-        "name": "Yakuza 5 Remastered",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
-        "id": 573,
-        "name": "Persona 4 Golden",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
-        "id": 305,
-        "name": "BioShock 2",
-        "platform": "PC",
+        "id": 264,
+        "name": "Ace Attorney Investigations 2: Prosecutor's Path",
+        "platform": "Nintendo DS",
         "votes": 1
     },
     {
-        "id": 1640,
-        "name": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
+        "id": 525,
+        "name": "NieR: Automata",
         "platform": "PC",
         "votes": 0
     },
     {
-        "id": 1669,
-        "name": "Kirby Air Ride",
-        "platform": "GameCube",
+        "id": 2025,
+        "name": "Yakuza 6: The Song of Life",
+        "platform": "PC",
         "votes": 0
     },
     {
-        "id": 1035,
-        "name": "Breaker's",
-        "platform": "Arcade",
-        "votes": 1
-    },
-    {
-        "id": 1516,
-        "name": "Deathsmiles",
-        "platform": "Arcade",
-        "votes": 2
+        "id": 884,
+        "name": "Reel Fishing | Fish Eyes",
+        "platform": "PlayStation",
+        "votes": 0
     }
 ]

@@ -20,14 +20,14 @@ var jsonArray = [
     {
         "id": 60,
         "name": "Comix Zone",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
         "id": 58,
         "name": "Touhoumon Ordinary Version",
         "platform": "Game Boy Color",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 59,
@@ -38,7 +38,7 @@ var jsonArray = [
     {
         "id": 65,
         "name": "Dick Tracy",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -46,12 +46,6 @@ var jsonArray = [
         "name": "E.V.O.: Search for Eden",
         "platform": "SNES",
         "votes": 2
-    },
-    {
-        "id": 75,
-        "name": "Gato Roboto",
-        "platform": "PC",
-        "votes": 1
     },
     {
         "id": 89,
@@ -88,12 +82,6 @@ var jsonArray = [
         "name": "Super Castlevania IV",
         "platform": "SNES",
         "votes": 1
-    },
-    {
-        "id": 141,
-        "name": "Fantasy Mosaics 14: Fourth Color",
-        "platform": "PC",
-        "votes": 0
     },
     {
         "id": 142,
@@ -360,12 +348,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 187,
-        "name": "The World Ends with You [replay]",
-        "platform": "Nintendo DS",
-        "votes": 0
-    },
-    {
         "id": 188,
         "name": "Metal Gear Solid: Ghost Babel [replay]",
         "platform": "Game Boy Color",
@@ -417,13 +399,13 @@ var jsonArray = [
         "id": 197,
         "name": "Kirby's Dream Land",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 198,
         "name": "Kirby's Dream Land 2",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 199,
@@ -471,7 +453,7 @@ var jsonArray = [
         "id": 206,
         "name": "GG Aleste",
         "platform": "Game Gear",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 207,
@@ -489,12 +471,6 @@ var jsonArray = [
         "id": 209,
         "name": "Rune Factory: A Fantasy Harvest Moon",
         "platform": "Nintendo DS",
-        "votes": 1
-    },
-    {
-        "id": 211,
-        "name": "Golden Sun: The Lost Age",
-        "platform": "Game Boy Advance",
         "votes": 1
     },
     {
@@ -609,7 +585,7 @@ var jsonArray = [
         "id": 230,
         "name": "Picross NP Vol. 2",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 231,
@@ -765,13 +741,13 @@ var jsonArray = [
         "id": 256,
         "name": "Snatcher",
         "platform": "Sega CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 257,
         "name": "Blood Will Tell: Tezuka Osamu's Dororo",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 258,
@@ -807,12 +783,6 @@ var jsonArray = [
         "id": 263,
         "name": "Vampire: Master of Darkness",
         "platform": "Master System",
-        "votes": 0
-    },
-    {
-        "id": 264,
-        "name": "Ace Attorney Investigations 2: Prosecutor's Path",
-        "platform": "Nintendo DS",
         "votes": 1
     },
     {
@@ -846,12 +816,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 270,
-        "name": ".hack//Infection",
-        "platform": "PlayStation 2",
-        "votes": 1
-    },
-    {
         "id": 271,
         "name": "1BeatHeart",
         "platform": "PC",
@@ -879,7 +843,7 @@ var jsonArray = [
         "id": 275,
         "name": "7th Dragon",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 276,
@@ -921,7 +885,7 @@ var jsonArray = [
         "id": 282,
         "name": "Advance Wars 2: Black Hole Rising",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 283,
@@ -981,7 +945,7 @@ var jsonArray = [
         "id": 292,
         "name": "Aragami",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 293,
@@ -993,7 +957,7 @@ var jsonArray = [
         "id": 294,
         "name": "Arkista's Ring",
         "platform": "NES",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 295,
@@ -1005,7 +969,7 @@ var jsonArray = [
         "id": 296,
         "name": "Aviary Attorney",
         "platform": "PC",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 297,
@@ -1023,25 +987,25 @@ var jsonArray = [
         "id": 299,
         "name": "Azure Striker Gunvolt",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 300,
         "name": "Azure Striker Gunvolt 2",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 301,
         "name": "Baba Is You",
         "platform": "PC",
-        "votes": 11
+        "votes": 30
     },
     {
         "id": 302,
         "name": "Bastion",
         "platform": "PC",
-        "votes": 7
+        "votes": 8
     },
     {
         "id": 303,
@@ -1083,13 +1047,13 @@ var jsonArray = [
         "id": 310,
         "name": "Bloodstained: Curse of the Moon",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 311,
         "name": "Bloodstained: Ritual of the Night",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 312,
@@ -1107,43 +1071,43 @@ var jsonArray = [
         "id": 315,
         "name": "Boktai 2: Solar Boy Django",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 316,
         "name": "Shin Bokura no Taiyou - Gyakushuu no Sabata",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 317,
         "name": "Lunar Knights",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 318,
         "name": "Bravely Default",
         "platform": "Nintendo 3DS",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 319,
         "name": "Bravely Second: End Layer",
         "platform": "Nintendo 3DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 320,
         "name": "Breath of Fire",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 321,
         "name": "Breath of Fire 2",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 322,
@@ -1203,7 +1167,7 @@ var jsonArray = [
         "id": 331,
         "name": "Castlevania: Aria of Sorrow",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 332,
@@ -1215,25 +1179,25 @@ var jsonArray = [
         "id": 333,
         "name": "Castlevania: Circle of the Moon",
         "platform": "Game Boy Advance",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 334,
         "name": "Castlevania: Harmony of Dissonance",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 335,
         "name": "Castlevania: Symphony of the Night",
         "platform": "PlayStation",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 336,
         "name": "Cat Goes Fishing",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 337,
@@ -1250,7 +1214,7 @@ var jsonArray = [
     {
         "id": 339,
         "name": "Cave Story MD",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -1287,7 +1251,7 @@ var jsonArray = [
         "id": 345,
         "name": "Chibi-Robo!: Park Patrol",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 346,
@@ -1299,7 +1263,7 @@ var jsonArray = [
         "id": 347,
         "name": "Chrono Trigger",
         "platform": "SNES",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 348,
@@ -1407,31 +1371,31 @@ var jsonArray = [
         "id": 366,
         "name": "Devil May Cry",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 367,
         "name": "Devil May Cry 2",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": -1
     },
     {
         "id": 368,
         "name": "Devil May Cry 3: Dante's Awakening",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 369,
         "name": "Disgaea: Afternoon of Darkness",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 370,
         "name": "Disgaea 2: Dark Hero Days",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 371,
@@ -1443,25 +1407,19 @@ var jsonArray = [
         "id": 372,
         "name": "Prinny: Can I Really Be the Hero?",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 373,
         "name": "Makai Kingdom: Chronicles of the Sacred Tome",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 374,
         "name": "Prinny 2: Dawn of Operation Panties Dood!",
         "platform": "PlayStation Portable",
         "votes": 0
-    },
-    {
-        "id": 375,
-        "name": "Dishonored",
-        "platform": "PC",
-        "votes": 3
     },
     {
         "id": 376,
@@ -1551,18 +1509,12 @@ var jsonArray = [
         "id": 391,
         "name": "EarthBound",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 392,
         "name": "Mother | Earthbound Beginnings",
         "platform": "NES",
-        "votes": 0
-    },
-    {
-        "id": 393,
-        "name": "Einhander",
-        "platform": "PlayStation",
         "votes": 0
     },
     {
@@ -1581,7 +1533,7 @@ var jsonArray = [
         "id": 396,
         "name": "Emerald Dragon",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 397,
@@ -1611,13 +1563,13 @@ var jsonArray = [
         "id": 401,
         "name": "Famicom Wars",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 402,
         "name": "Cotton: Fantastic Night Dreams",
         "platform": "Neo Geo Pocket",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 404,
@@ -1665,13 +1617,13 @@ var jsonArray = [
         "id": 411,
         "name": "Gamera: Guardian of the Universe",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 412,
         "name": "Ghost Trick: Phantom Detective",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 413,
@@ -1707,7 +1659,7 @@ var jsonArray = [
         "id": 418,
         "name": "Grand Theft Auto Advance",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 419,
@@ -1815,7 +1767,7 @@ var jsonArray = [
         "id": 436,
         "name": "Hataraku Chocobo | Working Chocobo",
         "platform": "WonderSwan",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 437,
@@ -1863,7 +1815,7 @@ var jsonArray = [
         "id": 444,
         "name": "Hollow Knight",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 445,
@@ -1911,7 +1863,7 @@ var jsonArray = [
         "id": 453,
         "name": "Hyrule Warriors: Legends",
         "platform": "Nintendo 3DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 454,
@@ -1923,7 +1875,7 @@ var jsonArray = [
         "id": 455,
         "name": "ICO",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 456,
@@ -1971,13 +1923,13 @@ var jsonArray = [
         "id": 463,
         "name": "Kamaitachi no Yoru",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 464,
         "name": "Katamari Damacy",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 465,
@@ -1989,7 +1941,7 @@ var jsonArray = [
         "id": 466,
         "name": "We Love Katamari",
         "platform": "PlayStation 2",
-        "votes": 1
+        "votes": 0
     },
     {
         "id": 467,
@@ -2025,19 +1977,19 @@ var jsonArray = [
         "id": 472,
         "name": "Koumajou Densetsu II: Stranger's Requiem",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 473,
         "name": "Koumajou Remilia: Scarlet Symphony",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 474,
         "name": "Kyuutenkai: Fantastic Pinball",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 475,
@@ -2091,7 +2043,7 @@ var jsonArray = [
         "id": 483,
         "name": "Lobotomy Corporation",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 484,
@@ -2151,7 +2103,7 @@ var jsonArray = [
         "id": 495,
         "name": "Rockman.EXE: Operate Shooting Star",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 496,
@@ -2169,7 +2121,7 @@ var jsonArray = [
         "id": 498,
         "name": "Megadimension Neptunia VII",
         "platform": "PC",
-        "votes": 0
+        "votes": 10
     },
     {
         "id": 499,
@@ -2193,25 +2145,25 @@ var jsonArray = [
         "id": 502,
         "name": "Metroid Fusion",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 503,
         "name": "Metroid: Zero Mission",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 504,
         "name": "Metroid",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 505,
         "name": "Metroid II: Return of Samus",
         "platform": "Game Boy",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 506,
@@ -2223,13 +2175,13 @@ var jsonArray = [
         "id": 507,
         "name": "Metroid Prime: Hunters",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 508,
         "name": "Super Metroid",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 509,
@@ -2265,7 +2217,7 @@ var jsonArray = [
         "id": 514,
         "name": "Monster Hunter",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 515,
@@ -2298,12 +2250,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 520,
-        "name": "Murder by Numbers",
-        "platform": "PC",
-        "votes": 0
-    },
-    {
         "id": 521,
         "name": "Mysteria: Occult Shadows",
         "platform": "PC",
@@ -2328,12 +2274,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 525,
-        "name": "NieR: Automata",
-        "platform": "Nintendo Switch",
-        "votes": 0
-    },
-    {
         "id": 526,
         "name": "One Step From Eden",
         "platform": "PC",
@@ -2349,7 +2289,7 @@ var jsonArray = [
         "id": 528,
         "name": "OneShot",
         "platform": "Nintendo Switch",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 529,
@@ -2361,7 +2301,7 @@ var jsonArray = [
         "id": 530,
         "name": "Outer Wilds",
         "platform": "PC",
-        "votes": 15
+        "votes": 5
     },
     {
         "id": 531,
@@ -2374,12 +2314,6 @@ var jsonArray = [
         "name": "Panzer Bandit",
         "platform": "PlayStation",
         "votes": 0
-    },
-    {
-        "id": 533,
-        "name": "Paper Mario",
-        "platform": "Nintendo 64",
-        "votes": 7
     },
     {
         "id": 534,
@@ -2395,7 +2329,7 @@ var jsonArray = [
     },
     {
         "id": 536,
-        "name": "Persona 5",
+        "name": "Persona 5: Royal",
         "platform": "PC",
         "votes": 0
     },
@@ -2421,13 +2355,13 @@ var jsonArray = [
         "id": 540,
         "name": "Picross S5",
         "platform": "Nintendo Switch",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 541,
         "name": "Pikmin",
         "platform": "GameCube",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 542,
@@ -2499,7 +2433,7 @@ var jsonArray = [
         "id": 554,
         "name": "Professor Layton and the Azran Legacy",
         "platform": "Nintendo 3DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 555,
@@ -2586,22 +2520,16 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 569,
-        "name": "Shenmue",
-        "platform": "Dreamcast",
-        "votes": 30
-    },
-    {
         "id": 570,
         "name": "Shenmue II",
         "platform": "Dreamcast",
-        "votes": 23
+        "votes": 86
     },
     {
         "id": 571,
         "name": "Shin Gyakuten Touhou",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 574,
@@ -2626,12 +2554,6 @@ var jsonArray = [
         "name": "Skyblazer",
         "platform": "SNES",
         "votes": 1
-    },
-    {
-        "id": 578,
-        "name": "Slay the Spire",
-        "platform": "PC",
-        "votes": 0
     },
     {
         "id": 579,
@@ -2715,7 +2637,7 @@ var jsonArray = [
         "id": 592,
         "name": "Stella Glow",
         "platform": "Nintendo 3DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 593,
@@ -2733,7 +2655,7 @@ var jsonArray = [
         "id": 595,
         "name": "Summon Night: Swordcraft Story",
         "platform": "Game Boy Advance",
-        "votes": 3
+        "votes": 4
     },
     {
         "id": 596,
@@ -2757,7 +2679,7 @@ var jsonArray = [
         "id": 599,
         "name": "Super Mario 3D Land",
         "platform": "Nintendo 3DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 600,
@@ -2805,13 +2727,13 @@ var jsonArray = [
         "id": 607,
         "name": "The Adventure of Nayu",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 608,
         "name": "The Elder Scrolls III: Morrowind",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 609,
@@ -2835,7 +2757,7 @@ var jsonArray = [
         "id": 613,
         "name": "The Legend of Legacy",
         "platform": "Nintendo 3DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 614,
@@ -2991,7 +2913,7 @@ var jsonArray = [
         "id": 641,
         "name": "Okami",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 642,
@@ -3075,7 +2997,7 @@ var jsonArray = [
         "id": 657,
         "name": "Advance Wars",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 2
     },
     {
         "id": 658,
@@ -3099,7 +3021,7 @@ var jsonArray = [
         "id": 661,
         "name": "Hamtaro: Ham-Ham Heartbreak",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 662,
@@ -3183,7 +3105,7 @@ var jsonArray = [
         "id": 675,
         "name": "WarioWare, Inc.: Mega Microgames!",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 676,
@@ -3300,18 +3222,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 696,
-        "name": "Mega Man 2",
-        "platform": "NES",
-        "votes": 0
-    },
-    {
-        "id": 697,
-        "name": "Mega Man 3",
-        "platform": "NES",
-        "votes": 0
-    },
-    {
         "id": 698,
         "name": "Mega Man 4",
         "platform": "NES",
@@ -3333,7 +3243,7 @@ var jsonArray = [
         "id": 701,
         "name": "Mr. Gimmick",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 702,
@@ -3693,7 +3603,7 @@ var jsonArray = [
         "id": 764,
         "name": "Do-Re-Mi Fantasy: Milon no Dokidoki Daibouken",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 765,
@@ -3759,7 +3669,7 @@ var jsonArray = [
         "id": 776,
         "name": "Kirby Super Star",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 777,
@@ -3777,13 +3687,13 @@ var jsonArray = [
         "id": 779,
         "name": "Kirby's Dream Land 3",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 780,
         "name": "Harvest Moon",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 781,
@@ -3813,7 +3723,7 @@ var jsonArray = [
         "id": 785,
         "name": "Tales of Phantasia",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 786,
@@ -3825,7 +3735,7 @@ var jsonArray = [
         "id": 787,
         "name": "Wolverine: Adamantium Rage",
         "platform": "SNES",
-        "votes": 0
+        "votes": -1
     },
     {
         "id": 788,
@@ -3848,12 +3758,6 @@ var jsonArray = [
     {
         "id": 791,
         "name": "Super Black Bass",
-        "platform": "SNES",
-        "votes": 0
-    },
-    {
-        "id": 792,
-        "name": "Super Mario Kart",
         "platform": "SNES",
         "votes": 0
     },
@@ -3915,7 +3819,7 @@ var jsonArray = [
         "id": 803,
         "name": "Secret of Evermore",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 804,
@@ -4083,7 +3987,7 @@ var jsonArray = [
         "id": 831,
         "name": "Izuna: Legend of the Unemployed Ninja",
         "platform": "Nintendo DS",
-        "votes": 6
+        "votes": 7
     },
     {
         "id": 832,
@@ -4101,7 +4005,7 @@ var jsonArray = [
         "id": 834,
         "name": "Golden Sun: Dark Dawn",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 835,
@@ -4125,7 +4029,7 @@ var jsonArray = [
         "id": 838,
         "name": "Flower, Sun and Rain",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 839,
@@ -4311,7 +4215,7 @@ var jsonArray = [
         "id": 871,
         "name": "Jumping Flash!",
         "platform": "PlayStation",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 872,
@@ -4323,7 +4227,7 @@ var jsonArray = [
         "id": 873,
         "name": "Kaze no NOTAM",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 874,
@@ -4347,7 +4251,7 @@ var jsonArray = [
         "id": 877,
         "name": "Mega Man Legends",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 878,
@@ -4386,22 +4290,10 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 884,
-        "name": "Reel Fishing | Fish Eyes",
-        "platform": "PlayStation",
-        "votes": 0
-    },
-    {
         "id": 885,
         "name": "Battle Stadium D.O.N",
         "platform": "PlayStation 2",
         "votes": 0
-    },
-    {
-        "id": 886,
-        "name": "God Hand",
-        "platform": "PlayStation 2",
-        "votes": 7
     },
     {
         "id": 887,
@@ -4413,7 +4305,7 @@ var jsonArray = [
         "id": 888,
         "name": "Dark Cloud",
         "platform": "PlayStation 2",
-        "votes": 5
+        "votes": 30
     },
     {
         "id": 889,
@@ -4605,120 +4497,120 @@ var jsonArray = [
         "id": 920,
         "name": "46 Okunen Monogatari: The Shinkaron",
         "platform": "PC-98",
-        "votes": 6
+        "votes": 10
     },
     {
         "id": 921,
         "name": "Alisia Dragoon",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
         "id": 922,
         "name": "Arcus Odyssey",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 923,
         "name": "Bishoujo Senshi Sailor Moon",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 924,
         "name": "Gaiares",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 925,
         "name": "El Viento",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
         "id": 926,
         "name": "Ex-Mutants",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 927,
         "name": "Exile",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 928,
         "name": "King Salmon: The Big Catch",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 929,
         "name": "Landstalker",
-        "platform": "Mega Drive",
-        "votes": 0
+        "platform": "Genesis/Mega Drive",
+        "votes": 2
     },
     {
         "id": 930,
         "name": "Lord Monarch: Tokoton Sentou Densetsu",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 931,
         "name": "Marble Madness",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 932,
         "name": "Mystic Defender",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 933,
         "name": "Jewel Master",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 934,
         "name": "Twinkle Tale",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
         "id": 935,
         "name": "Valis",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 936,
         "name": "Vectorman",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 937,
         "name": "Panorama Cotton",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 938,
         "name": "Phantasy Star II",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 939,
         "name": "Syd of Valis",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -4893,7 +4785,7 @@ var jsonArray = [
         "id": 968,
         "name": "SNK vs. Capcom: Card Fighters' Clash",
         "platform": "Neo Geo Pocket",
-        "votes": 0
+        "votes": 5
     },
     {
         "id": 969,
@@ -5006,7 +4898,7 @@ var jsonArray = [
     {
         "id": 989,
         "name": "Trouble Shooter",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -5049,7 +4941,7 @@ var jsonArray = [
         "id": 996,
         "name": "Keio Flying Squadron",
         "platform": "Sega CD",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 997,
@@ -5066,7 +4958,7 @@ var jsonArray = [
     {
         "id": 999,
         "name": "Ikasuze! Koi no Doki Doki Penguin Land MD",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -5169,12 +5061,6 @@ var jsonArray = [
         "id": 1017,
         "name": "Castlevania: The Adventure",
         "platform": "Game Boy",
-        "votes": 0
-    },
-    {
-        "id": 1019,
-        "name": "Castlevania II: Simon's Quest",
-        "platform": "NES",
         "votes": 0
     },
     {
@@ -5288,8 +5174,8 @@ var jsonArray = [
     {
         "id": 1040,
         "name": "Rocket Knight Adventures",
-        "platform": "Mega Drive",
-        "votes": 0
+        "platform": "Genesis/Mega Drive",
+        "votes": 1
     },
     {
         "id": 1041,
@@ -5301,7 +5187,7 @@ var jsonArray = [
         "id": 1042,
         "name": "Captain Commando",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1043,
@@ -5439,7 +5325,7 @@ var jsonArray = [
         "id": 1065,
         "name": "Kingdom Hearts: Final Mix",
         "platform": "PlayStation 2",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1066,
@@ -5457,7 +5343,7 @@ var jsonArray = [
         "id": 1068,
         "name": "Final Fight",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1069,
@@ -5469,13 +5355,13 @@ var jsonArray = [
         "id": 1070,
         "name": "G.I. Joe: A Real American Hero",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1071,
         "name": "Gaia Crusaders",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1072,
@@ -5487,19 +5373,19 @@ var jsonArray = [
         "id": 1073,
         "name": "Galaga",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1074,
         "name": "Galaxian",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1075,
         "name": "Garou: Mark of the Wolves",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1076,
@@ -5511,13 +5397,13 @@ var jsonArray = [
         "id": 1077,
         "name": "Ghosts 'n Goblins",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1078,
         "name": "Ghouls 'n Ghosts | Daimakaimura",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1079,
@@ -5535,25 +5421,25 @@ var jsonArray = [
         "id": 1081,
         "name": "Gunbarich",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1082,
         "name": "Gunbird",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1083,
         "name": "GunForce II | Geo Storm",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1084,
         "name": "Gyruss",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1085,
@@ -5571,19 +5457,19 @@ var jsonArray = [
         "id": 1087,
         "name": "Haunted Castle",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1088,
         "name": "Hippodrome",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1089,
         "name": "Hook",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1090,
@@ -5595,13 +5481,13 @@ var jsonArray = [
         "id": 1091,
         "name": "Ogre Battle: The March of the Black Queen",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1092,
         "name": "Dark Castle",
-        "platform": "Mega Drive",
-        "votes": 0
+        "platform": "Genesis/Mega Drive",
+        "votes": -1
     },
     {
         "id": 1093,
@@ -5625,7 +5511,7 @@ var jsonArray = [
         "id": 1096,
         "name": "The King of Dragons",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1097,
@@ -5637,7 +5523,7 @@ var jsonArray = [
         "id": 1098,
         "name": "Knights of the Round",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1099,
@@ -5649,7 +5535,7 @@ var jsonArray = [
         "id": 1100,
         "name": "The Last Blade 2",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1101,
@@ -5661,7 +5547,7 @@ var jsonArray = [
         "id": 1102,
         "name": "Last Resort",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1103,
@@ -5673,13 +5559,13 @@ var jsonArray = [
         "id": 1105,
         "name": "Starblade",
         "platform": "3DO",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1106,
         "name": "Cardinal Sins",
         "platform": "WonderSwan",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1107,
@@ -5690,26 +5576,26 @@ var jsonArray = [
     {
         "id": 1108,
         "name": "Mercs",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
         "id": 1109,
         "name": "Gradius II: GOFER no Yabou",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1110,
         "name": "Magician Lord",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1111,
         "name": "Mars Matrix: Hyper Solid Shooting",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1112,
@@ -5733,13 +5619,13 @@ var jsonArray = [
         "id": 1115,
         "name": "Mega Man 2: The Power Fighters",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1116,
         "name": "Mega Man: The Power Battle",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1117,
@@ -5757,13 +5643,13 @@ var jsonArray = [
         "id": 1119,
         "name": "Michael Jackson's Moonwalker",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1120,
         "name": "Monkey Ball",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1121,
@@ -5775,7 +5661,7 @@ var jsonArray = [
         "id": 1122,
         "name": "Mutation Nation",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1123,
@@ -5787,7 +5673,7 @@ var jsonArray = [
         "id": 1124,
         "name": "Neo Turf Masters | Big Tournament Golf",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1125,
@@ -5799,13 +5685,13 @@ var jsonArray = [
         "id": 1126,
         "name": "Night Slashers",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1127,
         "name": "Night Striker",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1128,
@@ -5835,7 +5721,7 @@ var jsonArray = [
         "id": 1133,
         "name": "Frogger Advance: The Great Quest",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1134,
@@ -5853,31 +5739,31 @@ var jsonArray = [
         "id": 1136,
         "name": "Phoenix",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1137,
         "name": "Prehistoric Isle in 1930 | Genshi-Tou 1930s",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1138,
         "name": "Pretty Soldier Sailor Moon",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1139,
         "name": "Psycho Soldier",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1140,
         "name": "Pulstar",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1141,
@@ -5907,7 +5793,7 @@ var jsonArray = [
         "id": 1145,
         "name": "Puzzle Bobble | Bust-A-Move",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1146,
@@ -5919,49 +5805,49 @@ var jsonArray = [
         "id": 1147,
         "name": "Riot City",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1148,
         "name": "Robo Army",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1149,
         "name": "Samurai Shodown | Samurai Spirits",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1150,
         "name": "Sengoku 3 | Sengoku Densho 2001",
         "platform": "Arcade",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1151,
         "name": "Shinobi",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1152,
         "name": "Shock Troopers",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1153,
         "name": "Shock Troopers: 2nd Squad",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1154,
         "name": "Sinistar",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1155,
@@ -5973,7 +5859,7 @@ var jsonArray = [
         "id": 1156,
         "name": "Spider-Man: The Videogame",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1157,
@@ -5985,13 +5871,13 @@ var jsonArray = [
         "id": 1158,
         "name": "Strider | Strider Hiryu",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1159,
         "name": "Strikers 1945",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1160,
@@ -6003,7 +5889,7 @@ var jsonArray = [
         "id": 1161,
         "name": "Super Gem Fighter: Mini Mix | Pocket Fighter",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1162,
@@ -6015,13 +5901,13 @@ var jsonArray = [
         "id": 1163,
         "name": "Super Puzzle Fighter II Turbo | Super Puzzle Fighter II X",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1164,
         "name": "Superman",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1165,
@@ -6033,19 +5919,19 @@ var jsonArray = [
         "id": 1166,
         "name": "Teenage Mutant Ninja Turtles",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1167,
         "name": "Teenage Mutant Ninja Turtles: Turtles in Time",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1168,
         "name": "Tengai | Sengoku Blade: Sengoku Ace Episode II",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1169,
@@ -6069,13 +5955,13 @@ var jsonArray = [
         "id": 1172,
         "name": "Toki",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1173,
         "name": "The Tower of Druaga",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1174,
@@ -6087,7 +5973,7 @@ var jsonArray = [
         "id": 1175,
         "name": "Twinkle Star Sprites",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1176,
@@ -6111,25 +5997,25 @@ var jsonArray = [
         "id": 1179,
         "name": "Vendetta",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1180,
         "name": "Viewpoint",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1181,
         "name": "Vigilante",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1182,
         "name": "Violent Storm",
         "platform": "Arcade",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1183,
@@ -6212,7 +6098,7 @@ var jsonArray = [
     {
         "id": 1196,
         "name": "Strider",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -6254,14 +6140,14 @@ var jsonArray = [
     {
         "id": 1204,
         "name": "Zool",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 1205,
         "name": "Etrian Odyssey",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 6
     },
     {
         "id": 1206,
@@ -6363,7 +6249,7 @@ var jsonArray = [
         "id": 1222,
         "name": "Top Hunter: Roddy & Cathy",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1223,
@@ -6380,12 +6266,6 @@ var jsonArray = [
     {
         "id": 1225,
         "name": "Far East of Eden: Tengai Makyou Shinden | Kabuki Klash",
-        "platform": "Neo Geo CD",
-        "votes": 1
-    },
-    {
-        "id": 1226,
-        "name": "Crossed Swords",
         "platform": "Neo Geo CD",
         "votes": 1
     },
@@ -6416,7 +6296,7 @@ var jsonArray = [
     {
         "id": 1231,
         "name": "Cadash",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -6441,7 +6321,7 @@ var jsonArray = [
         "id": 1235,
         "name": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1237,
@@ -6464,7 +6344,7 @@ var jsonArray = [
     {
         "id": 1240,
         "name": "Drunk as I Like",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 2
     },
     {
@@ -6489,7 +6369,7 @@ var jsonArray = [
         "id": 1244,
         "name": "King of the Monsters 2",
         "platform": "Neo Geo CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1245,
@@ -6615,7 +6495,7 @@ var jsonArray = [
         "id": 1266,
         "name": "The Final Fantasy Legend | Makai Toushi SaGa",
         "platform": "Game Boy",
-        "votes": 2
+        "votes": 3
     },
     {
         "id": 1267,
@@ -6764,7 +6644,7 @@ var jsonArray = [
     {
         "id": 1292,
         "name": "Vapor Trail",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -6830,7 +6710,7 @@ var jsonArray = [
     {
         "id": 1304,
         "name": "Akira [prototype]",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -6838,12 +6718,6 @@ var jsonArray = [
         "name": "Hime's Quest",
         "platform": "Game Boy Color",
         "votes": 0
-    },
-    {
-        "id": 1306,
-        "name": "ICO",
-        "platform": "PlayStation 2",
-        "votes": 1
     },
     {
         "id": 1307,
@@ -6878,7 +6752,7 @@ var jsonArray = [
     {
         "id": 1312,
         "name": "Junction [no timer]",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -6945,7 +6819,7 @@ var jsonArray = [
         "id": 1323,
         "name": "Astal",
         "platform": "Saturn",
-        "votes": 1
+        "votes": 2
     },
     {
         "id": 1324,
@@ -7119,13 +6993,13 @@ var jsonArray = [
         "id": 1352,
         "name": "Pop Island",
         "platform": "Nintendo DSi",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1353,
         "name": "Simply Mahjong",
         "platform": "Nintendo DSi",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1354,
@@ -7190,7 +7064,7 @@ var jsonArray = [
     {
         "id": 1365,
         "name": "Mega Man X in Sonic the Hedgehog 2",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -7299,13 +7173,13 @@ var jsonArray = [
         "id": 1383,
         "name": "Mortal Kombat: Tournament Edition",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 10
     },
     {
         "id": 1386,
         "name": "Shadow of Destiny | Shadow of Memories",
         "platform": "PlayStation 2",
-        "votes": 3
+        "votes": 11
     },
     {
         "id": 1387,
@@ -7354,12 +7228,6 @@ var jsonArray = [
         "name": "Night Striker S",
         "platform": "Saturn",
         "votes": 0
-    },
-    {
-        "id": 1396,
-        "name": "Saturn Bomberman Fight!! [untranslated]",
-        "platform": "Saturn",
-        "votes": 1
     },
     {
         "id": 1397,
@@ -7545,7 +7413,7 @@ var jsonArray = [
         "id": 1429,
         "name": "bit Generations: Orbital",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1430,
@@ -7640,7 +7508,7 @@ var jsonArray = [
     {
         "id": 1446,
         "name": "Last Battle | Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -7743,7 +7611,7 @@ var jsonArray = [
         "id": 1464,
         "name": "htoL#NiQ: The Firefly Diary",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1465,
@@ -7767,7 +7635,7 @@ var jsonArray = [
         "id": 1468,
         "name": "Ice Scream",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1469,
@@ -7845,7 +7713,7 @@ var jsonArray = [
         "id": 1481,
         "name": "Frogger 2",
         "platform": "Game Boy Color",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1482,
@@ -7874,13 +7742,13 @@ var jsonArray = [
     {
         "id": 1486,
         "name": "Master of Monsters",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
         "id": 1487,
         "name": "Second Samurai",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 2
     },
     {
@@ -7905,12 +7773,6 @@ var jsonArray = [
         "id": 1491,
         "name": "Super Boss Collection",
         "platform": "SNES",
-        "votes": 1
-    },
-    {
-        "id": 1492,
-        "name": "Darkwing Duck",
-        "platform": "Game Boy",
         "votes": 1
     },
     {
@@ -7952,7 +7814,7 @@ var jsonArray = [
     {
         "id": 1501,
         "name": "sweetsdigger",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -7977,12 +7839,6 @@ var jsonArray = [
         "id": 1505,
         "name": "Dragon Quest Heroes: Rocket Slime",
         "platform": "Nintendo DS",
-        "votes": 1
-    },
-    {
-        "id": 1506,
-        "name": "Deep Dungeon",
-        "platform": "Game Boy",
         "votes": 1
     },
     {
@@ -8012,7 +7868,7 @@ var jsonArray = [
     {
         "id": 1511,
         "name": "Socket",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -8024,8 +7880,8 @@ var jsonArray = [
     {
         "id": 1513,
         "name": "Batman Forever",
-        "platform": "Mega Drive",
-        "votes": 0
+        "platform": "Genesis/Mega Drive",
+        "votes": -1
     },
     {
         "id": 1514,
@@ -8295,7 +8151,7 @@ var jsonArray = [
         "id": 1560,
         "name": "Digimon World",
         "platform": "PlayStation",
-        "votes": 4
+        "votes": 6
     },
     {
         "id": 1561,
@@ -8319,7 +8175,7 @@ var jsonArray = [
         "id": 1564,
         "name": "VR Troopers",
         "platform": "Game Gear",
-        "votes": 0
+        "votes": -1
     },
     {
         "id": 1565,
@@ -8492,7 +8348,7 @@ var jsonArray = [
     {
         "id": 1594,
         "name": "Greendog: The Beached Surfer Dude!",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -8517,7 +8373,7 @@ var jsonArray = [
         "id": 1599,
         "name": "Tunic",
         "platform": "PC",
-        "votes": 1
+        "votes": 3
     },
     {
         "id": 1600,
@@ -8534,7 +8390,7 @@ var jsonArray = [
     {
         "id": 1602,
         "name": "CrossFire",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -8588,12 +8444,6 @@ var jsonArray = [
     {
         "id": 1611,
         "name": "Block Kuzushi",
-        "platform": "Game Boy",
-        "votes": 0
-    },
-    {
-        "id": 1612,
-        "name": "Quarth | Block Hole",
         "platform": "Game Boy",
         "votes": 0
     },
@@ -8661,7 +8511,7 @@ var jsonArray = [
         "id": 1624,
         "name": "The Flintstones: Bedrock Bowling",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1625,
@@ -8709,7 +8559,7 @@ var jsonArray = [
         "id": 1633,
         "name": "Pokemon Emerald Rogue V2",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1634,
@@ -8742,12 +8592,6 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1639,
-        "name": "Metal Gear Acid 2",
-        "platform": "PlayStation Portable",
-        "votes": 0
-    },
-    {
         "id": 1641,
         "name": "Pokemon: Pit of 100 Trials",
         "platform": "Game Boy Advance",
@@ -8760,27 +8604,15 @@ var jsonArray = [
         "votes": 0
     },
     {
-        "id": 1643,
-        "name": "Ashita no Joe",
-        "platform": "SNES",
-        "votes": 0
-    },
-    {
         "id": 1644,
         "name": "The Legend of Zelda: Allhallows Eve",
         "platform": "SNES",
         "votes": 0
     },
     {
-        "id": 1645,
-        "name": "20 Challenges: Episode 1 - A feard enemy",
-        "platform": "SNES",
-        "votes": 0
-    },
-    {
         "id": 1646,
         "name": "Fire Shark",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -8829,7 +8661,7 @@ var jsonArray = [
         "id": 1654,
         "name": "Standstill Girl",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1655,
@@ -8877,7 +8709,7 @@ var jsonArray = [
         "id": 1662,
         "name": "Doshin the Giant",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1663,
@@ -8895,7 +8727,7 @@ var jsonArray = [
         "id": 1665,
         "name": "Wario World",
         "platform": "GameCube",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1666,
@@ -9126,12 +8958,6 @@ var jsonArray = [
         "votes": 1
     },
     {
-        "id": 1706,
-        "name": "Everyday Shooter",
-        "platform": "PlayStation Portable",
-        "votes": 0
-    },
-    {
         "id": 1707,
         "name": "Monochrome Racing",
         "platform": "PlayStation Portable",
@@ -9153,7 +8979,7 @@ var jsonArray = [
         "id": 1710,
         "name": "Gourdlets",
         "platform": "PC",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1711,
@@ -9164,7 +8990,7 @@ var jsonArray = [
     {
         "id": 1712,
         "name": "Olympic Gold: Barcelona '92",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -9350,12 +9176,6 @@ var jsonArray = [
     {
         "id": 1745,
         "name": "Dark Seal | Gate of Doom",
-        "platform": "Arcade",
-        "votes": 1
-    },
-    {
-        "id": 1746,
-        "name": "Ninja Gaiden | Shadow Warriors",
         "platform": "Arcade",
         "votes": 1
     },
@@ -9650,7 +9470,7 @@ var jsonArray = [
     {
         "id": 1796,
         "name": "Sonic 3D Blast | Sonic 3D: Flickies' Island",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -9686,7 +9506,7 @@ var jsonArray = [
     {
         "id": 1802,
         "name": "Gemfire",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -9698,12 +9518,6 @@ var jsonArray = [
     {
         "id": 1804,
         "name": "Puzzle Uo Poko",
-        "platform": "Arcade",
-        "votes": 1
-    },
-    {
-        "id": 1805,
-        "name": "Eco Fighters | Ultimate Ecology",
         "platform": "Arcade",
         "votes": 1
     },
@@ -9794,14 +9608,14 @@ var jsonArray = [
     {
         "id": 1820,
         "name": "WeaponLord",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
         "id": 1821,
         "name": "Puzzle - Echter Puzzlespass f\u00fcr Unterwegs: art - Das Kunstmagazin",
         "platform": "Nintendo DS",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1822,
@@ -9866,7 +9680,7 @@ var jsonArray = [
     {
         "id": 1833,
         "name": "Chuck Rock",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 1
     },
     {
@@ -9915,7 +9729,7 @@ var jsonArray = [
         "id": 1842,
         "name": "Tactics Ogre: Let Us Cling Together",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1843,
@@ -9933,18 +9747,12 @@ var jsonArray = [
         "id": 1845,
         "name": "Dottie Dreads Nought",
         "platform": "SNES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1846,
         "name": "Kat's Run: Zennihon K Car Senshuken",
         "platform": "SNES",
-        "votes": 0
-    },
-    {
-        "id": 1847,
-        "name": "Sylvanian Melodies: Mori no Nakama to Odori Masho!",
-        "platform": "Game Boy Color",
         "votes": 0
     },
     {
@@ -9975,7 +9783,7 @@ var jsonArray = [
         "id": 1852,
         "name": "Ms. Pac-Man Maze Madness",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1853,
@@ -10005,13 +9813,13 @@ var jsonArray = [
         "id": 1857,
         "name": "Running Battle",
         "platform": "Master System",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1858,
         "name": "ChuChu Rocket!",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1859,
@@ -10023,13 +9831,13 @@ var jsonArray = [
         "id": 1860,
         "name": "Resident Evil: Director's Cut",
         "platform": "PlayStation",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1861,
         "name": "Dungeons & DoomKnights",
         "platform": "NES",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1862,
@@ -10040,7 +9848,7 @@ var jsonArray = [
     {
         "id": 1863,
         "name": "Demolition Man",
-        "platform": "Mega Drive",
+        "platform": "Genesis/Mega Drive",
         "votes": 0
     },
     {
@@ -10059,13 +9867,13 @@ var jsonArray = [
         "id": 1866,
         "name": "Patapon",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1867,
         "name": "Patapon 2",
         "platform": "PlayStation Portable",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1868,
@@ -10083,19 +9891,19 @@ var jsonArray = [
         "id": 1870,
         "name": "bit Generations: Dotstream",
         "platform": "Game Boy Advance",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1871,
         "name": "Cosmic Avenger",
         "platform": "ColecoVision",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1872,
         "name": "Golden Axe [untranslated]",
         "platform": "PC Engine CD",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1873,
@@ -10107,12 +9915,3126 @@ var jsonArray = [
         "id": 1874,
         "name": "Blast Wind",
         "platform": "Saturn",
-        "votes": 0
+        "votes": 1
     },
     {
         "id": 1875,
         "name": "Geometry Wars Portable",
         "platform": "PlayStation Portable",
+        "votes": 1
+    },
+    {
+        "id": 1876,
+        "name": "Touhou Fumo Racing",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 1877,
+        "name": "Machine Hunter",
+        "platform": "PlayStation",
         "votes": 0
+    },
+    {
+        "id": 1878,
+        "name": "Super Monkey Ball",
+        "platform": "GameCube",
+        "votes": 1
+    },
+    {
+        "id": 1879,
+        "name": "Esper Dream (FDS)",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 1880,
+        "name": "Floating Runner: Quest for the 7 Crystals",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 1881,
+        "name": "Metroid Prime 2: Echoes",
+        "platform": "GameCube",
+        "votes": 1
+    },
+    {
+        "id": 1882,
+        "name": "Vexx",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1883,
+        "name": "Knights of the Zodiac: The Phoenix Returns",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1884,
+        "name": "Puyo Puyo",
+        "platform": "Genesis/Mega Drive",
+        "votes": 1
+    },
+    {
+        "id": 1885,
+        "name": "Finneon Accidentally Causes the End of the World",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 1886,
+        "name": "Ribbit King",
+        "platform": "GameCube",
+        "votes": 1
+    },
+    {
+        "id": 1887,
+        "name": "Dig Dug: Digging Strike",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 1888,
+        "name": "Final Fantasy VI: A Soldier's Contingency",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1889,
+        "name": "Graveyard Dude",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 1890,
+        "name": "One Piece: Grand Battle",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1891,
+        "name": "GT Advance 2: Rally Racing",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 1892,
+        "name": "Bram Stoker's Dracula",
+        "platform": "Genesis/Mega Drive",
+        "votes": -1
+    },
+    {
+        "id": 1893,
+        "name": "Spider Derby",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1894,
+        "name": "Unicorn Overlord",
+        "platform": "Nintendo Switch",
+        "votes": 1
+    },
+    {
+        "id": 1895,
+        "name": "Freenergy",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 533,
+        "name": "Paper Mario",
+        "platform": "Nintendo 64",
+        "votes": 30
+    },
+    {
+        "id": 1896,
+        "name": "Wowowow Korone Box",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1897,
+        "name": "Pamina VS Slimes",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1899,
+        "name": "Vampyr",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1901,
+        "name": "Bejeweled 3",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1902,
+        "name": "X-Men Origins: Wolverine",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1903,
+        "name": "HeroQuest",
+        "platform": "Amstrad CPC",
+        "votes": 1
+    },
+    {
+        "id": 1904,
+        "name": "Cuby Panic",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1905,
+        "name": "Phalanx: The Enforce Fighter A-144",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 1906,
+        "name": "Touch Detective",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1907,
+        "name": "Hopping Mappy",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1908,
+        "name": "Puzzle! Mushihime-tama",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 1909,
+        "name": "Seventh Cross: Evolution",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 1910,
+        "name": "Metal Slug Tactics",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 1911,
+        "name": "Dragon Age: The Veilguard",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1912,
+        "name": "Red Dead Redemption",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1913,
+        "name": "Everholm",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1914,
+        "name": "Elin",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1915,
+        "name": "Bug Fables: The Everlasting Sapling",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 1916,
+        "name": "Yawnoc",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1917,
+        "name": "Monpic -The Hatchling Meets a Girl-",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 1918,
+        "name": "Reel and Riddles",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 1919,
+        "name": "Debut Project: Cooking Cafe",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1920,
+        "name": "Eternal Dreamers -Rising-",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 1921,
+        "name": "Avalon Code",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1922,
+        "name": "Discworld Noir",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1923,
+        "name": "Jaws: Unleashed",
+        "platform": "PlayStation 2",
+        "votes": 1
+    },
+    {
+        "id": 1924,
+        "name": "Mottomo Abunai Deka",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 1925,
+        "name": "Kyoro-chan no Purikura Daisakusen [untranslated]",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 1926,
+        "name": "Amerzone: The Explorer's Legacy",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 1927,
+        "name": "Star Ocean: First Departure",
+        "platform": "PlayStation Portable",
+        "votes": 1
+    },
+    {
+        "id": 1928,
+        "name": "Pokemon Sword and Shield Ultimate Plus",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1929,
+        "name": "Neon Genesis Evangelion: Shito Ikusei",
+        "platform": "WonderSwan",
+        "votes": 0
+    },
+    {
+        "id": 1930,
+        "name": "Dracula: Crazy Vampire",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1931,
+        "name": "Final Fantasy VI: Presentiment Era",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1932,
+        "name": "Kessen",
+        "platform": "PlayStation 2",
+        "votes": 1
+    },
+    {
+        "id": 1933,
+        "name": "Super Mario: The New Beginning Revival",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 1934,
+        "name": "The Terminator",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 1935,
+        "name": "Super Mario Bros. Mini",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1937,
+        "name": "Tinkle Pit",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 1938,
+        "name": "Dharma Dojo",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1939,
+        "name": "Alien Storm",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 1940,
+        "name": "Centipede",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 1941,
+        "name": "Turbo Turtle Adventure",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 1942,
+        "name": "Captain America and the Avengers",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 1943,
+        "name": "Maximo vs. Army of Zin",
+        "platform": "PlayStation 2",
+        "votes": 1
+    },
+    {
+        "id": 1944,
+        "name": "Combo Fishing",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1945,
+        "name": "Side Pocket for WonderSwan",
+        "platform": "WonderSwan",
+        "votes": 0
+    },
+    {
+        "id": 1946,
+        "name": "Luma Island",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1947,
+        "name": "Dimensionals",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 1948,
+        "name": "Fruit Panic",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1949,
+        "name": "Lunar Ball",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1950,
+        "name": "Magnet Girl",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1951,
+        "name": "Revolter",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1952,
+        "name": "Magnet World 2",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1953,
+        "name": "The Castle",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1954,
+        "name": "Ever Green",
+        "platform": "PC-88",
+        "votes": 1
+    },
+    {
+        "id": 1955,
+        "name": "Thexder",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1956,
+        "name": "Ice Climber",
+        "platform": "PC-88",
+        "votes": 1
+    },
+    {
+        "id": 1957,
+        "name": "Silpheed",
+        "platform": "PC-88",
+        "votes": 1
+    },
+    {
+        "id": 1958,
+        "name": "New Rally-X",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1959,
+        "name": "Makaimura",
+        "platform": "PC-88",
+        "votes": 1
+    },
+    {
+        "id": 1960,
+        "name": "American Truck",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1961,
+        "name": "Topple Zip",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1962,
+        "name": "Knither: Demon Crystal II",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1963,
+        "name": "Super Pitfall",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1964,
+        "name": "Xanadu",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1965,
+        "name": "Nintendo no Golf",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1966,
+        "name": "Mario Bros. Special (PC-8801 Version)",
+        "platform": "PC-88",
+        "votes": 1
+    },
+    {
+        "id": 1967,
+        "name": "Puzzle Kana?",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1968,
+        "name": "Space Harrier",
+        "platform": "PC-88",
+        "votes": 1
+    },
+    {
+        "id": 1969,
+        "name": "Thunder Force",
+        "platform": "PC-88",
+        "votes": 1
+    },
+    {
+        "id": 1970,
+        "name": "1942",
+        "platform": "PC-88",
+        "votes": 1
+    },
+    {
+        "id": 1971,
+        "name": "Excitebike",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1972,
+        "name": "Dig Dug",
+        "platform": "PC-88",
+        "votes": 1
+    },
+    {
+        "id": 1973,
+        "name": "Shanghai II",
+        "platform": "PC-88",
+        "votes": 0
+    },
+    {
+        "id": 1974,
+        "name": "Champions: Return to Arms",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1975,
+        "name": "Mega Man Battle Network 4: Red Sun",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 1976,
+        "name": "Super Go-Kart Racing",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1977,
+        "name": "Abyss Seeker: What Do You See Deep in the Abyss",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1979,
+        "name": "Pok\u00e9mon Sweet Version",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 1980,
+        "name": "Micro Machines",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 1981,
+        "name": "Thunder Fox",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 1982,
+        "name": "Whopper Chase",
+        "platform": "Amstrad CPC",
+        "votes": 0
+    },
+    {
+        "id": 1983,
+        "name": "Taiyaki Fabulous Museum of Fish",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 1984,
+        "name": "Soul of the Samurai | Ronin Blade",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 1985,
+        "name": "Monster Max",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1986,
+        "name": "Prince of Persia: Warrior Within",
+        "platform": "PlayStation 2",
+        "votes": -1
+    },
+    {
+        "id": 1987,
+        "name": "Santa Claus Saves the Earth",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 1988,
+        "name": "Q*bert",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 1989,
+        "name": "Xenogears",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 1990,
+        "name": "Silent Scope",
+        "platform": "PlayStation 2",
+        "votes": 1
+    },
+    {
+        "id": 1991,
+        "name": "Silent Scope 2: Dark Silhouette",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1992,
+        "name": "Silent Scope 3",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 1993,
+        "name": "Gauntlet Legends",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 1994,
+        "name": "Red Dead Revolver",
+        "platform": "PlayStation 2",
+        "votes": 1
+    },
+    {
+        "id": 1996,
+        "name": "Frog Detective -1",
+        "platform": "Game Boy",
+        "votes": 1
+    },
+    {
+        "id": 1997,
+        "name": "Space Invaders Extreme 2",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 1998,
+        "name": "Exit",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1999,
+        "name": "Ninja Crusaders",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2000,
+        "name": "Metal Gear Solid: Peace Walker",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2001,
+        "name": "Metal Gear Solid: Portable Ops",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2002,
+        "name": "Metal Gear Solid: Portable Ops Plus",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2003,
+        "name": "Metal Gear Rising: Revengeance",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2004,
+        "name": "Metal Gear Solid V: Ground Zeroes",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2005,
+        "name": "Metal Gear Solid V: The Phantom Pain",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2006,
+        "name": "UnMetal",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2007,
+        "name": "Shin Megami Tensei: Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2008,
+        "name": "Shin Megami Tensei: Devil Survivor 2",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2009,
+        "name": "Persona 4: Arena",
+        "platform": "PlayStation 3",
+        "votes": 0
+    },
+    {
+        "id": 2010,
+        "name": "Shin Megami Tensei IV",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 2011,
+        "name": "Shin Megami Tensei IV: Apocalypse",
+        "platform": "Nintendo 3DS",
+        "votes": 0
+    },
+    {
+        "id": 2012,
+        "name": "Persona 4: Arena Ultimax",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2014,
+        "name": "Redline Crooks",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2015,
+        "name": "Hamepane: Tokyo Mew Mew",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2017,
+        "name": "Linda\u00b3 Again",
+        "platform": "PlayStation",
+        "votes": 59
+    },
+    {
+        "id": 2019,
+        "name": "Cracky Mini",
+        "platform": "WonderSwan",
+        "votes": 1
+    },
+    {
+        "id": 2020,
+        "name": "Star Ocean: Second Evolution",
+        "platform": "PlayStation Portable",
+        "votes": 1
+    },
+    {
+        "id": 2021,
+        "name": "Tobal 2",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 2022,
+        "name": "Tom Clancy's Rainbow Six Rogue Spear",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2023,
+        "name": "Renegade Rush",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 2024,
+        "name": "Super Mario World: Merry Mountain Christmas Adventure",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2026,
+        "name": "Kurohyou: Ryu ga Gotoku Shinshou",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2027,
+        "name": "Kurohyou 2: Ryu ga Gotoku Ashura-hen",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2028,
+        "name": "Judgment",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2029,
+        "name": "Lost Judgment",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2030,
+        "name": "Like a Dragon: Ishin!",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2031,
+        "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2032,
+        "name": "Like a Dragon: Infinite Wealth",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2033,
+        "name": "Like a Dragon: Pirate Yakuza in Hawaii",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2034,
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "platform": "Nintendo Switch",
+        "votes": 0
+    },
+    {
+        "id": 2035,
+        "name": "The Legend of Zelda: Echoes of Wisdom",
+        "platform": "Nintendo Switch",
+        "votes": 0
+    },
+    {
+        "id": 2036,
+        "name": "Arc the Lad II",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 2037,
+        "name": "Time Hollow",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2038,
+        "name": "Hi Hi Puffy AmiYumi: Kaznapped!",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2039,
+        "name": "Alien Syndrome",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 2040,
+        "name": "Phantasy Star 0",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 2041,
+        "name": "The Tower of Druaga",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2042,
+        "name": "Final Fantasy VI: The Eternal Crystals",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2043,
+        "name": "PGA Tour Golf III",
+        "platform": "Genesis/Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 2044,
+        "name": "Ogre Battle | Densetsu no Ogre Battle",
+        "platform": "Saturn",
+        "votes": 1
+    },
+    {
+        "id": 2045,
+        "name": "Digimon World: Data Squad",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2046,
+        "name": "ReCast FF3: War of the Magitek",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2047,
+        "name": "Henry Hatsworth in the Puzzling Adventure",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2048,
+        "name": "Rune Factory 2: A Fantasy Harvest Moon",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2049,
+        "name": "Crisis Core: Final Fantasy VII",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2050,
+        "name": "Final Fantasy Tactics",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2051,
+        "name": "Chocobo no Fushigi na Dungeon | Chocobo's Dungeon",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2052,
+        "name": "Final Fantasy VIII",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2053,
+        "name": "Little Master: Raikuban no Densetsu | Little Master: Legend of Richban",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 2054,
+        "name": "Super Mario Kart: Horizons",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2055,
+        "name": "Pok\u00e9mon: Orange Islands",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2056,
+        "name": "Super Boy 4",
+        "platform": "Master System",
+        "votes": 0
+    },
+    {
+        "id": 2057,
+        "name": "Nushi Tsuri Adventure: Kite no Bouken",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2058,
+        "name": "Battle Hunter",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2059,
+        "name": "Fighters Megamix",
+        "platform": "Saturn",
+        "votes": 1
+    },
+    {
+        "id": 2060,
+        "name": "Panic in Nakayoshi World",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2061,
+        "name": "Vasteel",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 2062,
+        "name": "IkachanDS",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2063,
+        "name": "Lord of the Sword",
+        "platform": "Master System",
+        "votes": 1
+    },
+    {
+        "id": 2064,
+        "name": "Activator",
+        "platform": "Amstrad CPC",
+        "votes": 0
+    },
+    {
+        "id": 2065,
+        "name": "Dirge of Cerberus: Final Fantasy VII",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2066,
+        "name": "Starship Patrol | Starship Defense",
+        "platform": "Nintendo DSi",
+        "votes": 0
+    },
+    {
+        "id": 2067,
+        "name": "Choro Q HG3 | Gadget Racers [Europe]",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2068,
+        "name": "G-ZERO World GP",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2069,
+        "name": "One Piece: Yume no Luffy Kaizokudan Tanjou!",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2070,
+        "name": "Galerians",
+        "platform": "PlayStation",
+        "votes": 2
+    },
+    {
+        "id": 2071,
+        "name": "Viewtiful Joe",
+        "platform": "GameCube",
+        "votes": 2
+    },
+    {
+        "id": 2072,
+        "name": "Fatal Fury Special",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 2074,
+        "name": "Cinnamon: Yume no Daibouken",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2075,
+        "name": "Inventory Full",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2076,
+        "name": "Bust-A-Move '99",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 2077,
+        "name": "Espgaluda",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 2078,
+        "name": "Vector TD",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2079,
+        "name": "GBA Microjam '23",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2080,
+        "name": "Gladius",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2081,
+        "name": "Big Nose Freaks Out",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2082,
+        "name": "Heavy Barrel",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 2083,
+        "name": "Shadow Brain",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2084,
+        "name": "Tom and Jerry in Mouse Attacks",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2085,
+        "name": "Kao the Kangaroo",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2086,
+        "name": "Zero Wing",
+        "platform": "Genesis/Mega Drive",
+        "votes": 1
+    },
+    {
+        "id": 2087,
+        "name": "Way of the Samurai",
+        "platform": "PlayStation 2",
+        "votes": 1
+    },
+    {
+        "id": 2088,
+        "name": "Shanghai.EXE: Genso Network",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2089,
+        "name": "Road Fighter",
+        "platform": "SG-1000",
+        "votes": 0
+    },
+    {
+        "id": 2090,
+        "name": "Jambo! Safari",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 2091,
+        "name": "Cave Story",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2092,
+        "name": "Final Fantasy VI: General Leo Edition",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2093,
+        "name": "Anubis II",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2094,
+        "name": "Chibi-Robo! Clean Sweep!",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 2095,
+        "name": "The Nightmare of Druaga: Fushigi no Dungeon",
+        "platform": "PlayStation 2",
+        "votes": 1
+    },
+    {
+        "id": 2096,
+        "name": "Koko Adventure",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2097,
+        "name": "Star Force",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 2098,
+        "name": "Crazy Machines 2",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2099,
+        "name": "Midnight Club: Street Racing",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2100,
+        "name": "Zooo: Action Puzzle Game",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2101,
+        "name": "Rampart (Konami)",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2102,
+        "name": "Berserk: Millennium Falcon Hen Seima Senki no Shou",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2103,
+        "name": "Dracula: Undead Awakening",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2104,
+        "name": "X-Men: Mutant Academy",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2105,
+        "name": "Super Bubble Pop",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 2106,
+        "name": "Cinnamon: Fuwafuwa Daisakusen",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2107,
+        "name": "Shin Megami Tensei",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2108,
+        "name": "Terraria",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2109,
+        "name": "Coaster Works | Jet Coaster Dream",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 2110,
+        "name": "BlaZeon: The Bio-Cyborg Challenge",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 2111,
+        "name": "SteamGear Mash",
+        "platform": "Saturn",
+        "votes": 1
+    },
+    {
+        "id": 2112,
+        "name": "Elemental Gearbolt",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 2113,
+        "name": "18 Card Games",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2114,
+        "name": "X-Men: Next Dimension",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 2115,
+        "name": "Super Locomotive",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 2116,
+        "name": "Tomb Raider: The Angel of Darkness",
+        "platform": "PlayStation 2",
+        "votes": -1
+    },
+    {
+        "id": 2117,
+        "name": "Brave Fencer Musashi",
+        "platform": "PlayStation",
+        "votes": 3
+    },
+    {
+        "id": 2118,
+        "name": "Trillion: God of Destruction",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2119,
+        "name": "Save Me, Sakuya-san!",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2120,
+        "name": "Fuga: Melodies of Steel",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2121,
+        "name": "Battalion Wars",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 2122,
+        "name": "Lost Ruins",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2123,
+        "name": "Twelve Minutes",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2124,
+        "name": "Cave Quest 2",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2125,
+        "name": "Garden Story",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2126,
+        "name": "Behind the Frame: The Finest Scenery",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2127,
+        "name": "Life is Strange: True Colors",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2128,
+        "name": "Tiny Bird Garden",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2129,
+        "name": "Half-Life: Source",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2130,
+        "name": "Half-Life 2",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2131,
+        "name": "Godzilla: The Series",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2132,
+        "name": "MS Saga: A New Dawn",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2134,
+        "name": "GRAVITY: Sylux's Crusade",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2135,
+        "name": "Final Fantasy VI Reimagined",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2136,
+        "name": "Dizzy: The Ultimate Cartoon Adventure",
+        "platform": "Amstrad CPC",
+        "votes": 1
+    },
+    {
+        "id": 2137,
+        "name": "Ar tonelico II: Melody of Metafalica",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2138,
+        "name": "FX Unit Yuki: The Henshin Engine",
+        "platform": "Genesis/Mega Drive",
+        "votes": 1
+    },
+    {
+        "id": 2139,
+        "name": "Super Off Road",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2140,
+        "name": "Children of Mana",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 2141,
+        "name": "Multiverse",
+        "platform": "ColecoVision",
+        "votes": 1
+    },
+    {
+        "id": 2142,
+        "name": "Pokemon Emerald Seaglass",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2143,
+        "name": "Namco X Capcom",
+        "platform": "PlayStation 2",
+        "votes": 1
+    },
+    {
+        "id": 2144,
+        "name": "Pac-Man World",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2145,
+        "name": "Rakugaki Showtime",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 2146,
+        "name": "Assembly Planter",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2147,
+        "name": "Plantabi: Little Garden",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2148,
+        "name": "Mega Man X DiVE Offline",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2149,
+        "name": "Ayakashi Akashi",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2150,
+        "name": "Liar Jeannie in Crucifix Kingdom",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2151,
+        "name": "Rabbit Hole in Eastern History",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2153,
+        "name": "Touhou-A-Live",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2154,
+        "name": "Card-en-Ciel",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2155,
+        "name": "Garden Witch Life",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2156,
+        "name": "Metal Bringer",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2157,
+        "name": "Petrified Pawns",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2158,
+        "name": "Slime Heroes",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2159,
+        "name": "TouHou Nil Soul",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2160,
+        "name": "LEGO Bricktales",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2161,
+        "name": "Peglin",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2162,
+        "name": "Crystal Project",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2163,
+        "name": "Touhou Souzinengi V -The Genius of Sappheiros-",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2164,
+        "name": "UFO 50",
+        "platform": "PC",
+        "votes": 2
+    },
+    {
+        "id": 2165,
+        "name": "Reignbreaker",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2166,
+        "name": "SMW: The Crown Tale",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2167,
+        "name": "Digimon Adventure 02: Tag Tamers",
+        "platform": "WonderSwan",
+        "votes": 1
+    },
+    {
+        "id": 2168,
+        "name": "Croc 2",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2169,
+        "name": "Endless Alice",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2170,
+        "name": "Emberward",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2171,
+        "name": "Wildfrost",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2172,
+        "name": "Vernal Edge",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2173,
+        "name": "Dragon Rage",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2174,
+        "name": "Fire Emblem Wars",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2175,
+        "name": "Buffy the Vampire Slayer: Wrath of the Darkhul King",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2176,
+        "name": "Edge of Eternity",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2177,
+        "name": "Stardust Skate",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2178,
+        "name": "Izon.",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2179,
+        "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? ~Fullland of Water and Light~",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2180,
+        "name": "Hunter of the Disowned",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2181,
+        "name": "Congo Bongo | Tip Top",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 2182,
+        "name": "Wonder Boy in Monster World",
+        "platform": "Master System",
+        "votes": 1
+    },
+    {
+        "id": 2183,
+        "name": "Rockman no Constancy",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2184,
+        "name": "Rockman L",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2185,
+        "name": "Rockman: Claw 2",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2186,
+        "name": "Rockman 2: Gray Zone",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2187,
+        "name": "Rockman 2: Basic Master",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2188,
+        "name": "Mega Man Wily's Conquest II: Hyper Edition Turbo!",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2189,
+        "name": "Mega Man Ultra",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2190,
+        "name": "Mega Man CX",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2191,
+        "name": "Sonic Shuffle",
+        "platform": "Dreamcast",
+        "votes": 0
+    },
+    {
+        "id": 2192,
+        "name": "Sushi For Robots",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2193,
+        "name": "Hololive Treasure Mountain",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2194,
+        "name": "Snow Battle Princess Sayuki",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2195,
+        "name": "Dark Deity",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2196,
+        "name": "Gal Guardians: Servants of the Dark",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2197,
+        "name": "Trials of Innocence",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2198,
+        "name": "The Beekeeper's Picnic: A Sherlockian Adventure",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2199,
+        "name": "AI Limit",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2200,
+        "name": "Myriad Death",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2201,
+        "name": "Tales of the Neon Sea",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2202,
+        "name": "Spin Hero",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2203,
+        "name": "Metal Unit",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2204,
+        "name": "Earnest Evans",
+        "platform": "Genesis/Mega Drive",
+        "votes": 1
+    },
+    {
+        "id": 2206,
+        "name": "Hot Wheels: Burnin' Rubber",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2207,
+        "name": "Gauntlet II",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2208,
+        "name": "Mega Man 3: Revamped",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2209,
+        "name": "Rockman 3: Claw",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2211,
+        "name": "Vs. Airman",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2212,
+        "name": "Mark Davis' The Fishing Master",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 2213,
+        "name": "Republique",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2214,
+        "name": "Touhou: Danmaku Kagura Phantasia Lost",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2215,
+        "name": "Twilight Monk",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2216,
+        "name": "Inayah: Life after Gods",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2217,
+        "name": "My Party Needs An Alchemist",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2218,
+        "name": "Guidus Zero",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2219,
+        "name": "Blade Chimera",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2220,
+        "name": "Gimmick! 2",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2221,
+        "name": "Chaos Caster",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2222,
+        "name": "Loser Reborn",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2223,
+        "name": "Tower Princess",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2224,
+        "name": "El Ne Rue",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2225,
+        "name": "Dimension Reign",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2226,
+        "name": "Lost in Fantaland",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2227,
+        "name": "Loop Hero",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2228,
+        "name": "Sword of the Necromancer",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2229,
+        "name": "Roboplant",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2230,
+        "name": "Run Saber",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 2232,
+        "name": "Fullmetal Alchemist: Stray Rondo",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2233,
+        "name": "Shadow Tower Abyss",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2234,
+        "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2235,
+        "name": "Zelda II: Amida's Curse",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2236,
+        "name": "Golden Sun: Dawn of Djinn",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2237,
+        "name": "Bubble Bobble: Old & New",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2238,
+        "name": "Oni",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2239,
+        "name": "HyperZone",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 2240,
+        "name": "Tomb Raider: Anniversary",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2241,
+        "name": "Trip World DX",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2242,
+        "name": "Mystery Case Files: Prime Suspects",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 2243,
+        "name": "Super Mariomon",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2244,
+        "name": "Wurm: Journey to the Center of the Earth",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2245,
+        "name": "National History Museum",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2246,
+        "name": "Pokescape: A Pok\u00e9mon Escape Room",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2247,
+        "name": "Pilo and the Holobook",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2248,
+        "name": "Tiny Garden",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2249,
+        "name": "Cassette Beasts",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2250,
+        "name": "All in Abyss: Judge the Fake",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2251,
+        "name": "Maid Cafe on Electric Street",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2252,
+        "name": "Blackwell Epiphany",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2253,
+        "name": "Blackwell Convergence",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2254,
+        "name": "Blackwell Deception",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2255,
+        "name": "Blackwell Unbound",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2256,
+        "name": "SD Dungeons",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2257,
+        "name": "Meganoid",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2258,
+        "name": "Soulkin",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2259,
+        "name": "Dice 'n Goblins",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2260,
+        "name": "Commander Quest",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2261,
+        "name": "Knock on the Coffin Lid",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2262,
+        "name": "Nif Nif",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2263,
+        "name": "Fantasy Aquarium",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2264,
+        "name": "Koi Farm",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2265,
+        "name": "Isle of Jura",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2266,
+        "name": "Sephiria",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2267,
+        "name": "Time Break Chronicles",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2268,
+        "name": "Infinity Blade II",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2269,
+        "name": "Last Archmage Journey of Light",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2270,
+        "name": "RP7: Spin Your Own Encounter",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2272,
+        "name": "Legendary Wings",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2273,
+        "name": "Library of Ruina",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2274,
+        "name": "Sweep",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2275,
+        "name": "Flare Nuinui Quest",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2276,
+        "name": "Critadel",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2277,
+        "name": "Yao-Guai Hunter",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2278,
+        "name": "Fubuki ~Zero In on Holoearth~",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2279,
+        "name": "Ultimate Hero",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2280,
+        "name": "Pecker",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2281,
+        "name": "Little Wings Deliveries",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2282,
+        "name": "AshGuine Story II: Kokuu no Gajou",
+        "platform": "MSX",
+        "votes": 0
+    },
+    {
+        "id": 2283,
+        "name": "CT Special Forces",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2284,
+        "name": "Stunt Race FX",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2285,
+        "name": "Fullmetal Alchemist: Dual Sympathy",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2286,
+        "name": "Mr. Prospector: Horiate-kun [untranslated]",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2287,
+        "name": "Fist of the North Star | Hokuto no Ken",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 2288,
+        "name": "CUBE",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2289,
+        "name": "Gungrave",
+        "platform": "PlayStation 2",
+        "votes": 1
+    },
+    {
+        "id": 2290,
+        "name": "Exit 2 | Kangaeru Exit",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2291,
+        "name": "SpongeBob and the Pit of 100 Trials",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 2292,
+        "name": "Broken Sword: The Shadow of the Templars",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2293,
+        "name": "The Legend of Zelda: Cube",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2294,
+        "name": "Where in Hell is Carmen Santiago?",
+        "platform": "Apple II",
+        "votes": 0
+    },
+    {
+        "id": 2295,
+        "name": "Atop the Witch's Tower WS",
+        "platform": "WonderSwan",
+        "votes": 0
+    },
+    {
+        "id": 2296,
+        "name": "Lock's Quest",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2297,
+        "name": "The Itsudemo Puzzle: Massugu Soroete Straws",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2298,
+        "name": "The King of Fighters '97 [untranslated]",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2299,
+        "name": "King of Fighters R-1: Pocket Fighting Series",
+        "platform": "Neo Geo Pocket",
+        "votes": 0
+    },
+    {
+        "id": 2300,
+        "name": "DoDonPachi DaiFukkatsu Black Label",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 2301,
+        "name": "Mushihimesama",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 2302,
+        "name": "Pokemon Yellow Legacy",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 2303,
+        "name": "Alphadia Genesis",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2304,
+        "name": "Yokai Landlord: Monster Mystery!",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2305,
+        "name": "Blue Prince",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2306,
+        "name": "Underquest",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2307,
+        "name": "Asura the Striker",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2308,
+        "name": "Phantom Brave: The Lost Hero",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2309,
+        "name": "SpellRogue",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2310,
+        "name": "Dolls Nest",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2311,
+        "name": "CyberCorp",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2312,
+        "name": "The Last Spell",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2313,
+        "name": "Throne of Bone",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2314,
+        "name": "Ender Theater",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2315,
+        "name": "Artisan TD",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2316,
+        "name": "Staffer Case",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2317,
+        "name": "Magic Rune Stone",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2318,
+        "name": "Aaero",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2319,
+        "name": "Survivor's Rhythm",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2320,
+        "name": "Piko Piko",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2321,
+        "name": "Cavalry Girls",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2322,
+        "name": "Girl Detective White Cat",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2323,
+        "name": "Harmonis: The Hand-Made Kingdoms",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2324,
+        "name": "Neptunia Riders VS Dogoos",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2325,
+        "name": "SignaNota",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2326,
+        "name": "Spire Blast",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2327,
+        "name": "StarVaders",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2328,
+        "name": "The Nameless: Slay Dragon",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2329,
+        "name": "V Rising",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2330,
+        "name": "Noel the Mortal Fate",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2331,
+        "name": "One Room Dungeon",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2332,
+        "name": "RWBY: Arrowfell",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2333,
+        "name": "Mario Party 7",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 2334,
+        "name": "Wizardry Gaiden 1: Suffering of the Queen",
+        "platform": "Game Boy",
+        "votes": 1
+    },
+    {
+        "id": 2335,
+        "name": "Wizardry Gaiden 2: Curse of the Ancient Emperor",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 2336,
+        "name": "Wizardry Gaiden 3: Scripture of the Dark",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 2337,
+        "name": "Koudai Yaoguai: Leaf Green I",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2338,
+        "name": "Bomberman 2",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 2339,
+        "name": "Guilty Gear XX \u266fReload",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2340,
+        "name": "Mario Kart: Double Dash Extended",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 2341,
+        "name": "BAZR",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 2342,
+        "name": "Mappy Kids",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2343,
+        "name": "Magical Drop III",
+        "platform": "Saturn",
+        "votes": 0
+    },
+    {
+        "id": 2344,
+        "name": "Solatorobo: Red the Hunter",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2345,
+        "name": "The Urbz: Sims in the City",
+        "platform": "Game Boy Advance",
+        "votes": 6
+    },
+    {
+        "id": 2346,
+        "name": "Hook",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 2347,
+        "name": "Mario's Point and Click 64",
+        "platform": "Nintendo 64",
+        "votes": 0
+    },
+    {
+        "id": 2348,
+        "name": "Ihatovo Monogatari | The Stories of Ihatovo",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 2349,
+        "name": "V-Rally 3",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2350,
+        "name": "Arabian Nights: Sabaku no Seirei Ou | Arabian Nights: Desert Spirit King",
+        "platform": "SNES",
+        "votes": 1
+    },
+    {
+        "id": 2351,
+        "name": "Guilty Gear Judgment",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2352,
+        "name": "Lunar: Dragon Song | Lunar Genesis",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2353,
+        "name": "Fallout: Brotherhood of Steel",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2354,
+        "name": "Ultimate Muscle: The Kinnikuman Legacy - The Path of the Superhero",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2355,
+        "name": "Mizzurna Falls",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2356,
+        "name": "Real Bout Fatal Fury Genesis",
+        "platform": "Genesis/Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 2357,
+        "name": "Echo Night",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2358,
+        "name": "Micro Machines: Turbo Tournament 96",
+        "platform": "Genesis/Mega Drive",
+        "votes": 0
+    },
+    {
+        "id": 2359,
+        "name": "Final Fantasy II: Job System",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2360,
+        "name": "Crash 'n' the Boys: Street Challenge",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2361,
+        "name": "Zendoku: Sudoku Battle Action",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2362,
+        "name": "Midnight Club: L.A. Remix",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2363,
+        "name": "Auto Rogue",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2364,
+        "name": "Captain Blood",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2365,
+        "name": "Castle of Secrets",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2366,
+        "name": "Cauldron",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 2367,
+        "name": "Endless Dungeon",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2368,
+        "name": "Final Zone",
+        "platform": "Genesis/Mega Drive",
+        "votes": 1
+    },
+    {
+        "id": 2369,
+        "name": "Gunbot Diplomacy",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2370,
+        "name": "Kamitsubaki City Ensemble",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2371,
+        "name": "Mayhem Maidens",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2372,
+        "name": "Talon's Blade",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2373,
+        "name": "TDS - Tower Defense Strategy",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2374,
+        "name": "The Slormancer",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2375,
+        "name": "The Summoner's Sky",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2376,
+        "name": "Touhou Spell Carnival",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2377,
+        "name": "Underworld",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2378,
+        "name": "Vambrace: Dungeon Monarch",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2379,
+        "name": "Veloria: The Knot of Candles",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2380,
+        "name": "Yasha: Legends of the Demon Blade",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2381,
+        "name": "Metal Gear",
+        "platform": "Genesis/Mega Drive",
+        "votes": 1
+    },
+    {
+        "id": 2382,
+        "name": "Digimon Tamers: Battle Spirit",
+        "platform": "WonderSwan",
+        "votes": 1
+    },
+    {
+        "id": 2383,
+        "name": "Star Wars Trilogy: Apprentice of the Force",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2384,
+        "name": "Download",
+        "platform": "PC Engine",
+        "votes": 1
+    },
+    {
+        "id": 2385,
+        "name": "Download 2",
+        "platform": "PC Engine CD",
+        "votes": 1
+    },
+    {
+        "id": 2386,
+        "name": "Prince of Persia",
+        "platform": "PC Engine CD",
+        "votes": 0
+    },
+    {
+        "id": 2387,
+        "name": "Tecmo's Deception: Invitation to Darkness",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2388,
+        "name": "Wipeout XL | Wipeout 2097",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2389,
+        "name": "Jurassic Park Institute Tour: Dinosaur Rescue",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2390,
+        "name": "Road & Track Presents: The Need for Speed",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2391,
+        "name": "The Illust Puzzle & Slide Puzzle [untranslated] [partial]",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2392,
+        "name": "Gnomes",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2393,
+        "name": "Sonic Battle",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2394,
+        "name": "Sonic Chronicles: The Dark Brotherhood",
+        "platform": "Nintendo DS",
+        "votes": 1
+    },
+    {
+        "id": 2395,
+        "name": "Airwolf",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 2396,
+        "name": "World Rally Championship",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2397,
+        "name": "Ninja JaJaMaru-kun",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 2398,
+        "name": "Devil Kings",
+        "platform": "PlayStation 2",
+        "votes": 0
+    },
+    {
+        "id": 2399,
+        "name": "Oshinui Tune",
+        "platform": "Game Boy Color",
+        "votes": 0
+    },
+    {
+        "id": 2400,
+        "name": "Shrek: Hassle at the Castle",
+        "platform": "Game Boy Advance",
+        "votes": 0
+    },
+    {
+        "id": 2401,
+        "name": "Vampire Savior 2: The Lord of Vampire",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 2402,
+        "name": "Godzilla",
+        "platform": "Arcade",
+        "votes": 0
+    },
+    {
+        "id": 2403,
+        "name": "Hudson Hawk",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2404,
+        "name": "Akai Katana",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 2405,
+        "name": "Worms: Open Warfare 2",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 2406,
+        "name": "TrackMania Turbo",
+        "platform": "Nintendo DS",
+        "votes": 0
+    },
+    {
+        "id": 2407,
+        "name": "Captain Commando",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 2408,
+        "name": "Where is my Heart?",
+        "platform": "PlayStation Portable",
+        "votes": 1
+    },
+    {
+        "id": 2409,
+        "name": "Record of Lodoss War",
+        "platform": "Dreamcast",
+        "votes": 1
     }
 ]

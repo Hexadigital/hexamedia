@@ -15,6 +15,8 @@
         {% set iconattributes = '"fa-brands fa-' ~ name_sanitized ~ ' fa-lg"' %}
       {% elif s[0] == 'Fediverse' %}
         {% set iconattributes = '"fa-solid fa-crow fa-lg"' %}
+      {% elif s[0] == 'Bluesky' %}
+        {% set iconattributes = '"fa-solid fa-dove fa-lg"' %}
       {% else %}
         {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-lg"' %}
       {% endif %}

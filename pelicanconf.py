@@ -17,7 +17,7 @@ STATIC_PATHS = ['images', 'files', 'js']
 #BOOTSTRAP_NAVBAR_INVERSE = True
 
 # About Me
-ABOUT_ME = '''Nice to meet you! I'm Hex, a VTuber focusing on playing games from start to end, from all eras and for all platforms. In my free time, I enjoy gardening and coding.'''
+ABOUT_ME = '''Nice to meet you! I'm Hexa, a VTuber focusing on playing games from start to end, from all eras and for all platforms. In my free time, I enjoy gardening and coding.'''
 
 AVATAR = 'images/avatar.png'
 
@@ -41,12 +41,13 @@ RSS_FEED_SUMMARY_ONLY = False
 
 # Social widget
 SOCIAL = (
+    ('Bluesky', 'https://bsky.app/profile/hexadigital.bsky.social'),
     ('Discord', 'https://discord.gg/a9khY6U'),
     ('Fediverse', 'https://bird.band/@Hexadigital'),
     #('Patreon', 'https://www.patreon.com/hexadigital'),
     ('Steam', 'https://store.steampowered.com/curator/34633900/'),
     ('Twitch', 'https://www.twitch.tv/hexadigital'),
-    ('Twitter', 'https://twitter.com/Hexadigital_'),
+    #('Twitter', 'https://twitter.com/Hexadigital_'),
     ('YouTube', 'https://www.youtube.com/c/HexsGameplay'),
 )
 

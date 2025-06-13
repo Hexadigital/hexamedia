@@ -9,8 +9,8 @@ for file in files:
 	#print(file)
 	with open('../twitch/redeems/checkin/' + file, 'r') as in_file:
 		jdata = json.load(in_file)
-	un = jdata['data']['redemption']['user']['login']
-	uid = str(jdata['data']['redemption']['user']['id'])
+	un = jdata['event']['user_login']
+	uid = str(jdata['event']['user_id'])
 	print(uid, un)
 	lb["id_to_username"][uid] = un
 	if uid in lb['ranks'].keys():

@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Common
 
-Collected by 11/191 users (5.76%)
+Collected by 16/243 users (6.58%)
 
 Drawn by <a href='#'>Unknown</a></center>
 
@@ -33,22 +33,47 @@ Drawn by <a href='#'>Unknown</a></center>
       </tr>
     <tr>
       <td>2</td>
+      <td><a href="https://www.twitch.tv/reddyslab">reddyslab</a></td>
+      <td>3</td>
+      </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://www.twitch.tv/sirryu">sirryu</a></td>
+      <td>3</td>
+      </tr>
+    <tr>
+      <td>2</td>
       <td><a href="https://www.twitch.tv/zamielpayne">zamielpayne</a></td>
       <td>3</td>
       </tr>
     <tr>
       <td>3</td>
-      <td><a href="https://www.twitch.tv/reddyslab">reddyslab</a></td>
+      <td><a href="https://www.twitch.tv/6horntaurus">6horntaurus</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://www.twitch.tv/yobri_">yobri_</a></td>
       <td>2</td>
       </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://www.twitch.tv/6horntaurus">6horntaurus</a></td>
+      <td><a href="https://www.twitch.tv/chevs2">chevs2</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="https://www.twitch.tv/craftsman4655">craftsman4655</a></td>
       <td>1</td>
       </tr>
     <tr>
       <td>4</td>
       <td><a href="https://www.twitch.tv/keiiplays">keiiplays</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="https://www.twitch.tv/lurilurilu">lurilurilu</a></td>
       <td>1</td>
       </tr>
     <tr>
@@ -63,7 +88,7 @@ Drawn by <a href='#'>Unknown</a></center>
       </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://www.twitch.tv/sirryu">sirryu</a></td>
+      <td><a href="https://www.twitch.tv/sayomalo">sayomalo</a></td>
       <td>1</td>
       </tr>
     <tr>

@@ -538,5 +538,239 @@ var jsonArray = [
         "name": "The Little Witch and The Lost Memories",
         "platform": "PC",
         "votes": 0
+    },
+    {
+        "id": 305,
+        "name": "BioShock 2",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 1035,
+        "name": "Breaker's",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 1516,
+        "name": "Deathsmiles",
+        "platform": "Arcade",
+        "votes": 2
+    },
+    {
+        "id": 1640,
+        "name": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 393,
+        "name": "Einhander",
+        "platform": "PlayStation",
+        "votes": 1
+    },
+    {
+        "id": 578,
+        "name": "Slay the Spire",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1898,
+        "name": "Skyborn",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 375,
+        "name": "Dishonored",
+        "platform": "PC",
+        "votes": 3
+    },
+    {
+        "id": 1900,
+        "name": "The Room",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1632,
+        "name": "Yakuza 5 Remastered",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 573,
+        "name": "Persona 4 Golden",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1936,
+        "name": "Air Rescue",
+        "platform": "Master System",
+        "votes": 1
+    },
+    {
+        "id": 1492,
+        "name": "Darkwing Duck",
+        "platform": "Game Boy",
+        "votes": 1
+    },
+    {
+        "id": 1847,
+        "name": "Sylvanian Melodies: Mori no Nakama to Odori Masho!",
+        "platform": "Game Boy Color",
+        "votes": 1
+    },
+    {
+        "id": 886,
+        "name": "God Hand",
+        "platform": "PlayStation 2",
+        "votes": 8
+    },
+    {
+        "id": 1639,
+        "name": "Metal Gear Acid 2",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1746,
+        "name": "Ninja Gaiden | Shadow Warriors",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 2073,
+        "name": "Airships: Lost Flotilla",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 1396,
+        "name": "Saturn Bomberman Fight!! [untranslated]",
+        "platform": "Saturn",
+        "votes": 1
+    },
+    {
+        "id": 1643,
+        "name": "Ashita no Joe",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 1226,
+        "name": "Crossed Swords",
+        "platform": "Neo Geo CD",
+        "votes": 1
+    },
+    {
+        "id": 569,
+        "name": "Shenmue",
+        "platform": "Dreamcast",
+        "votes": 30
+    },
+    {
+        "id": 520,
+        "name": "Murder by Numbers",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 696,
+        "name": "Mega Man 2",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2013,
+        "name": "Illusion Carnival",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 75,
+        "name": "Gato Roboto",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 697,
+        "name": "Mega Man 3",
+        "platform": "NES",
+        "votes": 1
+    },
+    {
+        "id": 1019,
+        "name": "Castlevania II: Simon's Quest",
+        "platform": "NES",
+        "votes": 0
+    },
+    {
+        "id": 2205,
+        "name": "The Room Two",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2231,
+        "name": "The Room Three",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 211,
+        "name": "Golden Sun: The Lost Age",
+        "platform": "Game Boy Advance",
+        "votes": 1
+    },
+    {
+        "id": 2271,
+        "name": "The Room 4: Old Sins",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 270,
+        "name": ".hack//Infection",
+        "platform": "PlayStation 2",
+        "votes": 47
+    },
+    {
+        "id": 1978,
+        "name": "Dungeon Clawler",
+        "platform": "PC",
+        "votes": 2
+    },
+    {
+        "id": 1645,
+        "name": "20 Challenges: Episode 1 - A feard enemy",
+        "platform": "SNES",
+        "votes": 0
+    },
+    {
+        "id": 2016,
+        "name": "Final Fantasy VII",
+        "platform": "PlayStation",
+        "votes": 0
+    },
+    {
+        "id": 141,
+        "name": "Fantasy Mosaics 14: Fourth Color",
+        "platform": "PC",
+        "votes": 1
+    },
+    {
+        "id": 1805,
+        "name": "Eco Fighters | Ultimate Ecology",
+        "platform": "Arcade",
+        "votes": 1
+    },
+    {
+        "id": 792,
+        "name": "Super Mario Kart",
+        "platform": "SNES",
+        "votes": 0
     }
 ]

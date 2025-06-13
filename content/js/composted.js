@@ -484,5 +484,41 @@ var jsonArray = [
         "name": "Hotel Dusk: Room 215",
         "platform": "Nintendo DS",
         "votes": 2
+    },
+    {
+        "id": 1669,
+        "name": "Kirby Air Ride",
+        "platform": "GameCube",
+        "votes": 0
+    },
+    {
+        "id": 1706,
+        "name": "Everyday Shooter",
+        "platform": "PlayStation Portable",
+        "votes": 0
+    },
+    {
+        "id": 1995,
+        "name": "Bat to the Heavens",
+        "platform": "PC",
+        "votes": 0
+    },
+    {
+        "id": 2018,
+        "name": "Super Robot Taisen",
+        "platform": "Game Boy",
+        "votes": 0
+    },
+    {
+        "id": 1506,
+        "name": "Deep Dungeon",
+        "platform": "Game Boy",
+        "votes": 1
+    },
+    {
+        "id": 2133,
+        "name": "Wolfstride",
+        "platform": "PC",
+        "votes": 0
     }
 ]

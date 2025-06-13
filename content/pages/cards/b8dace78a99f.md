@@ -8,7 +8,7 @@ Status: Hidden
 
 Rarity: Uncommon
 
-Collected by 11/191 users (5.76%)
+Collected by 17/243 users (7.00%)
 
 Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
 
@@ -23,56 +23,86 @@ Drawn by <a href='https://twitter.com/u_toki_u'>u_toki_u</a></center>
   <tbody>
     <tr>
       <td>1</td>
+      <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
+      <td>6</td>
+      </tr>
+    <tr>
+      <td>2</td>
       <td><a href="https://www.twitch.tv/bezelea">bezelea</a></td>
       <td>4</td>
       </tr>
     <tr>
-      <td>2</td>
-      <td><a href="https://www.twitch.tv/murdervt">murdervt</a></td>
+      <td>3</td>
+      <td><a href="https://www.twitch.tv/iampanis">iampanis</a></td>
       <td>3</td>
       </tr>
     <tr>
       <td>3</td>
+      <td><a href="https://www.twitch.tv/sirryu">sirryu</a></td>
+      <td>3</td>
+      </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="https://www.twitch.tv/6horntaurus">6horntaurus</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/jimmy_mapp">jimmy_mapp</a></td>
       <td>2</td>
       </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td><a href="https://www.twitch.tv/prodzpod">prodzpod</a></td>
       <td>2</td>
       </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://www.twitch.tv/azuradotexe">azuradotexe</a></td>
-      <td>1</td>
+      <td><a href="https://www.twitch.tv/reddyslab">reddyslab</a></td>
+      <td>2</td>
       </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://www.twitch.tv/iampanis">iampanis</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>4</td>
-      <td><a href="https://www.twitch.tv/lurilurilu">lurilurilu</a></td>
-      <td>1</td>
-      </tr>
-    <tr>
-      <td>4</td>
-      <td><a href="https://www.twitch.tv/novapantsu">novapantsu</a></td>
-      <td>1</td>
+      <td><a href="https://www.twitch.tv/sayomalo">sayomalo</a></td>
+      <td>2</td>
       </tr>
     <tr>
       <td>4</td>
       <td><a href="https://www.twitch.tv/sperbus">sperbus</a></td>
+      <td>2</td>
+      </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="https://www.twitch.tv/azuradotexe">azuradotexe</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
+      <td><a href="https://www.twitch.tv/colekus">colekus</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="https://www.twitch.tv/liquidcake1">liquidcake1</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="https://www.twitch.tv/lurilurilu">lurilurilu</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="https://www.twitch.tv/novapantsu">novapantsu</a></td>
+      <td>1</td>
+      </tr>
+    <tr>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/tzaro_ch">tzaro_ch</a></td>
       <td>1</td>
       </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://www.twitch.tv/xa44">xa44</a></td>
       <td>1</td>
       </tr>
